@@ -1,0 +1,891 @@
+{
+  "id" : "A54404",
+  "authors" : [ "Perrin, Pierre" ],
+  "title" : "Ariadne, or The Marriage of Bacchus",
+  "dramatisPersonae" : {
+    "id" : "A54404-e730",
+    "pb" : "A54404-006-a",
+    "items" : [ [ "BACCHUS." ], [ "BARIADNE — The Daughter of Minos King of Crete, forsaken by Theseus." ], [ "VENUS." ], [ "EUPHROSINE — A Grace." ], [ "SILENE — An old Satyr, Bacchus's Foster-Father." ], [ "Coribants attending Bacchus." ], [ "MARS." ], [ "BELLONA." ], [ "APOLLO." ], [ "DIANA." ], [ "THETIS," ], [ "HERCULES." ], [ "MEGERA — A Furie." ], [ "Shepherdesses. CLORIS, PHILLIS," ], [ "CLORIS," ], [ "PHILLIS," ], [ "DAMON — A Sheperd in Love with Cloris." ], [ "Saliens and Satyrs Dancing." ], [ "Salien-Priests of Bacchus." ], [ "INDIAN-Kings, slaves to Bacchus." ], [ "Sea-Gods." ], [ "Bacchantes, Satyrs and Clownes." ], [ "Hoboyes and Symphonies of Bacchus, Mars and Venus." ], [ "Alecton, and Thisphone, Furies." ], [ "Pasithae and Thae, Graces." ], [ "Zephirs, Windes." ], [ "Cupids." ], [ "Souldiers." ], [ "I. A Prospect of London and the Thamiis." ], [ "II. Bacchus's Palace and Court." ], [ "III. The Sea with several Shoars." ], [ "IV. A Desart or Wilderness." ], [ "V. A Garden with Venus's Grotto." ], [ "VI. A stately Room in Bacchus's Palace." ] ]
+  },
+  "speeches" : [ {
+    "id" : "A54404-e1550",
+    "pb" : "A54404-007-a",
+    "speaker" : "Thamis ."
+  }, {
+    "id" : "A54404-e1720",
+    "pb" : "A54404-007-a",
+    "speaker" : "Tyber ."
+  }, {
+    "id" : "A54404-e1870",
+    "pb" : "A54404-007-b",
+    "speaker" : "Seine the 3d. Nimp ."
+  }, {
+    "id" : "A54404-e2010",
+    "pb" : "A54404-007-b",
+    "speaker" : "Thamis ."
+  }, {
+    "id" : "A54404-e2070",
+    "pb" : "A54404-008-a",
+    "speaker" : "Tyber ."
+  }, {
+    "id" : "A54404-e2120",
+    "pb" : "A54404-008-a",
+    "speaker" : "Seine ."
+  }, {
+    "id" : "A54404-e2160",
+    "pb" : "A54404-008-a",
+    "speaker" : "Tyber ."
+  }, {
+    "id" : "A54404-e2210",
+    "pb" : "A54404-008-a",
+    "speaker" : "Thamice ."
+  }, {
+    "id" : "A54404-e2280",
+    "pb" : "A54404-008-a",
+    "speaker" : "Tyber ."
+  }, {
+    "id" : "A54404-e2320",
+    "pb" : "A54404-008-a",
+    "speaker" : "Seine ."
+  }, {
+    "id" : "A54404-e2360",
+    "pb" : "A54404-008-a",
+    "speaker" : "All three together ."
+  }, {
+    "id" : "A54404-e2450",
+    "pb" : "A54404-008-b",
+    "speaker" : "Po"
+  }, {
+    "id" : "A54404-e2640",
+    "pb" : "A54404-008-b",
+    "speaker" : "Thamis ."
+  }, {
+    "id" : "A54404-e2780",
+    "pb" : "A54404-010-a",
+    "speaker" : "All these Four"
+  }, {
+    "id" : "A54404-e2940",
+    "pb" : "A54404-010-b",
+    "speaker" : "Cliton ."
+  }, {
+    "id" : "A54404-e3090",
+    "pb" : "A54404-011-a",
+    "speaker" : "Clyton"
+  }, {
+    "id" : "A54404-e3270",
+    "pb" : "A54404-011-a",
+    "speaker" : "All together ."
+  }, {
+    "id" : "A54404-e3310",
+    "pb" : "A54404-011-a",
+    "speaker" : "Silene"
+  }, {
+    "id" : "A54404-e3440",
+    "pb" : "A54404-011-b",
+    "speaker" : "Silene 2."
+  }, {
+    "id" : "A54404-e3500",
+    "pb" : "A54404-011-b",
+    "speaker" : "Clytton and the Corybants ."
+  }, {
+    "id" : "A54404-e3540",
+    "pb" : "A54404-011-b",
+    "speaker" : "Silen ."
+  }, {
+    "id" : "A54404-e3570",
+    "pb" : "A54404-011-b",
+    "speaker" : "The same again ."
+  }, {
+    "id" : "A54404-e3650",
+    "pb" : "A54404-012-a",
+    "speaker" : "Bacchus ."
+  }, {
+    "id" : "A54404-e3710",
+    "pb" : "A54404-012-a",
+    "speaker" : "Coribants ."
+  }, {
+    "id" : "A54404-e3760",
+    "pb" : "A54404-012-a",
+    "speaker" : "Venus and Euphrosine ."
+  }, {
+    "id" : "A54404-e3810",
+    "pb" : "A54404-012-a",
+    "speaker" : "Coribants ."
+  }, {
+    "id" : "A54404-e3850",
+    "pb" : "A54404-012-a",
+    "speaker" : "Venus and Euphrosine ."
+  }, {
+    "id" : "A54404-e3890",
+    "pb" : "A54404-012-a",
+    "speaker" : "Corybants ."
+  }, {
+    "id" : "A54404-e3920",
+    "pb" : "A54404-012-a",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e3950",
+    "pb" : "A54404-012-b",
+    "speaker" : "Coribants ."
+  }, {
+    "id" : "A54404-e4000",
+    "pb" : "A54404-012-b",
+    "speaker" : "Bacchus ."
+  }, {
+    "id" : "A54404-e4080",
+    "pb" : "A54404-012-b",
+    "speaker" : "Bacchus 2."
+  }, {
+    "id" : "A54404-e4300",
+    "pb" : "A54404-013-a",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e4410",
+    "pb" : "A54404-013-a",
+    "speaker" : "Euphrosine ."
+  }, {
+    "id" : "A54404-e4470",
+    "pb" : "A54404-013-a",
+    "speaker" : "Venus and Euphrosine ."
+  }, {
+    "id" : "A54404-e4570",
+    "pb" : "A54404-013-b",
+    "speaker" : "Silene and Coryb ."
+  }, {
+    "id" : "A54404-e4640",
+    "pb" : "A54404-013-b",
+    "speaker" : "Coryb ."
+  }, {
+    "id" : "A54404-e4690",
+    "pb" : "A54404-013-b",
+    "speaker" : "Silene ."
+  }, {
+    "id" : "A54404-e4740",
+    "pb" : "A54404-013-b",
+    "speaker" : "Coryb ."
+  }, {
+    "id" : "A54404-e4780",
+    "pb" : "A54404-013-b",
+    "speaker" : "Silene ."
+  }, {
+    "id" : "A54404-e4830",
+    "pb" : "A54404-013-b",
+    "speaker" : "All together ."
+  }, {
+    "id" : "A54404-e5010",
+    "pb" : "A54404-014-a",
+    "speaker" : "Mars ."
+  }, {
+    "id" : "A54404-e5050",
+    "pb" : "A54404-014-a",
+    "speaker" : "Bellona ."
+  }, {
+    "id" : "A54404-e5090",
+    "pb" : "A54404-014-a",
+    "speaker" : "Mars ."
+  }, {
+    "id" : "A54404-e5140",
+    "pb" : "A54404-014-a",
+    "speaker" : "Bellona ."
+  }, {
+    "id" : "A54404-e5200",
+    "pb" : "A54404-014-b",
+    "speaker" : "Mars ."
+  }, {
+    "id" : "A54404-e5260",
+    "pb" : "A54404-014-b",
+    "speaker" : "Bellona ."
+  }, {
+    "id" : "A54404-e5370",
+    "pb" : "A54404-014-b",
+    "speaker" : "Mars ."
+  }, {
+    "id" : "A54404-e5600",
+    "pb" : "A54404-015-a",
+    "speaker" : "Bellona ."
+  }, {
+    "id" : "A54404-e5860",
+    "pb" : "A54404-016-a",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e6000",
+    "pb" : "A54404-016-a",
+    "speaker" : "Phillis"
+  }, {
+    "id" : "A54404-e6100",
+    "pb" : "A54404-016-b",
+    "speaker" : "Philis 2."
+  }, {
+    "id" : "A54404-e6240",
+    "pb" : "A54404-017-a",
+    "speaker" : "Damon ."
+  }, {
+    "id" : "A54404-e6300",
+    "pb" : "A54404-017-a",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e6340",
+    "pb" : "A54404-017-a",
+    "speaker" : "Damon ."
+  }, {
+    "id" : "A54404-e6380",
+    "pb" : "A54404-017-a",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e6430",
+    "pb" : "A54404-017-a",
+    "speaker" : "Damon ."
+  }, {
+    "id" : "A54404-e6470",
+    "pb" : "A54404-017-a",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e6510",
+    "pb" : "A54404-017-a",
+    "speaker" : "Damon ."
+  }, {
+    "id" : "A54404-e6550",
+    "pb" : "A54404-017-b",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e6690",
+    "pb" : "A54404-017-b",
+    "speaker" : "Ariadne ."
+  }, {
+    "id" : "A54404-e6830",
+    "pb" : "A54404-018-a",
+    "speaker" : "Silen ."
+  }, {
+    "id" : "A54404-e6900",
+    "pb" : "A54404-018-a",
+    "speaker" : "Ariana"
+  }, {
+    "id" : "A54404-e7030",
+    "pb" : "A54404-018-a",
+    "speaker" : "Silene"
+  }, {
+    "id" : "A54404-e7100",
+    "pb" : "A54404-018-b",
+    "speaker" : "Ariadne"
+  }, {
+    "id" : "A54404-e7210",
+    "pb" : "A54404-018-b",
+    "speaker" : "Silene ."
+  }, {
+    "id" : "A54404-e7240",
+    "pb" : "A54404-018-b",
+    "speaker" : "Clitton ."
+  }, {
+    "id" : "A54404-e7270",
+    "pb" : "A54404-018-b",
+    "speaker" : "Bacchus ."
+  }, {
+    "id" : "A54404-e7300",
+    "pb" : "A54404-018-b",
+    "speaker" : "Silene ."
+  }, {
+    "id" : "A54404-e7330",
+    "pb" : "A54404-018-b",
+    "speaker" : "Clitton ."
+  }, {
+    "id" : "A54404-e7360",
+    "pb" : "A54404-019-a",
+    "speaker" : "Silene"
+  }, {
+    "id" : "A54404-e7400",
+    "pb" : "A54404-019-a",
+    "speaker" : "Ariadne"
+  }, {
+    "id" : "A54404-e7570",
+    "pb" : "A54404-019-a",
+    "speaker" : "Bacchus ."
+  }, {
+    "id" : "A54404-e7730",
+    "pb" : "A54404-019-b",
+    "speaker" : "Clitton ."
+  }, {
+    "id" : "A54404-e7770",
+    "pb" : "A54404-019-b",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e7810",
+    "pb" : "A54404-019-b",
+    "speaker" : "Silene ."
+  }, {
+    "id" : "A54404-e7840",
+    "pb" : "A54404-019-b",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e7870",
+    "pb" : "A54404-019-b",
+    "speaker" : "Clit. and Sil."
+  }, {
+    "id" : "A54404-e7910",
+    "pb" : "A54404-019-b",
+    "speaker" : "Clor."
+  }, {
+    "id" : "A54404-e7960",
+    "pb" : "A54404-019-b",
+    "speaker" : "Clit. and Sil."
+  }, {
+    "id" : "A54404-e8000",
+    "pb" : "A54404-020-a",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e8130",
+    "pb" : "A54404-020-a",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e8220",
+    "pb" : "A54404-020-a",
+    "speaker" : "Megere ."
+  }, {
+    "id" : "A54404-e8300",
+    "pb" : "A54404-020-a",
+    "speaker" : "Bellona ."
+  }, {
+    "id" : "A54404-e8650",
+    "pb" : "A54404-021-b",
+    "speaker" : "Bacchus"
+  }, {
+    "id" : "A54404-e8810",
+    "pb" : "A54404-021-b",
+    "speaker" : "Ariadne ."
+  }, {
+    "id" : "A54404-e8850",
+    "pb" : "A54404-021-b",
+    "speaker" : "Bac."
+  }, {
+    "id" : "A54404-e8900",
+    "pb" : "A54404-022-a",
+    "speaker" : "Ariadne ."
+  }, {
+    "id" : "A54404-e8930",
+    "pb" : "A54404-022-a",
+    "speaker" : "Bac."
+  }, {
+    "id" : "A54404-e8970",
+    "pb" : "A54404-022-a",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e9000",
+    "pb" : "A54404-022-a",
+    "speaker" : "Bac."
+  }, {
+    "id" : "A54404-e9040",
+    "pb" : "A54404-022-a",
+    "speaker" : "Ariadne ."
+  }, {
+    "id" : "A54404-e9100",
+    "pb" : "A54404-022-a",
+    "speaker" : "Bac."
+  }, {
+    "id" : "A54404-e9130",
+    "pb" : "A54404-022-a",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e9160",
+    "pb" : "A54404-022-b",
+    "speaker" : "Bac."
+  }, {
+    "id" : "A54404-e9190",
+    "pb" : "A54404-022-b",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e9220",
+    "pb" : "A54404-022-b",
+    "speaker" : "Bac."
+  }, {
+    "id" : "A54404-e9250",
+    "pb" : "A54404-022-b",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e9290",
+    "pb" : "A54404-022-b",
+    "speaker" : "Bac."
+  }, {
+    "id" : "A54404-e9320",
+    "pb" : "A54404-022-b",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e9350",
+    "pb" : "A54404-022-b",
+    "speaker" : "Bac."
+  }, {
+    "id" : "A54404-e9380",
+    "pb" : "A54404-022-b",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e9420",
+    "pb" : "A54404-022-b",
+    "speaker" : "Bac."
+  }, {
+    "id" : "A54404-e9460",
+    "pb" : "A54404-022-b",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e9550",
+    "pb" : "A54404-023-a",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e9590",
+    "pb" : "A54404-023-a",
+    "speaker" : "Euphrosine ."
+  }, {
+    "id" : "A54404-e9630",
+    "pb" : "A54404-023-a",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e9720",
+    "pb" : "A54404-023-a",
+    "speaker" : "Bacchus ."
+  }, {
+    "id" : "A54404-e9790",
+    "pb" : "A54404-023-a",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e9820",
+    "pb" : "A54404-023-b",
+    "speaker" : "Bacc."
+  }, {
+    "id" : "A54404-e9850",
+    "pb" : "A54404-023-b",
+    "speaker" : "Venus and Euphro ."
+  }, {
+    "id" : "A54404-e9940",
+    "pb" : "A54404-023-b",
+    "speaker" : "Bacc."
+  }, {
+    "id" : "A54404-e10070",
+    "pb" : "A54404-023-b",
+    "speaker" : "Mars , Bellona , and Furies together ."
+  }, {
+    "id" : "A54404-e10120",
+    "pb" : "A54404-024-a",
+    "speaker" : "Bellona"
+  }, {
+    "id" : "A54404-e10180",
+    "pb" : "A54404-024-a",
+    "speaker" : "Mars ."
+  }, {
+    "id" : "A54404-e10240",
+    "pb" : "A54404-024-a",
+    "speaker" : "All three ."
+  }, {
+    "id" : "A54404-e10290",
+    "pb" : "A54404-024-a",
+    "speaker" : "Mars"
+  }, {
+    "id" : "A54404-e10370",
+    "pb" : "A54404-024-a",
+    "speaker" : "Bellon ."
+  }, {
+    "id" : "A54404-e10480",
+    "pb" : "A54404-024-b",
+    "speaker" : "Mars , Bellon ."
+  }, {
+    "id" : "A54404-e10510",
+    "pb" : "A54404-024-b",
+    "speaker" : "Apollo , Dian. Hercul ."
+  }, {
+    "id" : "A54404-e10550",
+    "pb" : "A54404-024-b",
+    "speaker" : "Bellon ."
+  }, {
+    "id" : "A54404-e10580",
+    "pb" : "A54404-024-b",
+    "speaker" : "Apoll. Dian. Hercul ."
+  }, {
+    "id" : "A54404-e10610",
+    "pb" : "A54404-024-b",
+    "speaker" : "Mars ."
+  }, {
+    "id" : "A54404-e10640",
+    "pb" : "A54404-024-b",
+    "speaker" : "Bellon ."
+  }, {
+    "id" : "A54404-e10690",
+    "pb" : "A54404-025-a",
+    "speaker" : "All them together ."
+  }, {
+    "id" : "A54404-e10770",
+    "pb" : "A54404-025-a",
+    "speaker" : "Mars"
+  }, {
+    "id" : "A54404-e10910",
+    "pb" : "A54404-025-a",
+    "speaker" : "Aria ."
+  }, {
+    "id" : "A54404-e10960",
+    "pb" : "A54404-025-b",
+    "speaker" : "Bac."
+  }, {
+    "id" : "A54404-e11020",
+    "pb" : "A54404-025-b",
+    "speaker" : "Mars ."
+  }, {
+    "id" : "A54404-e11050",
+    "pb" : "A54404-025-b",
+    "speaker" : "Bacchus ."
+  }, {
+    "id" : "A54404-e11110",
+    "pb" : "A54404-025-b",
+    "speaker" : "Bellon ."
+  }, {
+    "id" : "A54404-e11140",
+    "pb" : "A54404-025-b",
+    "speaker" : "Euphro ."
+  }, {
+    "id" : "A54404-e11170",
+    "pb" : "A54404-025-b",
+    "speaker" : "Bellon ."
+  }, {
+    "id" : "A54404-e11200",
+    "pb" : "A54404-025-b",
+    "speaker" : "Euphro ."
+  }, {
+    "id" : "A54404-e11230",
+    "pb" : "A54404-025-b",
+    "speaker" : "Bellon ."
+  }, {
+    "id" : "A54404-e11260",
+    "pb" : "A54404-025-b",
+    "speaker" : "Bacchus ."
+  }, {
+    "id" : "A54404-e11380",
+    "pb" : "A54404-026-a",
+    "speaker" : "Mars ."
+  }, {
+    "id" : "A54404-e11420",
+    "pb" : "A54404-026-a",
+    "speaker" : "Diana and Apollo ."
+  }, {
+    "id" : "A54404-e11890",
+    "pb" : "A54404-027-a",
+    "speaker" : "Damon ."
+  }, {
+    "id" : "A54404-e12080",
+    "pb" : "A54404-027-b",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e12170",
+    "pb" : "A54404-027-b",
+    "speaker" : "Clitton"
+  }, {
+    "id" : "A54404-e12260",
+    "pb" : "A54404-027-b",
+    "speaker" : "Cloris and Clitton"
+  }, {
+    "id" : "A54404-e12380",
+    "pb" : "A54404-028-a",
+    "speaker" : "Damon ."
+  }, {
+    "id" : "A54404-e12420",
+    "pb" : "A54404-028-a",
+    "speaker" : "Clit. Clor."
+  }, {
+    "id" : "A54404-e12450",
+    "pb" : "A54404-028-a",
+    "speaker" : "Dam."
+  }, {
+    "id" : "A54404-e12480",
+    "pb" : "A54404-028-a",
+    "speaker" : "Clit."
+  }, {
+    "id" : "A54404-e12520",
+    "pb" : "A54404-028-a",
+    "speaker" : "Dam."
+  }, {
+    "id" : "A54404-e12550",
+    "pb" : "A54404-028-a",
+    "speaker" : "Clor. and Clit."
+  }, {
+    "id" : "A54404-e12630",
+    "pb" : "A54404-028-b",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e12660",
+    "pb" : "A54404-028-b",
+    "speaker" : "Clitton ."
+  }, {
+    "id" : "A54404-e12690",
+    "pb" : "A54404-028-b",
+    "speaker" : "Aria ."
+  }, {
+    "id" : "A54404-e12730",
+    "pb" : "A54404-028-b",
+    "speaker" : "Phillis ."
+  }, {
+    "id" : "A54404-e12880",
+    "pb" : "A54404-028-b",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e12930",
+    "pb" : "A54404-029-a",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e12960",
+    "pb" : "A54404-029-a",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e13010",
+    "pb" : "A54404-029-a",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e13050",
+    "pb" : "A54404-029-a",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e13100",
+    "pb" : "A54404-029-a",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e13160",
+    "pb" : "A54404-029-a",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e13300",
+    "pb" : "A54404-029-b",
+    "speaker" : "Bacc."
+  }, {
+    "id" : "A54404-e13340",
+    "pb" : "A54404-029-b",
+    "speaker" : "Aria ."
+  }, {
+    "id" : "A54404-e13380",
+    "pb" : "A54404-029-b",
+    "speaker" : "Bacc."
+  }, {
+    "id" : "A54404-e13410",
+    "pb" : "A54404-029-b",
+    "speaker" : "Aria ."
+  }, {
+    "id" : "A54404-e13440",
+    "pb" : "A54404-029-b",
+    "speaker" : "Bacc."
+  }, {
+    "id" : "A54404-e13470",
+    "pb" : "A54404-029-b",
+    "speaker" : "Aria ."
+  }, {
+    "id" : "A54404-e13500",
+    "pb" : "A54404-029-b",
+    "speaker" : "Bacc."
+  }, {
+    "id" : "A54404-e13540",
+    "pb" : "A54404-029-b",
+    "speaker" : "Aria ."
+  }, {
+    "id" : "A54404-e13570",
+    "pb" : "A54404-029-b",
+    "speaker" : "Bacc."
+  }, {
+    "id" : "A54404-e13600",
+    "pb" : "A54404-030-a",
+    "speaker" : "Aria ."
+  }, {
+    "id" : "A54404-e13630",
+    "pb" : "A54404-030-a",
+    "speaker" : "Bacc."
+  }, {
+    "id" : "A54404-e13660",
+    "pb" : "A54404-030-a",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e13690",
+    "pb" : "A54404-030-a",
+    "speaker" : "Bacc."
+  }, {
+    "id" : "A54404-e13720",
+    "pb" : "A54404-030-a",
+    "speaker" : "Aria ."
+  }, {
+    "id" : "A54404-e13750",
+    "pb" : "A54404-030-a",
+    "speaker" : "Bacchus ."
+  }, {
+    "id" : "A54404-e13780",
+    "pb" : "A54404-030-a",
+    "speaker" : "Aria ."
+  }, {
+    "id" : "A54404-e13810",
+    "pb" : "A54404-030-a",
+    "speaker" : "Clit. Euphro ."
+  }, {
+    "id" : "A54404-e13920",
+    "pb" : "A54404-030-b",
+    "speaker" : "Silene"
+  }, {
+    "id" : "A54404-e13960",
+    "pb" : "A54404-030-b",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e13990",
+    "pb" : "A54404-030-b",
+    "speaker" : "Silene ."
+  }, {
+    "id" : "A54404-e14040",
+    "pb" : "A54404-030-b",
+    "speaker" : "Venus"
+  }, {
+    "id" : "A54404-e14080",
+    "pb" : "A54404-030-b",
+    "speaker" : "Euphro ."
+  }, {
+    "id" : "A54404-e14110",
+    "pb" : "A54404-030-b",
+    "speaker" : "Silene ."
+  }, {
+    "id" : "A54404-e14150",
+    "pb" : "A54404-030-b",
+    "speaker" : "Euphro ."
+  }, {
+    "id" : "A54404-e14190",
+    "pb" : "A54404-030-b",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e14230",
+    "pb" : "A54404-030-b",
+    "speaker" : "Bacc."
+  }, {
+    "id" : "A54404-e14260",
+    "pb" : "A54404-030-b",
+    "speaker" : "All together ."
+  }, {
+    "id" : "A54404-e14300",
+    "pb" : "A54404-031-a",
+    "speaker" : "Silen . and Corib."
+  }, {
+    "id" : "A54404-e14470",
+    "pb" : "A54404-031-b",
+    "speaker" : "A Corib."
+  }, {
+    "id" : "A54404-e14540",
+    "pb" : "A54404-031-b",
+    "speaker" : "Another Corib."
+  }, {
+    "id" : "A54404-e14600",
+    "pb" : "A54404-031-b",
+    "speaker" : "A third Corib."
+  }, {
+    "id" : "A54404-e14710",
+    "pb" : "A54404-032-a",
+    "speaker" : "Silene ."
+  }, {
+    "id" : "A54404-e14870",
+    "pb" : "A54404-032-a",
+    "speaker" : "Bacchus , Ariad. both ."
+  }, {
+    "id" : "A54404-e14920",
+    "pb" : "A54404-032-a",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e14950",
+    "pb" : "A54404-032-b",
+    "speaker" : "Bacchus ."
+  }, {
+    "id" : "A54404-e15000",
+    "pb" : "A54404-032-b",
+    "speaker" : "Ariad."
+  }, {
+    "id" : "A54404-e15090",
+    "pb" : "A54404-032-b",
+    "speaker" : "Phillis ."
+  }, {
+    "id" : "A54404-e15170",
+    "pb" : "A54404-032-b",
+    "speaker" : "A Corib."
+  }, {
+    "id" : "A54404-e15230",
+    "pb" : "A54404-033-a",
+    "speaker" : "Cloris"
+  }, {
+    "id" : "A54404-e15350",
+    "pb" : "A54404-033-a",
+    "speaker" : "Ariadne ."
+  }, {
+    "id" : "A54404-e15400",
+    "pb" : "A54404-033-a",
+    "speaker" : "Silene"
+  }, {
+    "id" : "A54404-e15530",
+    "pb" : "A54404-033-b",
+    "speaker" : "Silene ."
+  }, {
+    "id" : "A54404-e15680",
+    "pb" : "A54404-034-a",
+    "speaker" : "Damon ."
+  }, {
+    "id" : "A54404-e15740",
+    "pb" : "A54404-034-a",
+    "speaker" : "Clit."
+  }, {
+    "id" : "A54404-e15830",
+    "pb" : "A54404-034-a",
+    "speaker" : "Dam."
+  }, {
+    "id" : "A54404-e15870",
+    "pb" : "A54404-034-a",
+    "speaker" : "Clit."
+  }, {
+    "id" : "A54404-e15910",
+    "pb" : "A54404-034-a",
+    "speaker" : "Dam."
+  }, {
+    "id" : "A54404-e15940",
+    "pb" : "A54404-034-b",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e15970",
+    "pb" : "A54404-034-b",
+    "speaker" : "All together ."
+  }, {
+    "id" : "A54404-e16140",
+    "pb" : "A54404-035-a",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e16220",
+    "pb" : "A54404-035-a",
+    "speaker" : "Euphro ."
+  }, {
+    "id" : "A54404-e16320",
+    "pb" : "A54404-035-a",
+    "speaker" : "Venus , Euphro ▪"
+  }, {
+    "id" : "A54404-e16360",
+    "pb" : "A54404-035-b",
+    "speaker" : "Damon ."
+  }, {
+    "id" : "A54404-e16390",
+    "pb" : "A54404-035-b",
+    "speaker" : "Cloris ."
+  }, {
+    "id" : "A54404-e16430",
+    "pb" : "A54404-035-b",
+    "speaker" : "Euphro ."
+  }, {
+    "id" : "A54404-e16460",
+    "pb" : "A54404-035-b",
+    "speaker" : "Silene ."
+  }, {
+    "id" : "A54404-e16500",
+    "pb" : "A54404-035-b",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A54404-e16530",
+    "pb" : "A54404-035-b",
+    "speaker" : "All together ."
+  }, {
+    "id" : "A54404-e16570",
+    "pb" : "A54404-035-b",
+    "speaker" : "Venus , Euphro ."
+  }, {
+    "id" : "A54404-e16600",
+    "pb" : "A54404-035-b",
+    "speaker" : "Silene , Clit. Corib. Cloris , Damon ."
+  }, {
+    "id" : "A54404-e16630",
+    "pb" : "A54404-036-a",
+    "speaker" : "All together"
+  } ]
+}

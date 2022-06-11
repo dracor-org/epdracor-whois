@@ -1,0 +1,3479 @@
+{
+  "id" : "A61310",
+  "authors" : [ "Stapylton, Robert" ],
+  "title" : "The Stepmother",
+  "dramatisPersonae" : {
+    "id" : "A61310-e820",
+    "pb" : "A61310-004-b",
+    "items" : [ [ "Persons represented .", "Persons represented . Actors ." ], [ "Sylvanus .", "Sylvanus . Prince of Verulam . Mr. Sandford ." ], [ "Filamor .", "Filamor . His Son . Mr. Bettertun ." ], [ "Adolph .", "Adolph . Son to Pontia , by the Prince of Malden . Mr. Young ." ], [ "Tetrick .", "Tetrick . Favourite to Sylvanus . Mr. Underhill ." ], [ "Fromund .", "Fromund . Filamor' s Tutor . Mr. Price ." ], [ "Crispus .", "Crispus . Pontia ' s Generall . Mr. Smith ." ], [ "Capito .", "Capito . His Lieutenant Generall . Mr. Metborn ." ], [ "Gracchus , and Sergius .", "Gracchus , and Sergius . Two Gladiators , which the Romans call'd the Retiarius and Sequutor . Mr. Lovell , Mr. Rob. Noke ." ], [ "Pontia .", "Pontia . Princess of Malden , second Wife to Sylvanus . Mrs. Williams ." ], [ "Caesarina .", "Caesarina . Her Daughter by the Prince of Malden . Mrs. Bettertun ." ], [ "Violinda .", "Violinda . Daughter to Sylvanus . Mrs. Davies ." ], [ "Brianella .", "Brianella . Pontia's Favouritess . Mrs. Long." ] ]
+  },
+  "speeches" : [ {
+    "id" : "A61310-e1740",
+    "pb" : "A61310-005-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e1790",
+    "pb" : "A61310-005-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e1900",
+    "pb" : "A61310-005-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e1980",
+    "pb" : "A61310-006-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e2040",
+    "pb" : "A61310-006-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e2070",
+    "pb" : "A61310-006-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e2120",
+    "pb" : "A61310-006-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e2150",
+    "pb" : "A61310-006-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e2230",
+    "pb" : "A61310-006-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e2330",
+    "pb" : "A61310-006-a",
+    "speaker" : "Tetrick ."
+  }, {
+    "id" : "A61310-e2370",
+    "pb" : "A61310-006-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e2410",
+    "pb" : "A61310-006-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e2470",
+    "pb" : "A61310-006-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e2540",
+    "pb" : "A61310-006-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e2620",
+    "pb" : "A61310-006-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e2660",
+    "pb" : "A61310-006-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e2710",
+    "pb" : "A61310-006-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e2780",
+    "pb" : "A61310-006-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e2850",
+    "pb" : "A61310-006-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e2950",
+    "pb" : "A61310-006-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e3120",
+    "pb" : "A61310-006-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e3160",
+    "pb" : "A61310-006-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e3270",
+    "pb" : "A61310-007-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e3320",
+    "pb" : "A61310-007-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e3380",
+    "pb" : "A61310-007-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e3450",
+    "pb" : "A61310-007-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e3490",
+    "pb" : "A61310-007-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e3520",
+    "pb" : "A61310-007-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e3560",
+    "pb" : "A61310-007-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e3600",
+    "pb" : "A61310-007-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e3630",
+    "pb" : "A61310-007-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e3660",
+    "pb" : "A61310-007-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e3690",
+    "pb" : "A61310-007-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e3740",
+    "pb" : "A61310-007-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e3810",
+    "pb" : "A61310-007-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e3890",
+    "pb" : "A61310-007-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e3940",
+    "pb" : "A61310-007-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e3970",
+    "pb" : "A61310-007-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e4060",
+    "pb" : "A61310-007-b",
+    "speaker" : "Pontia ."
+  }, {
+    "id" : "A61310-e4130",
+    "pb" : "A61310-007-b",
+    "speaker" : "Caesarina ."
+  }, {
+    "id" : "A61310-e4180",
+    "pb" : "A61310-007-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e4260",
+    "pb" : "A61310-007-b",
+    "speaker" : "Brianella ."
+  }, {
+    "id" : "A61310-e4360",
+    "pb" : "A61310-007-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e4520",
+    "pb" : "A61310-008-a",
+    "speaker" : "Flamen ."
+  }, {
+    "id" : "A61310-e4570",
+    "pb" : "A61310-008-a",
+    "speaker" : "Cupid ."
+  }, {
+    "id" : "A61310-e4620",
+    "pb" : "A61310-008-a",
+    "speaker" : "Fla."
+  }, {
+    "id" : "A61310-e4650",
+    "pb" : "A61310-008-a",
+    "speaker" : "Cup."
+  }, {
+    "id" : "A61310-e4690",
+    "pb" : "A61310-008-a",
+    "speaker" : "Fla."
+  }, {
+    "id" : "A61310-e4720",
+    "pb" : "A61310-008-a",
+    "speaker" : "Cup."
+  }, {
+    "id" : "A61310-e4780",
+    "pb" : "A61310-008-a",
+    "speaker" : "Fla."
+  }, {
+    "id" : "A61310-e4810",
+    "pb" : "A61310-008-a",
+    "speaker" : "Cup."
+  }, {
+    "id" : "A61310-e4840",
+    "pb" : "A61310-008-a",
+    "speaker" : "Fla."
+  }, {
+    "id" : "A61310-e4890",
+    "pb" : "A61310-008-a",
+    "speaker" : "Cup."
+  }, {
+    "id" : "A61310-e4940",
+    "pb" : "A61310-008-a",
+    "speaker" : "Fla."
+  }, {
+    "id" : "A61310-e5030",
+    "pb" : "A61310-008-a",
+    "speaker" : "Cup ,"
+  }, {
+    "id" : "A61310-e5210",
+    "pb" : "A61310-008-b",
+    "speaker" : "Adolph ."
+  }, {
+    "id" : "A61310-e5290",
+    "pb" : "A61310-008-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e5320",
+    "pb" : "A61310-008-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e5350",
+    "pb" : "A61310-008-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e5390",
+    "pb" : "A61310-008-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e5420",
+    "pb" : "A61310-008-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e5560",
+    "pb" : "A61310-008-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e5650",
+    "pb" : "A61310-009-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e5730",
+    "pb" : "A61310-009-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e5760",
+    "pb" : "A61310-009-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e5830",
+    "pb" : "A61310-009-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e5880",
+    "pb" : "A61310-009-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e6080",
+    "pb" : "A61310-009-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e6110",
+    "pb" : "A61310-009-a",
+    "speaker" : "Al."
+  }, {
+    "id" : "A61310-e6140",
+    "pb" : "A61310-009-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e6430",
+    "pb" : "A61310-009-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e6570",
+    "pb" : "A61310-009-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e6670",
+    "pb" : "A61310-009-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e6700",
+    "pb" : "A61310-009-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e6730",
+    "pb" : "A61310-009-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e6790",
+    "pb" : "A61310-009-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e6840",
+    "pb" : "A61310-010-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e6870",
+    "pb" : "A61310-010-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e6940",
+    "pb" : "A61310-010-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7010",
+    "pb" : "A61310-010-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7160",
+    "pb" : "A61310-010-a",
+    "speaker" : "Fri."
+  }, {
+    "id" : "A61310-e7190",
+    "pb" : "A61310-010-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7220",
+    "pb" : "A61310-010-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7260",
+    "pb" : "A61310-010-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7290",
+    "pb" : "A61310-010-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7330",
+    "pb" : "A61310-010-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7390",
+    "pb" : "A61310-010-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7430",
+    "pb" : "A61310-010-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7500",
+    "pb" : "A61310-010-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7540",
+    "pb" : "A61310-010-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7580",
+    "pb" : "A61310-010-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7610",
+    "pb" : "A61310-010-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7660",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7690",
+    "pb" : "A61310-010-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7730",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7760",
+    "pb" : "A61310-010-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7790",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7840",
+    "pb" : "A61310-010-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7870",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7910",
+    "pb" : "A61310-010-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e7940",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e7970",
+    "pb" : "A61310-010-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e8040",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e8070",
+    "pb" : "A61310-010-b",
+    "speaker" : "Pro."
+  }, {
+    "id" : "A61310-e8100",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e8130",
+    "pb" : "A61310-010-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e8180",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e8210",
+    "pb" : "A61310-010-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e8250",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e8290",
+    "pb" : "A61310-010-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e8320",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e8350",
+    "pb" : "A61310-010-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e8380",
+    "pb" : "A61310-010-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e8450",
+    "pb" : "A61310-011-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e8480",
+    "pb" : "A61310-011-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e8540",
+    "pb" : "A61310-011-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e8630",
+    "pb" : "A61310-011-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e8690",
+    "pb" : "A61310-011-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e8760",
+    "pb" : "A61310-011-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e8800",
+    "pb" : "A61310-011-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e8880",
+    "pb" : "A61310-011-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e9080",
+    "pb" : "A61310-011-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e9110",
+    "pb" : "A61310-011-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e9270",
+    "pb" : "A61310-011-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e9300",
+    "pb" : "A61310-011-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e9340",
+    "pb" : "A61310-011-b",
+    "speaker" : "Sylvanus ."
+  }, {
+    "id" : "A61310-e9540",
+    "pb" : "A61310-011-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e9570",
+    "pb" : "A61310-012-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e9720",
+    "pb" : "A61310-012-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e9760",
+    "pb" : "A61310-012-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e9830",
+    "pb" : "A61310-012-a",
+    "speaker" : "Crispus ."
+  }, {
+    "id" : "A61310-e9890",
+    "pb" : "A61310-012-a",
+    "speaker" : "Capito ."
+  }, {
+    "id" : "A61310-e10010",
+    "pb" : "A61310-012-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e10070",
+    "pb" : "A61310-012-a",
+    "speaker" : "Cri."
+  }, {
+    "id" : "A61310-e10100",
+    "pb" : "A61310-012-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e10130",
+    "pb" : "A61310-012-a",
+    "speaker" : "Cri."
+  }, {
+    "id" : "A61310-e10180",
+    "pb" : "A61310-012-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e10210",
+    "pb" : "A61310-012-a",
+    "speaker" : "Cap."
+  }, {
+    "id" : "A61310-e10250",
+    "pb" : "A61310-012-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e10290",
+    "pb" : "A61310-012-b",
+    "speaker" : "Cri."
+  }, {
+    "id" : "A61310-e10350",
+    "pb" : "A61310-012-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e10380",
+    "pb" : "A61310-012-b",
+    "speaker" : "Cri."
+  }, {
+    "id" : "A61310-e10430",
+    "pb" : "A61310-012-b",
+    "speaker" : "Sergius ."
+  }, {
+    "id" : "A61310-e10480",
+    "pb" : "A61310-012-b",
+    "speaker" : "Gracchus ."
+  }, {
+    "id" : "A61310-e10530",
+    "pb" : "A61310-012-b",
+    "speaker" : "Ser."
+  }, {
+    "id" : "A61310-e10560",
+    "pb" : "A61310-012-b",
+    "speaker" : "Gra."
+  }, {
+    "id" : "A61310-e10590",
+    "pb" : "A61310-012-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e10620",
+    "pb" : "A61310-012-b",
+    "speaker" : "Cri."
+  }, {
+    "id" : "A61310-e10660",
+    "pb" : "A61310-012-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e10790",
+    "pb" : "A61310-012-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e10820",
+    "pb" : "A61310-012-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e10850",
+    "pb" : "A61310-012-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e10940",
+    "pb" : "A61310-013-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e11020",
+    "pb" : "A61310-013-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e11080",
+    "pb" : "A61310-013-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e11170",
+    "pb" : "A61310-013-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e11200",
+    "pb" : "A61310-013-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e11250",
+    "pb" : "A61310-013-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e11290",
+    "pb" : "A61310-013-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e11320",
+    "pb" : "A61310-013-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e11370",
+    "pb" : "A61310-013-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e11410",
+    "pb" : "A61310-013-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e11440",
+    "pb" : "A61310-013-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e11500",
+    "pb" : "A61310-013-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e11540",
+    "pb" : "A61310-013-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e11570",
+    "pb" : "A61310-013-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e11610",
+    "pb" : "A61310-013-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e11650",
+    "pb" : "A61310-013-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e11720",
+    "pb" : "A61310-013-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e11750",
+    "pb" : "A61310-013-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e11880",
+    "pb" : "A61310-013-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e11940",
+    "pb" : "A61310-013-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e11980",
+    "pb" : "A61310-013-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e12040",
+    "pb" : "A61310-013-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e12160",
+    "pb" : "A61310-014-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e12240",
+    "pb" : "A61310-014-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e12280",
+    "pb" : "A61310-014-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e12320",
+    "pb" : "A61310-014-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e12350",
+    "pb" : "A61310-014-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e12410",
+    "pb" : "A61310-014-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e12480",
+    "pb" : "A61310-014-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e12530",
+    "pb" : "A61310-014-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e12610",
+    "pb" : "A61310-014-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e12650",
+    "pb" : "A61310-014-a",
+    "speaker" : "Violinda ."
+  }, {
+    "id" : "A61310-e12710",
+    "pb" : "A61310-014-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e12760",
+    "pb" : "A61310-014-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e12810",
+    "pb" : "A61310-014-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e12840",
+    "pb" : "A61310-014-b",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e12930",
+    "pb" : "A61310-014-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e12960",
+    "pb" : "A61310-014-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e13020",
+    "pb" : "A61310-014-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e13050",
+    "pb" : "A61310-014-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e13080",
+    "pb" : "A61310-014-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e13120",
+    "pb" : "A61310-014-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e13160",
+    "pb" : "A61310-014-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e13220",
+    "pb" : "A61310-014-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e13270",
+    "pb" : "A61310-014-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e13320",
+    "pb" : "A61310-014-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e13360",
+    "pb" : "A61310-014-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e13410",
+    "pb" : "A61310-014-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e13460",
+    "pb" : "A61310-014-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e13500",
+    "pb" : "A61310-015-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e13540",
+    "pb" : "A61310-015-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e13580",
+    "pb" : "A61310-015-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e13620",
+    "pb" : "A61310-015-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e13770",
+    "pb" : "A61310-015-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e13810",
+    "pb" : "A61310-015-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e13870",
+    "pb" : "A61310-015-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e13960",
+    "pb" : "A61310-015-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e14050",
+    "pb" : "A61310-015-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e14130",
+    "pb" : "A61310-015-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e14190",
+    "pb" : "A61310-015-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e14220",
+    "pb" : "A61310-015-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e14270",
+    "pb" : "A61310-015-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e14320",
+    "pb" : "A61310-015-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e14430",
+    "pb" : "A61310-015-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e14520",
+    "pb" : "A61310-015-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e14550",
+    "pb" : "A61310-015-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e14580",
+    "pb" : "A61310-015-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e14610",
+    "pb" : "A61310-015-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e14660",
+    "pb" : "A61310-016-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e14700",
+    "pb" : "A61310-016-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e14810",
+    "pb" : "A61310-016-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e14910",
+    "pb" : "A61310-016-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e14940",
+    "pb" : "A61310-016-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e14970",
+    "pb" : "A61310-016-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e15050",
+    "pb" : "A61310-016-a",
+    "speaker" : "Ser."
+  }, {
+    "id" : "A61310-e15130",
+    "pb" : "A61310-016-a",
+    "speaker" : "Gracc."
+  }, {
+    "id" : "A61310-e15520",
+    "pb" : "A61310-017-a",
+    "speaker" : "Cap."
+  }, {
+    "id" : "A61310-e15550",
+    "pb" : "A61310-017-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e15640",
+    "pb" : "A61310-017-a",
+    "speaker" : "Crispus ,"
+  }, {
+    "id" : "A61310-e15680",
+    "pb" : "A61310-017-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e15810",
+    "pb" : "A61310-017-a",
+    "speaker" : "Crisp."
+  }, {
+    "id" : "A61310-e15930",
+    "pb" : "A61310-017-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e15970",
+    "pb" : "A61310-017-a",
+    "speaker" : "Crisp."
+  }, {
+    "id" : "A61310-e16010",
+    "pb" : "A61310-017-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e16040",
+    "pb" : "A61310-017-b",
+    "speaker" : "Crisp."
+  }, {
+    "id" : "A61310-e16150",
+    "pb" : "A61310-017-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e16200",
+    "pb" : "A61310-017-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e16360",
+    "pb" : "A61310-017-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e16390",
+    "pb" : "A61310-017-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e16490",
+    "pb" : "A61310-017-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e16530",
+    "pb" : "A61310-018-a",
+    "speaker" : "Crisp."
+  }, {
+    "id" : "A61310-e16750",
+    "pb" : "A61310-018-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e16810",
+    "pb" : "A61310-018-a",
+    "speaker" : "Crisp."
+  }, {
+    "id" : "A61310-e16870",
+    "pb" : "A61310-018-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e16930",
+    "pb" : "A61310-018-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e17060",
+    "pb" : "A61310-018-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e17120",
+    "pb" : "A61310-018-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e17310",
+    "pb" : "A61310-018-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e17380",
+    "pb" : "A61310-018-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e17450",
+    "pb" : "A61310-019-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e17580",
+    "pb" : "A61310-019-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e17620",
+    "pb" : "A61310-019-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e17670",
+    "pb" : "A61310-019-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e17710",
+    "pb" : "A61310-019-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e17800",
+    "pb" : "A61310-019-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e17920",
+    "pb" : "A61310-019-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e17980",
+    "pb" : "A61310-019-b",
+    "speaker" : "Capi."
+  }, {
+    "id" : "A61310-e18050",
+    "pb" : "A61310-019-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e18110",
+    "pb" : "A61310-019-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e18340",
+    "pb" : "A61310-019-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e18370",
+    "pb" : "A61310-019-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e18420",
+    "pb" : "A61310-019-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e18450",
+    "pb" : "A61310-019-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e18550",
+    "pb" : "A61310-020-a",
+    "speaker" : "Viol."
+  }, {
+    "id" : "A61310-e18600",
+    "pb" : "A61310-020-a",
+    "speaker" : "Caesarina ."
+  }, {
+    "id" : "A61310-e18720",
+    "pb" : "A61310-020-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e18750",
+    "pb" : "A61310-020-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e18830",
+    "pb" : "A61310-020-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e18860",
+    "pb" : "A61310-020-a",
+    "speaker" : "Adolph ."
+  }, {
+    "id" : "A61310-e18920",
+    "pb" : "A61310-020-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e19010",
+    "pb" : "A61310-020-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e19050",
+    "pb" : "A61310-020-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e19080",
+    "pb" : "A61310-020-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e19130",
+    "pb" : "A61310-020-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e19160",
+    "pb" : "A61310-020-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e19200",
+    "pb" : "A61310-020-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e19250",
+    "pb" : "A61310-020-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e19280",
+    "pb" : "A61310-020-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e19310",
+    "pb" : "A61310-020-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e19370",
+    "pb" : "A61310-020-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e19400",
+    "pb" : "A61310-020-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e19440",
+    "pb" : "A61310-020-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e19510",
+    "pb" : "A61310-020-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e19610",
+    "pb" : "A61310-020-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e19650",
+    "pb" : "A61310-020-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e19780",
+    "pb" : "A61310-020-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e19870",
+    "pb" : "A61310-020-b",
+    "speaker" : "Filamor ,"
+  }, {
+    "id" : "A61310-e19980",
+    "pb" : "A61310-021-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e20020",
+    "pb" : "A61310-021-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e20060",
+    "pb" : "A61310-021-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e20130",
+    "pb" : "A61310-021-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e20210",
+    "pb" : "A61310-021-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e20310",
+    "pb" : "A61310-021-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e20370",
+    "pb" : "A61310-021-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e20410",
+    "pb" : "A61310-021-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e20470",
+    "pb" : "A61310-021-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e20570",
+    "pb" : "A61310-021-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e20600",
+    "pb" : "A61310-021-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e20630",
+    "pb" : "A61310-021-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e20660",
+    "pb" : "A61310-021-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e20690",
+    "pb" : "A61310-021-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e20740",
+    "pb" : "A61310-021-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e20780",
+    "pb" : "A61310-021-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e20820",
+    "pb" : "A61310-021-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e20890",
+    "pb" : "A61310-021-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e20930",
+    "pb" : "A61310-021-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e20980",
+    "pb" : "A61310-021-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e21030",
+    "pb" : "A61310-021-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e21070",
+    "pb" : "A61310-021-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e21150",
+    "pb" : "A61310-022-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e21330",
+    "pb" : "A61310-022-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e21440",
+    "pb" : "A61310-022-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e21480",
+    "pb" : "A61310-022-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e21520",
+    "pb" : "A61310-022-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e21600",
+    "pb" : "A61310-022-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e21690",
+    "pb" : "A61310-022-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e21760",
+    "pb" : "A61310-022-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e21800",
+    "pb" : "A61310-022-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e22060",
+    "pb" : "A61310-022-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e22130",
+    "pb" : "A61310-022-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e22270",
+    "pb" : "A61310-023-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e22330",
+    "pb" : "A61310-023-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e22420",
+    "pb" : "A61310-023-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e22470",
+    "pb" : "A61310-023-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e22520",
+    "pb" : "A61310-023-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e22550",
+    "pb" : "A61310-023-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e22600",
+    "pb" : "A61310-023-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e22660",
+    "pb" : "A61310-023-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e22740",
+    "pb" : "A61310-023-b",
+    "speaker" : "Bri ,"
+  }, {
+    "id" : "A61310-e22770",
+    "pb" : "A61310-023-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e22870",
+    "pb" : "A61310-023-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e22910",
+    "pb" : "A61310-023-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e22970",
+    "pb" : "A61310-023-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e23010",
+    "pb" : "A61310-023-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e23090",
+    "pb" : "A61310-023-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e23120",
+    "pb" : "A61310-023-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e23250",
+    "pb" : "A61310-023-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e23320",
+    "pb" : "A61310-024-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e23360",
+    "pb" : "A61310-024-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e23390",
+    "pb" : "A61310-024-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e23430",
+    "pb" : "A61310-024-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e23480",
+    "pb" : "A61310-024-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e23550",
+    "pb" : "A61310-024-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e23580",
+    "pb" : "A61310-024-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e23630",
+    "pb" : "A61310-024-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e23660",
+    "pb" : "A61310-024-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e23710",
+    "pb" : "A61310-024-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e23800",
+    "pb" : "A61310-024-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e23860",
+    "pb" : "A61310-024-a",
+    "speaker" : "Brit."
+  }, {
+    "id" : "A61310-e23890",
+    "pb" : "A61310-024-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e23930",
+    "pb" : "A61310-024-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e24020",
+    "pb" : "A61310-024-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e24060",
+    "pb" : "A61310-024-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e24120",
+    "pb" : "A61310-024-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e24170",
+    "pb" : "A61310-024-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e24200",
+    "pb" : "A61310-024-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e24250",
+    "pb" : "A61310-024-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e24280",
+    "pb" : "A61310-024-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e24330",
+    "pb" : "A61310-024-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e24380",
+    "pb" : "A61310-024-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e24510",
+    "pb" : "A61310-024-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e24570",
+    "pb" : "A61310-024-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e24610",
+    "pb" : "A61310-024-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e24750",
+    "pb" : "A61310-025-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e24860",
+    "pb" : "A61310-025-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e24890",
+    "pb" : "A61310-025-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e24920",
+    "pb" : "A61310-025-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e24970",
+    "pb" : "A61310-025-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e25000",
+    "pb" : "A61310-025-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e25050",
+    "pb" : "A61310-025-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e25120",
+    "pb" : "A61310-025-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e25160",
+    "pb" : "A61310-025-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e25200",
+    "pb" : "A61310-025-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e25230",
+    "pb" : "A61310-025-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e25260",
+    "pb" : "A61310-025-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e25290",
+    "pb" : "A61310-025-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e25320",
+    "pb" : "A61310-025-a",
+    "speaker" : "Fro ."
+  }, {
+    "id" : "A61310-e25360",
+    "pb" : "A61310-025-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e25400",
+    "pb" : "A61310-025-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e25460",
+    "pb" : "A61310-025-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e25490",
+    "pb" : "A61310-025-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e25540",
+    "pb" : "A61310-025-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e25690",
+    "pb" : "A61310-025-b",
+    "speaker" : "Pontia ,"
+  }, {
+    "id" : "A61310-e25770",
+    "pb" : "A61310-025-b",
+    "speaker" : "Caesarina ."
+  }, {
+    "id" : "A61310-e25800",
+    "pb" : "A61310-025-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e25830",
+    "pb" : "A61310-025-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e25860",
+    "pb" : "A61310-025-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e25940",
+    "pb" : "A61310-025-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e25970",
+    "pb" : "A61310-025-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e26010",
+    "pb" : "A61310-025-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e26060",
+    "pb" : "A61310-025-b",
+    "speaker" : "Gracc."
+  }, {
+    "id" : "A61310-e26110",
+    "pb" : "A61310-025-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e26160",
+    "pb" : "A61310-025-b",
+    "speaker" : "Brianella ."
+  }, {
+    "id" : "A61310-e26210",
+    "pb" : "A61310-025-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e26290",
+    "pb" : "A61310-026-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e26320",
+    "pb" : "A61310-026-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e26360",
+    "pb" : "A61310-026-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e26470",
+    "pb" : "A61310-026-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e26550",
+    "pb" : "A61310-026-a",
+    "speaker" : "Phaë ."
+  }, {
+    "id" : "A61310-e26690",
+    "pb" : "A61310-026-a",
+    "speaker" : "Actae ."
+  }, {
+    "id" : "A61310-e26730",
+    "pb" : "A61310-026-a",
+    "speaker" : "Phae."
+  }, {
+    "id" : "A61310-e26820",
+    "pb" : "A61310-026-a",
+    "speaker" : "Apol."
+  }, {
+    "id" : "A61310-e26930",
+    "pb" : "A61310-026-a",
+    "speaker" : "Phae."
+  }, {
+    "id" : "A61310-e26960",
+    "pb" : "A61310-026-a",
+    "speaker" : "Apol."
+  }, {
+    "id" : "A61310-e26990",
+    "pb" : "A61310-026-a",
+    "speaker" : "Phae."
+  }, {
+    "id" : "A61310-e27020",
+    "pb" : "A61310-026-a",
+    "speaker" : "Apo."
+  }, {
+    "id" : "A61310-e27090",
+    "pb" : "A61310-026-b",
+    "speaker" : "Phaë ."
+  }, {
+    "id" : "A61310-e27120",
+    "pb" : "A61310-026-b",
+    "speaker" : "Apo."
+  }, {
+    "id" : "A61310-e27210",
+    "pb" : "A61310-026-b",
+    "speaker" : "Daph."
+  }, {
+    "id" : "A61310-e27390",
+    "pb" : "A61310-026-b",
+    "speaker" : "Apo."
+  }, {
+    "id" : "A61310-e27440",
+    "pb" : "A61310-026-b",
+    "speaker" : "Daph."
+  }, {
+    "id" : "A61310-e27480",
+    "pb" : "A61310-026-b",
+    "speaker" : "Apo."
+  }, {
+    "id" : "A61310-e27520",
+    "pb" : "A61310-026-b",
+    "speaker" : "Daph."
+  }, {
+    "id" : "A61310-e27590",
+    "pb" : "A61310-026-b",
+    "speaker" : "Phae."
+  }, {
+    "id" : "A61310-e27680",
+    "pb" : "A61310-027-a",
+    "speaker" : "Phaeth ."
+  }, {
+    "id" : "A61310-e27720",
+    "pb" : "A61310-027-a",
+    "speaker" : "Phae."
+  }, {
+    "id" : "A61310-e27760",
+    "pb" : "A61310-027-a",
+    "speaker" : "Lamp ."
+  }, {
+    "id" : "A61310-e27800",
+    "pb" : "A61310-027-a",
+    "speaker" : "Phae."
+  }, {
+    "id" : "A61310-e27840",
+    "pb" : "A61310-027-a",
+    "speaker" : "Lam."
+  }, {
+    "id" : "A61310-e28010",
+    "pb" : "A61310-027-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e28070",
+    "pb" : "A61310-027-a",
+    "speaker" : "Caesari ."
+  }, {
+    "id" : "A61310-e28110",
+    "pb" : "A61310-027-a",
+    "speaker" : "Pontia ."
+  }, {
+    "id" : "A61310-e28170",
+    "pb" : "A61310-027-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e28210",
+    "pb" : "A61310-027-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e28290",
+    "pb" : "A61310-027-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e28330",
+    "pb" : "A61310-027-b",
+    "speaker" : "Adolph ."
+  }, {
+    "id" : "A61310-e28380",
+    "pb" : "A61310-027-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e28450",
+    "pb" : "A61310-027-b",
+    "speaker" : "Adol ."
+  }, {
+    "id" : "A61310-e28510",
+    "pb" : "A61310-027-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e28550",
+    "pb" : "A61310-027-b",
+    "speaker" : "Brianella ."
+  }, {
+    "id" : "A61310-e28660",
+    "pb" : "A61310-027-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e28700",
+    "pb" : "A61310-027-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e28740",
+    "pb" : "A61310-027-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e28830",
+    "pb" : "A61310-027-b",
+    "speaker" : "Adolph ."
+  }, {
+    "id" : "A61310-e28880",
+    "pb" : "A61310-028-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e28930",
+    "pb" : "A61310-028-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e29050",
+    "pb" : "A61310-028-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e29140",
+    "pb" : "A61310-028-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e29280",
+    "pb" : "A61310-028-a",
+    "speaker" : "Sergius ."
+  }, {
+    "id" : "A61310-e29320",
+    "pb" : "A61310-028-a",
+    "speaker" : "Gracchus ."
+  }, {
+    "id" : "A61310-e29350",
+    "pb" : "A61310-028-a",
+    "speaker" : "Pontia ."
+  }, {
+    "id" : "A61310-e29410",
+    "pb" : "A61310-028-a",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e29450",
+    "pb" : "A61310-028-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e29520",
+    "pb" : "A61310-028-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e29560",
+    "pb" : "A61310-028-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e29710",
+    "pb" : "A61310-028-b",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e29750",
+    "pb" : "A61310-028-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e29800",
+    "pb" : "A61310-028-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e29890",
+    "pb" : "A61310-028-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e29980",
+    "pb" : "A61310-028-b",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e30060",
+    "pb" : "A61310-029-a",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e30150",
+    "pb" : "A61310-029-a",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e30180",
+    "pb" : "A61310-029-a",
+    "speaker" : "Ser."
+  }, {
+    "id" : "A61310-e30260",
+    "pb" : "A61310-029-a",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e30380",
+    "pb" : "A61310-029-a",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e30440",
+    "pb" : "A61310-029-a",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e30500",
+    "pb" : "A61310-029-a",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e30550",
+    "pb" : "A61310-029-a",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e30670",
+    "pb" : "A61310-029-b",
+    "speaker" : "Seg."
+  }, {
+    "id" : "A61310-e30710",
+    "pb" : "A61310-029-b",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e30740",
+    "pb" : "A61310-029-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e30770",
+    "pb" : "A61310-029-b",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e30800",
+    "pb" : "A61310-029-b",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e30830",
+    "pb" : "A61310-029-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e30860",
+    "pb" : "A61310-029-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e30950",
+    "pb" : "A61310-029-b",
+    "speaker" : "Filamor ."
+  }, {
+    "id" : "A61310-e30990",
+    "pb" : "A61310-029-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e31070",
+    "pb" : "A61310-029-b",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e31160",
+    "pb" : "A61310-029-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e31210",
+    "pb" : "A61310-029-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e31290",
+    "pb" : "A61310-029-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e31350",
+    "pb" : "A61310-029-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e31380",
+    "pb" : "A61310-029-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e31490",
+    "pb" : "A61310-030-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e31560",
+    "pb" : "A61310-030-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e31590",
+    "pb" : "A61310-030-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e31640",
+    "pb" : "A61310-030-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e31670",
+    "pb" : "A61310-030-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e31710",
+    "pb" : "A61310-030-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e31740",
+    "pb" : "A61310-030-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e31810",
+    "pb" : "A61310-030-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e31870",
+    "pb" : "A61310-030-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e31920",
+    "pb" : "A61310-030-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e31990",
+    "pb" : "A61310-030-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e32090",
+    "pb" : "A61310-030-a",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e32220",
+    "pb" : "A61310-030-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e32300",
+    "pb" : "A61310-030-b",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e32390",
+    "pb" : "A61310-030-b",
+    "speaker" : "Serg."
+  }, {
+    "id" : "A61310-e32470",
+    "pb" : "A61310-030-b",
+    "speaker" : "Grac."
+  }, {
+    "id" : "A61310-e32550",
+    "pb" : "A61310-030-b",
+    "speaker" : "Adolph ."
+  }, {
+    "id" : "A61310-e32740",
+    "pb" : "A61310-031-a",
+    "speaker" : "Pontia ."
+  }, {
+    "id" : "A61310-e32820",
+    "pb" : "A61310-031-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e32880",
+    "pb" : "A61310-031-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e32970",
+    "pb" : "A61310-031-a",
+    "speaker" : "Filamor ."
+  }, {
+    "id" : "A61310-e33010",
+    "pb" : "A61310-031-a",
+    "speaker" : "Adolph ."
+  }, {
+    "id" : "A61310-e33060",
+    "pb" : "A61310-031-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e33130",
+    "pb" : "A61310-031-a",
+    "speaker" : "Violinda ."
+  }, {
+    "id" : "A61310-e33170",
+    "pb" : "A61310-031-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e33210",
+    "pb" : "A61310-031-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e33250",
+    "pb" : "A61310-031-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e33310",
+    "pb" : "A61310-031-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e33360",
+    "pb" : "A61310-031-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e33420",
+    "pb" : "A61310-031-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e33460",
+    "pb" : "A61310-031-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e33540",
+    "pb" : "A61310-031-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e33580",
+    "pb" : "A61310-031-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e33620",
+    "pb" : "A61310-031-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e33660",
+    "pb" : "A61310-031-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e33750",
+    "pb" : "A61310-031-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e33810",
+    "pb" : "A61310-031-b",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e33890",
+    "pb" : "A61310-031-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e34100",
+    "pb" : "A61310-032-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e34150",
+    "pb" : "A61310-032-a",
+    "speaker" : "Fromund ."
+  }, {
+    "id" : "A61310-e34380",
+    "pb" : "A61310-032-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e34410",
+    "pb" : "A61310-032-a",
+    "speaker" : "Tetrick ."
+  }, {
+    "id" : "A61310-e34490",
+    "pb" : "A61310-032-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e34530",
+    "pb" : "A61310-032-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e34600",
+    "pb" : "A61310-032-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e34670",
+    "pb" : "A61310-032-b",
+    "speaker" : "Fromund ."
+  }, {
+    "id" : "A61310-e34870",
+    "pb" : "A61310-032-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e34910",
+    "pb" : "A61310-032-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e34940",
+    "pb" : "A61310-032-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e34990",
+    "pb" : "A61310-032-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e35020",
+    "pb" : "A61310-032-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e35100",
+    "pb" : "A61310-032-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e35170",
+    "pb" : "A61310-033-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e35230",
+    "pb" : "A61310-033-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e35280",
+    "pb" : "A61310-033-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e35380",
+    "pb" : "A61310-033-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e35530",
+    "pb" : "A61310-033-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e35560",
+    "pb" : "A61310-033-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e35790",
+    "pb" : "A61310-033-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e35850",
+    "pb" : "A61310-033-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e35910",
+    "pb" : "A61310-033-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e35940",
+    "pb" : "A61310-033-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e36060",
+    "pb" : "A61310-033-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e36110",
+    "pb" : "A61310-033-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e36140",
+    "pb" : "A61310-033-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e36230",
+    "pb" : "A61310-034-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e36320",
+    "pb" : "A61310-034-a",
+    "speaker" : "Fil ,"
+  }, {
+    "id" : "A61310-e36350",
+    "pb" : "A61310-034-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e36380",
+    "pb" : "A61310-034-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e36440",
+    "pb" : "A61310-034-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e36500",
+    "pb" : "A61310-034-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e36560",
+    "pb" : "A61310-034-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e36700",
+    "pb" : "A61310-034-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e36730",
+    "pb" : "A61310-034-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e36820",
+    "pb" : "A61310-034-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e36890",
+    "pb" : "A61310-034-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e36920",
+    "pb" : "A61310-034-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e37020",
+    "pb" : "A61310-034-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e37050",
+    "pb" : "A61310-034-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e37180",
+    "pb" : "A61310-034-b",
+    "speaker" : "Pontia ."
+  }, {
+    "id" : "A61310-e37270",
+    "pb" : "A61310-034-b",
+    "speaker" : "Caesarina ."
+  }, {
+    "id" : "A61310-e37320",
+    "pb" : "A61310-034-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e37370",
+    "pb" : "A61310-034-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e37410",
+    "pb" : "A61310-034-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e37540",
+    "pb" : "A61310-035-a",
+    "speaker" : "Brianel ."
+  }, {
+    "id" : "A61310-e37640",
+    "pb" : "A61310-035-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e37750",
+    "pb" : "A61310-035-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e37890",
+    "pb" : "A61310-035-a",
+    "speaker" : "Violinda ."
+  }, {
+    "id" : "A61310-e38130",
+    "pb" : "A61310-035-b",
+    "speaker" : "Satyr ."
+  }, {
+    "id" : "A61310-e38220",
+    "pb" : "A61310-035-b",
+    "speaker" : "Philo."
+  }, {
+    "id" : "A61310-e38250",
+    "pb" : "A61310-035-b",
+    "speaker" : "Sat."
+  }, {
+    "id" : "A61310-e38280",
+    "pb" : "A61310-035-b",
+    "speaker" : "Phil."
+  }, {
+    "id" : "A61310-e38310",
+    "pb" : "A61310-035-b",
+    "speaker" : "Sat."
+  }, {
+    "id" : "A61310-e38360",
+    "pb" : "A61310-035-b",
+    "speaker" : "Phil."
+  }, {
+    "id" : "A61310-e38390",
+    "pb" : "A61310-035-b",
+    "speaker" : "Sat."
+  }, {
+    "id" : "A61310-e38420",
+    "pb" : "A61310-035-b",
+    "speaker" : "Phil."
+  }, {
+    "id" : "A61310-e38460",
+    "pb" : "A61310-035-b",
+    "speaker" : "Sat."
+  }, {
+    "id" : "A61310-e38760",
+    "pb" : "A61310-036-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e38830",
+    "pb" : "A61310-036-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e38900",
+    "pb" : "A61310-036-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e38960",
+    "pb" : "A61310-036-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e38990",
+    "pb" : "A61310-036-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e39030",
+    "pb" : "A61310-036-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e39080",
+    "pb" : "A61310-036-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e39500",
+    "pb" : "A61310-037-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e39540",
+    "pb" : "A61310-037-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e39580",
+    "pb" : "A61310-037-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e39610",
+    "pb" : "A61310-037-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e39650",
+    "pb" : "A61310-037-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e39680",
+    "pb" : "A61310-037-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e39910",
+    "pb" : "A61310-037-a",
+    "speaker" : "Caesarina ."
+  }, {
+    "id" : "A61310-e39960",
+    "pb" : "A61310-037-a",
+    "speaker" : "Adolph ."
+  }, {
+    "id" : "A61310-e40000",
+    "pb" : "A61310-037-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e40040",
+    "pb" : "A61310-037-a",
+    "speaker" : "Violinda ."
+  }, {
+    "id" : "A61310-e40070",
+    "pb" : "A61310-037-a",
+    "speaker" : "Filamor ."
+  }, {
+    "id" : "A61310-e40120",
+    "pb" : "A61310-037-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e40190",
+    "pb" : "A61310-037-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e40230",
+    "pb" : "A61310-037-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e40270",
+    "pb" : "A61310-037-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e40320",
+    "pb" : "A61310-037-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e40500",
+    "pb" : "A61310-037-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e40540",
+    "pb" : "A61310-037-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e40610",
+    "pb" : "A61310-037-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e40650",
+    "pb" : "A61310-037-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e40720",
+    "pb" : "A61310-038-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e40760",
+    "pb" : "A61310-038-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e40860",
+    "pb" : "A61310-038-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e40910",
+    "pb" : "A61310-038-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e40940",
+    "pb" : "A61310-038-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e40990",
+    "pb" : "A61310-038-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e41040",
+    "pb" : "A61310-038-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41070",
+    "pb" : "A61310-038-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e41120",
+    "pb" : "A61310-038-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41160",
+    "pb" : "A61310-038-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e41220",
+    "pb" : "A61310-038-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41260",
+    "pb" : "A61310-038-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e41290",
+    "pb" : "A61310-038-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41320",
+    "pb" : "A61310-038-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e41350",
+    "pb" : "A61310-038-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41380",
+    "pb" : "A61310-038-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e41410",
+    "pb" : "A61310-038-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41440",
+    "pb" : "A61310-038-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e41470",
+    "pb" : "A61310-038-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41510",
+    "pb" : "A61310-038-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e41570",
+    "pb" : "A61310-038-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41600",
+    "pb" : "A61310-038-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e41630",
+    "pb" : "A61310-038-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41690",
+    "pb" : "A61310-038-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e41720",
+    "pb" : "A61310-038-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41750",
+    "pb" : "A61310-038-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e41780",
+    "pb" : "A61310-038-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e41810",
+    "pb" : "A61310-038-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e41870",
+    "pb" : "A61310-038-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41900",
+    "pb" : "A61310-038-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e41950",
+    "pb" : "A61310-038-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e41980",
+    "pb" : "A61310-038-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e42280",
+    "pb" : "A61310-039-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e42330",
+    "pb" : "A61310-039-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e42410",
+    "pb" : "A61310-039-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e42460",
+    "pb" : "A61310-039-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e42490",
+    "pb" : "A61310-039-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e42540",
+    "pb" : "A61310-039-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e42590",
+    "pb" : "A61310-039-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e42620",
+    "pb" : "A61310-039-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e42690",
+    "pb" : "A61310-039-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e42760",
+    "pb" : "A61310-039-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e42860",
+    "pb" : "A61310-039-b",
+    "speaker" : "Pontia ."
+  }, {
+    "id" : "A61310-e42940",
+    "pb" : "A61310-039-b",
+    "speaker" : "Brianella ."
+  }, {
+    "id" : "A61310-e43000",
+    "pb" : "A61310-039-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e43040",
+    "pb" : "A61310-039-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e43090",
+    "pb" : "A61310-039-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e43140",
+    "pb" : "A61310-039-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e43180",
+    "pb" : "A61310-039-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e43220",
+    "pb" : "A61310-039-b",
+    "speaker" : "Crispus ."
+  }, {
+    "id" : "A61310-e43250",
+    "pb" : "A61310-039-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e43280",
+    "pb" : "A61310-039-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e43360",
+    "pb" : "A61310-040-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e43400",
+    "pb" : "A61310-040-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e43430",
+    "pb" : "A61310-040-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e43460",
+    "pb" : "A61310-040-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e43490",
+    "pb" : "A61310-040-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e43530",
+    "pb" : "A61310-040-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e43560",
+    "pb" : "A61310-040-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e43630",
+    "pb" : "A61310-040-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e43690",
+    "pb" : "A61310-040-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e43800",
+    "pb" : "A61310-040-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e43840",
+    "pb" : "A61310-040-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e43890",
+    "pb" : "A61310-040-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e43950",
+    "pb" : "A61310-040-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e43990",
+    "pb" : "A61310-040-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e44070",
+    "pb" : "A61310-040-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e44100",
+    "pb" : "A61310-040-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e44140",
+    "pb" : "A61310-040-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e44170",
+    "pb" : "A61310-040-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e44240",
+    "pb" : "A61310-040-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e44280",
+    "pb" : "A61310-040-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e44340",
+    "pb" : "A61310-040-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e44380",
+    "pb" : "A61310-040-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e44410",
+    "pb" : "A61310-040-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e44440",
+    "pb" : "A61310-040-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e44480",
+    "pb" : "A61310-040-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e44730",
+    "pb" : "A61310-041-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e44770",
+    "pb" : "A61310-041-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e44870",
+    "pb" : "A61310-041-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e45000",
+    "pb" : "A61310-041-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e45030",
+    "pb" : "A61310-041-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e45080",
+    "pb" : "A61310-041-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e45120",
+    "pb" : "A61310-041-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e45180",
+    "pb" : "A61310-041-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e45230",
+    "pb" : "A61310-041-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e45270",
+    "pb" : "A61310-041-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e45360",
+    "pb" : "A61310-041-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e45410",
+    "pb" : "A61310-041-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e45460",
+    "pb" : "A61310-041-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e45510",
+    "pb" : "A61310-041-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e45540",
+    "pb" : "A61310-041-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e45640",
+    "pb" : "A61310-042-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e45840",
+    "pb" : "A61310-042-a",
+    "speaker" : "Pontia ."
+  }, {
+    "id" : "A61310-e45880",
+    "pb" : "A61310-042-a",
+    "speaker" : "Capito ."
+  }, {
+    "id" : "A61310-e45950",
+    "pb" : "A61310-042-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e46060",
+    "pb" : "A61310-042-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e46110",
+    "pb" : "A61310-042-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e46180",
+    "pb" : "A61310-042-b",
+    "speaker" : "Cap."
+  }, {
+    "id" : "A61310-e46240",
+    "pb" : "A61310-042-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e46270",
+    "pb" : "A61310-042-b",
+    "speaker" : "Cap."
+  }, {
+    "id" : "A61310-e46310",
+    "pb" : "A61310-042-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e46370",
+    "pb" : "A61310-042-b",
+    "speaker" : "Cap."
+  }, {
+    "id" : "A61310-e46440",
+    "pb" : "A61310-042-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e46570",
+    "pb" : "A61310-042-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e46630",
+    "pb" : "A61310-042-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e46720",
+    "pb" : "A61310-042-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e46770",
+    "pb" : "A61310-043-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e46820",
+    "pb" : "A61310-043-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e46900",
+    "pb" : "A61310-043-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e46980",
+    "pb" : "A61310-043-a",
+    "speaker" : "Filamor ."
+  }, {
+    "id" : "A61310-e47020",
+    "pb" : "A61310-043-a",
+    "speaker" : "Adolph ."
+  }, {
+    "id" : "A61310-e47130",
+    "pb" : "A61310-043-a",
+    "speaker" : "Caesarina ."
+  }, {
+    "id" : "A61310-e47180",
+    "pb" : "A61310-043-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e47240",
+    "pb" : "A61310-043-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e47300",
+    "pb" : "A61310-043-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e47340",
+    "pb" : "A61310-043-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e47410",
+    "pb" : "A61310-043-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e47500",
+    "pb" : "A61310-043-b",
+    "speaker" : "Violinda ."
+  }, {
+    "id" : "A61310-e47590",
+    "pb" : "A61310-043-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e47650",
+    "pb" : "A61310-043-b",
+    "speaker" : "Crispus ."
+  }, {
+    "id" : "A61310-e47710",
+    "pb" : "A61310-043-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e47750",
+    "pb" : "A61310-043-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e47780",
+    "pb" : "A61310-043-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e47820",
+    "pb" : "A61310-043-b",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e47930",
+    "pb" : "A61310-043-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e48050",
+    "pb" : "A61310-044-a",
+    "speaker" : "Capito ."
+  }, {
+    "id" : "A61310-e48100",
+    "pb" : "A61310-044-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e48190",
+    "pb" : "A61310-044-a",
+    "speaker" : "Brianella ."
+  }, {
+    "id" : "A61310-e48260",
+    "pb" : "A61310-044-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e48300",
+    "pb" : "A61310-044-a",
+    "speaker" : "Cap."
+  }, {
+    "id" : "A61310-e48340",
+    "pb" : "A61310-044-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e48380",
+    "pb" : "A61310-044-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e48580",
+    "pb" : "A61310-044-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e48640",
+    "pb" : "A61310-044-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e48710",
+    "pb" : "A61310-044-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e48760",
+    "pb" : "A61310-044-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e48800",
+    "pb" : "A61310-044-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e48870",
+    "pb" : "A61310-044-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e48930",
+    "pb" : "A61310-044-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e49030",
+    "pb" : "A61310-044-b",
+    "speaker" : "Tetrick ."
+  }, {
+    "id" : "A61310-e49110",
+    "pb" : "A61310-045-a",
+    "speaker" : "Fromund ."
+  }, {
+    "id" : "A61310-e49200",
+    "pb" : "A61310-045-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e49280",
+    "pb" : "A61310-045-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e49370",
+    "pb" : "A61310-045-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e49480",
+    "pb" : "A61310-045-a",
+    "speaker" : "Brianella ."
+  }, {
+    "id" : "A61310-e49510",
+    "pb" : "A61310-045-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e49540",
+    "pb" : "A61310-045-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e49580",
+    "pb" : "A61310-045-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e49610",
+    "pb" : "A61310-045-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e49660",
+    "pb" : "A61310-045-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e49710",
+    "pb" : "A61310-045-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e49740",
+    "pb" : "A61310-045-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e49870",
+    "pb" : "A61310-045-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e49910",
+    "pb" : "A61310-045-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e50000",
+    "pb" : "A61310-045-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e50030",
+    "pb" : "A61310-045-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e50070",
+    "pb" : "A61310-045-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e50130",
+    "pb" : "A61310-045-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e50190",
+    "pb" : "A61310-045-b",
+    "speaker" : "Fromund ."
+  }, {
+    "id" : "A61310-e50250",
+    "pb" : "A61310-045-b",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e50290",
+    "pb" : "A61310-046-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e50380",
+    "pb" : "A61310-046-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e50410",
+    "pb" : "A61310-046-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e50450",
+    "pb" : "A61310-046-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e50490",
+    "pb" : "A61310-046-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e50540",
+    "pb" : "A61310-046-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e50580",
+    "pb" : "A61310-046-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e50620",
+    "pb" : "A61310-046-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e50650",
+    "pb" : "A61310-046-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e50700",
+    "pb" : "A61310-046-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e50740",
+    "pb" : "A61310-046-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e50770",
+    "pb" : "A61310-046-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e50800",
+    "pb" : "A61310-046-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e50830",
+    "pb" : "A61310-046-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e50890",
+    "pb" : "A61310-046-b",
+    "speaker" : "Adolph ."
+  }, {
+    "id" : "A61310-e50920",
+    "pb" : "A61310-046-b",
+    "speaker" : "Filamor ."
+  }, {
+    "id" : "A61310-e50950",
+    "pb" : "A61310-046-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e50980",
+    "pb" : "A61310-046-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e51020",
+    "pb" : "A61310-046-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e51060",
+    "pb" : "A61310-046-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e51130",
+    "pb" : "A61310-046-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e51210",
+    "pb" : "A61310-046-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e51310",
+    "pb" : "A61310-046-b",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e51380",
+    "pb" : "A61310-046-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e51460",
+    "pb" : "A61310-047-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e51530",
+    "pb" : "A61310-047-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e51700",
+    "pb" : "A61310-047-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e51760",
+    "pb" : "A61310-047-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e51890",
+    "pb" : "A61310-047-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e51940",
+    "pb" : "A61310-047-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e52010",
+    "pb" : "A61310-047-a",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e52050",
+    "pb" : "A61310-047-b",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e52090",
+    "pb" : "A61310-047-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e52140",
+    "pb" : "A61310-047-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e52210",
+    "pb" : "A61310-047-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e52280",
+    "pb" : "A61310-047-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e52350",
+    "pb" : "A61310-047-b",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e52420",
+    "pb" : "A61310-047-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e52480",
+    "pb" : "A61310-047-b",
+    "speaker" : "Tetrick ."
+  }, {
+    "id" : "A61310-e52560",
+    "pb" : "A61310-047-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e52600",
+    "pb" : "A61310-048-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e52630",
+    "pb" : "A61310-048-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e52670",
+    "pb" : "A61310-048-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e52700",
+    "pb" : "A61310-048-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e52750",
+    "pb" : "A61310-048-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e52780",
+    "pb" : "A61310-048-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e52810",
+    "pb" : "A61310-048-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e52890",
+    "pb" : "A61310-048-a",
+    "speaker" : "Pontia ."
+  }, {
+    "id" : "A61310-e52970",
+    "pb" : "A61310-048-a",
+    "speaker" : "Crispus ."
+  }, {
+    "id" : "A61310-e53000",
+    "pb" : "A61310-048-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e53060",
+    "pb" : "A61310-048-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e53120",
+    "pb" : "A61310-048-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e53150",
+    "pb" : "A61310-048-a",
+    "speaker" : "Capito ."
+  }, {
+    "id" : "A61310-e53230",
+    "pb" : "A61310-048-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e53270",
+    "pb" : "A61310-048-a",
+    "speaker" : "Capi."
+  }, {
+    "id" : "A61310-e53310",
+    "pb" : "A61310-048-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e53370",
+    "pb" : "A61310-048-b",
+    "speaker" : "Capi."
+  }, {
+    "id" : "A61310-e53470",
+    "pb" : "A61310-048-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e53540",
+    "pb" : "A61310-048-b",
+    "speaker" : "Tetrick ."
+  }, {
+    "id" : "A61310-e53580",
+    "pb" : "A61310-048-b",
+    "speaker" : "Filamor ."
+  }, {
+    "id" : "A61310-e53620",
+    "pb" : "A61310-048-b",
+    "speaker" : "Adolph ."
+  }, {
+    "id" : "A61310-e53650",
+    "pb" : "A61310-048-b",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e53680",
+    "pb" : "A61310-048-b",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e53730",
+    "pb" : "A61310-048-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e53810",
+    "pb" : "A61310-048-b",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e53860",
+    "pb" : "A61310-048-b",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e53890",
+    "pb" : "A61310-048-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e53980",
+    "pb" : "A61310-049-a",
+    "speaker" : "Pontia ."
+  }, {
+    "id" : "A61310-e54010",
+    "pb" : "A61310-049-a",
+    "speaker" : "Capito ."
+  }, {
+    "id" : "A61310-e54080",
+    "pb" : "A61310-049-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e54110",
+    "pb" : "A61310-049-a",
+    "speaker" : "Cap."
+  }, {
+    "id" : "A61310-e54160",
+    "pb" : "A61310-049-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e54200",
+    "pb" : "A61310-049-a",
+    "speaker" : "Capi."
+  }, {
+    "id" : "A61310-e54350",
+    "pb" : "A61310-049-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e54460",
+    "pb" : "A61310-049-b",
+    "speaker" : "Cap."
+  }, {
+    "id" : "A61310-e54500",
+    "pb" : "A61310-049-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e54530",
+    "pb" : "A61310-049-b",
+    "speaker" : "Capi."
+  }, {
+    "id" : "A61310-e54590",
+    "pb" : "A61310-049-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e54680",
+    "pb" : "A61310-049-b",
+    "speaker" : "Capi."
+  }, {
+    "id" : "A61310-e54890",
+    "pb" : "A61310-049-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e54920",
+    "pb" : "A61310-049-b",
+    "speaker" : "Capi."
+  }, {
+    "id" : "A61310-e55030",
+    "pb" : "A61310-050-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e55090",
+    "pb" : "A61310-050-a",
+    "speaker" : "Capi."
+  }, {
+    "id" : "A61310-e55130",
+    "pb" : "A61310-050-a",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e55220",
+    "pb" : "A61310-050-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e55260",
+    "pb" : "A61310-050-a",
+    "speaker" : "Capi."
+  }, {
+    "id" : "A61310-e55320",
+    "pb" : "A61310-050-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e55360",
+    "pb" : "A61310-050-a",
+    "speaker" : "Pontia ."
+  }, {
+    "id" : "A61310-e55440",
+    "pb" : "A61310-050-a",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e55500",
+    "pb" : "A61310-050-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e55530",
+    "pb" : "A61310-050-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e55610",
+    "pb" : "A61310-050-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e55800",
+    "pb" : "A61310-050-b",
+    "speaker" : "Syl."
+  }, {
+    "id" : "A61310-e55850",
+    "pb" : "A61310-050-b",
+    "speaker" : "Fil."
+  }, {
+    "id" : "A61310-e55910",
+    "pb" : "A61310-050-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e56020",
+    "pb" : "A61310-050-b",
+    "speaker" : "Cae."
+  }, {
+    "id" : "A61310-e56060",
+    "pb" : "A61310-050-b",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e56250",
+    "pb" : "A61310-051-a",
+    "speaker" : "Cris."
+  }, {
+    "id" : "A61310-e56300",
+    "pb" : "A61310-051-a",
+    "speaker" : "Cap."
+  }, {
+    "id" : "A61310-e56370",
+    "pb" : "A61310-051-a",
+    "speaker" : "Ad."
+  }, {
+    "id" : "A61310-e56460",
+    "pb" : "A61310-051-a",
+    "speaker" : "Vio."
+  }, {
+    "id" : "A61310-e56500",
+    "pb" : "A61310-051-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e56550",
+    "pb" : "A61310-051-a",
+    "speaker" : "Fro."
+  }, {
+    "id" : "A61310-e56580",
+    "pb" : "A61310-051-a",
+    "speaker" : "Bri."
+  }, {
+    "id" : "A61310-e56620",
+    "pb" : "A61310-051-a",
+    "speaker" : "Pon."
+  }, {
+    "id" : "A61310-e56670",
+    "pb" : "A61310-051-a",
+    "speaker" : "Tet."
+  }, {
+    "id" : "A61310-e56710",
+    "pb" : "A61310-051-a",
+    "speaker" : "Pon."
+  } ]
+}

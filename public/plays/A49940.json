@@ -1,0 +1,1787 @@
+{
+  "id" : "A49940",
+  "authors" : [ "Lee, Nathaniel" ],
+  "title" : "Sophonisba, or Hannibal's Overthrow",
+  "dramatisPersonae" : {
+    "id" : "A49940-e290",
+    "pb" : "A49940-004-a",
+    "items" : [ [ "Hannibal ,", "Hannibal , General of Carthage . Mr. Moon ." ], [ "Maherbal ,", "Maherbal , Lievftenant General . Mr. Wats ." ], [ "Bomilcar ,", "Bomilcar , Master of the Horse , and Elephants . Mr. Haris ." ], [ "Scipio ,", "Scipio , Consul of Rome . Mr. Kingeston ." ], [ "Lelius ,", "Lelius , His Lievftenant . Mr. Wintersel ." ], [ "Massinissa , Syphax ,", "Massinissa , Syphax , Kings of Nudimia ; both married to Sophonisba . Mr. Harte ." ], [ "Massina ,", "Massina , Nephew of Massinissa . Mr. Clarke ." ], [ "Menander ,", "Menander , The confident of Massinissa . Mr. —" ], [ "Sophonisba ,", "Sophonisba , A Carthaginian Lady daughter of Asdrubal . Mrs. Cosh ." ], [ "Rosalinda ,", "Rosalinda , A Roman Lady the Mistress of Hannibal . Mrs. Damport ." ], [ "Rezambe , Merna ,", "Rezambe , Merna , Maids of honour , and confidents of Sophonisba . Mrs. —" ] ]
+  },
+  "speeches" : [ {
+    "id" : "A49940-e1160",
+    "pb" : "A49940-004-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e1400",
+    "pb" : "A49940-005-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e1530",
+    "pb" : "A49940-005-a",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e1690",
+    "pb" : "A49940-005-a",
+    "speaker" : "Han"
+  }, {
+    "id" : "A49940-e1800",
+    "pb" : "A49940-005-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e1910",
+    "pb" : "A49940-005-a",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e1970",
+    "pb" : "A49940-005-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e2050",
+    "pb" : "A49940-005-b",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e2110",
+    "pb" : "A49940-005-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e2240",
+    "pb" : "A49940-005-b",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e2280",
+    "pb" : "A49940-005-b",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e2320",
+    "pb" : "A49940-005-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e2480",
+    "pb" : "A49940-005-b",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e2580",
+    "pb" : "A49940-006-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e2680",
+    "pb" : "A49940-006-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e2830",
+    "pb" : "A49940-006-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e2900",
+    "pb" : "A49940-006-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e3060",
+    "pb" : "A49940-006-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e3140",
+    "pb" : "A49940-006-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e3230",
+    "pb" : "A49940-006-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e3260",
+    "pb" : "A49940-006-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e3290",
+    "pb" : "A49940-006-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e3380",
+    "pb" : "A49940-006-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e3440",
+    "pb" : "A49940-006-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e3590",
+    "pb" : "A49940-006-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e3630",
+    "pb" : "A49940-006-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e3670",
+    "pb" : "A49940-006-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e3770",
+    "pb" : "A49940-007-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e3800",
+    "pb" : "A49940-007-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e3840",
+    "pb" : "A49940-007-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e3940",
+    "pb" : "A49940-007-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e3970",
+    "pb" : "A49940-007-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e4090",
+    "pb" : "A49940-007-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e4180",
+    "pb" : "A49940-007-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e4240",
+    "pb" : "A49940-007-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e4320",
+    "pb" : "A49940-007-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e4420",
+    "pb" : "A49940-007-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e4460",
+    "pb" : "A49940-007-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e4640",
+    "pb" : "A49940-007-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e4680",
+    "pb" : "A49940-007-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e4730",
+    "pb" : "A49940-007-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e4760",
+    "pb" : "A49940-007-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e4870",
+    "pb" : "A49940-008-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e4940",
+    "pb" : "A49940-008-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e5030",
+    "pb" : "A49940-008-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e5070",
+    "pb" : "A49940-008-a",
+    "speaker" : "K. M."
+  }, {
+    "id" : "A49940-e5160",
+    "pb" : "A49940-008-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e5190",
+    "pb" : "A49940-008-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e5340",
+    "pb" : "A49940-008-a",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e5410",
+    "pb" : "A49940-008-b",
+    "speaker" : "Var."
+  }, {
+    "id" : "A49940-e5470",
+    "pb" : "A49940-008-b",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e5570",
+    "pb" : "A49940-008-b",
+    "speaker" : "Var."
+  }, {
+    "id" : "A49940-e5670",
+    "pb" : "A49940-008-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e5710",
+    "pb" : "A49940-008-b",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e5820",
+    "pb" : "A49940-008-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e6020",
+    "pb" : "A49940-009-a",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e6080",
+    "pb" : "A49940-009-a",
+    "speaker" : "Var."
+  }, {
+    "id" : "A49940-e6140",
+    "pb" : "A49940-009-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e6220",
+    "pb" : "A49940-009-a",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e6270",
+    "pb" : "A49940-009-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e6430",
+    "pb" : "A49940-009-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e6480",
+    "pb" : "A49940-009-b",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e6510",
+    "pb" : "A49940-009-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e6640",
+    "pb" : "A49940-009-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e6720",
+    "pb" : "A49940-009-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e6780",
+    "pb" : "A49940-009-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e6820",
+    "pb" : "A49940-009-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e6880",
+    "pb" : "A49940-009-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e6910",
+    "pb" : "A49940-009-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e7020",
+    "pb" : "A49940-010-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e7100",
+    "pb" : "A49940-010-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e7140",
+    "pb" : "A49940-010-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e7280",
+    "pb" : "A49940-010-a",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e7340",
+    "pb" : "A49940-010-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e7430",
+    "pb" : "A49940-010-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e7620",
+    "pb" : "A49940-010-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e7720",
+    "pb" : "A49940-010-b",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e7790",
+    "pb" : "A49940-010-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e7940",
+    "pb" : "A49940-010-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e8000",
+    "pb" : "A49940-010-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e8070",
+    "pb" : "A49940-010-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e8140",
+    "pb" : "A49940-011-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e8400",
+    "pb" : "A49940-011-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e8540",
+    "pb" : "A49940-011-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e8590",
+    "pb" : "A49940-011-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e8660",
+    "pb" : "A49940-011-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e8710",
+    "pb" : "A49940-011-b",
+    "speaker" : "K. Mass."
+  }, {
+    "id" : "A49940-e8790",
+    "pb" : "A49940-011-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e8890",
+    "pb" : "A49940-011-b",
+    "speaker" : "K. Mass."
+  }, {
+    "id" : "A49940-e8950",
+    "pb" : "A49940-011-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e9010",
+    "pb" : "A49940-011-b",
+    "speaker" : "K. Mass."
+  }, {
+    "id" : "A49940-e9060",
+    "pb" : "A49940-011-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e9170",
+    "pb" : "A49940-011-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e9240",
+    "pb" : "A49940-012-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e9280",
+    "pb" : "A49940-012-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e9420",
+    "pb" : "A49940-012-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e9480",
+    "pb" : "A49940-012-a",
+    "speaker" : "Mas."
+  }, {
+    "id" : "A49940-e9540",
+    "pb" : "A49940-012-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e9570",
+    "pb" : "A49940-012-a",
+    "speaker" : "Mas."
+  }, {
+    "id" : "A49940-e9610",
+    "pb" : "A49940-012-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e9640",
+    "pb" : "A49940-012-a",
+    "speaker" : "Mas."
+  }, {
+    "id" : "A49940-e9700",
+    "pb" : "A49940-012-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e9730",
+    "pb" : "A49940-012-a",
+    "speaker" : "Mas."
+  }, {
+    "id" : "A49940-e9810",
+    "pb" : "A49940-012-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e9850",
+    "pb" : "A49940-012-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e9910",
+    "pb" : "A49940-012-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e9990",
+    "pb" : "A49940-012-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e10070",
+    "pb" : "A49940-012-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e10140",
+    "pb" : "A49940-012-b",
+    "speaker" : "Mas."
+  }, {
+    "id" : "A49940-e10190",
+    "pb" : "A49940-012-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e10250",
+    "pb" : "A49940-012-b",
+    "speaker" : "Mas."
+  }, {
+    "id" : "A49940-e10310",
+    "pb" : "A49940-012-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e10440",
+    "pb" : "A49940-013-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e10540",
+    "pb" : "A49940-013-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e10660",
+    "pb" : "A49940-013-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e10980",
+    "pb" : "A49940-013-b",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e11010",
+    "pb" : "A49940-013-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e11050",
+    "pb" : "A49940-013-b",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e11120",
+    "pb" : "A49940-013-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e11160",
+    "pb" : "A49940-013-b",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e11220",
+    "pb" : "A49940-013-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e11310",
+    "pb" : "A49940-013-b",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e11350",
+    "pb" : "A49940-013-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e11430",
+    "pb" : "A49940-014-a",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e11500",
+    "pb" : "A49940-014-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e11660",
+    "pb" : "A49940-014-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e11690",
+    "pb" : "A49940-014-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e11860",
+    "pb" : "A49940-014-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e12000",
+    "pb" : "A49940-014-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e12040",
+    "pb" : "A49940-014-b",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e12100",
+    "pb" : "A49940-014-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e12390",
+    "pb" : "A49940-015-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e12440",
+    "pb" : "A49940-015-a",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e12470",
+    "pb" : "A49940-015-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e12550",
+    "pb" : "A49940-015-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e12600",
+    "pb" : "A49940-015-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e12660",
+    "pb" : "A49940-015-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e12740",
+    "pb" : "A49940-015-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e12800",
+    "pb" : "A49940-015-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e12930",
+    "pb" : "A49940-015-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e13040",
+    "pb" : "A49940-015-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e13170",
+    "pb" : "A49940-015-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e13210",
+    "pb" : "A49940-015-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e13270",
+    "pb" : "A49940-015-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e13310",
+    "pb" : "A49940-015-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e13370",
+    "pb" : "A49940-015-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e13450",
+    "pb" : "A49940-015-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e13500",
+    "pb" : "A49940-016-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e13720",
+    "pb" : "A49940-016-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e13890",
+    "pb" : "A49940-016-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e14000",
+    "pb" : "A49940-016-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e14030",
+    "pb" : "A49940-016-b",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e14110",
+    "pb" : "A49940-016-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e14190",
+    "pb" : "A49940-016-b",
+    "speaker" : "Treb."
+  }, {
+    "id" : "A49940-e14270",
+    "pb" : "A49940-016-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e14300",
+    "pb" : "A49940-016-b",
+    "speaker" : "Treb."
+  }, {
+    "id" : "A49940-e14450",
+    "pb" : "A49940-016-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e14490",
+    "pb" : "A49940-016-b",
+    "speaker" : "Treb."
+  }, {
+    "id" : "A49940-e14640",
+    "pb" : "A49940-017-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e14690",
+    "pb" : "A49940-017-a",
+    "speaker" : "Treb."
+  }, {
+    "id" : "A49940-e14760",
+    "pb" : "A49940-017-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e14900",
+    "pb" : "A49940-017-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e14970",
+    "pb" : "A49940-017-a",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e15060",
+    "pb" : "A49940-017-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e15090",
+    "pb" : "A49940-017-a",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e15190",
+    "pb" : "A49940-017-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e15380",
+    "pb" : "A49940-017-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e15420",
+    "pb" : "A49940-017-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e15470",
+    "pb" : "A49940-017-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e15550",
+    "pb" : "A49940-017-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e15650",
+    "pb" : "A49940-017-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e15690",
+    "pb" : "A49940-017-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e15810",
+    "pb" : "A49940-018-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e15890",
+    "pb" : "A49940-018-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e15970",
+    "pb" : "A49940-018-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e16050",
+    "pb" : "A49940-018-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e16110",
+    "pb" : "A49940-018-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e16170",
+    "pb" : "A49940-018-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e16210",
+    "pb" : "A49940-018-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e16270",
+    "pb" : "A49940-018-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e16310",
+    "pb" : "A49940-018-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e16430",
+    "pb" : "A49940-018-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e16490",
+    "pb" : "A49940-018-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e16560",
+    "pb" : "A49940-018-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e16610",
+    "pb" : "A49940-018-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e16720",
+    "pb" : "A49940-018-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e16830",
+    "pb" : "A49940-018-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e16890",
+    "pb" : "A49940-018-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e16920",
+    "pb" : "A49940-018-b",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e17080",
+    "pb" : "A49940-019-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e17110",
+    "pb" : "A49940-019-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e17140",
+    "pb" : "A49940-019-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e17170",
+    "pb" : "A49940-019-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e17240",
+    "pb" : "A49940-019-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e17270",
+    "pb" : "A49940-019-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e17300",
+    "pb" : "A49940-019-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e17330",
+    "pb" : "A49940-019-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e17430",
+    "pb" : "A49940-019-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e17520",
+    "pb" : "A49940-019-a",
+    "speaker" : "Mass."
+  }, {
+    "id" : "A49940-e17600",
+    "pb" : "A49940-019-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e17670",
+    "pb" : "A49940-019-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e17800",
+    "pb" : "A49940-019-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e17990",
+    "pb" : "A49940-019-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e18050",
+    "pb" : "A49940-020-a",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e18120",
+    "pb" : "A49940-020-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e18190",
+    "pb" : "A49940-020-a",
+    "speaker" : "Men ,"
+  }, {
+    "id" : "A49940-e18270",
+    "pb" : "A49940-020-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e18370",
+    "pb" : "A49940-020-a",
+    "speaker" : "Man."
+  }, {
+    "id" : "A49940-e18410",
+    "pb" : "A49940-020-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e18570",
+    "pb" : "A49940-020-b",
+    "speaker" : "Seph ."
+  }, {
+    "id" : "A49940-e18730",
+    "pb" : "A49940-020-b",
+    "speaker" : "Mer."
+  }, {
+    "id" : "A49940-e18760",
+    "pb" : "A49940-020-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e18880",
+    "pb" : "A49940-020-b",
+    "speaker" : "Rez ."
+  }, {
+    "id" : "A49940-e18970",
+    "pb" : "A49940-020-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e19080",
+    "pb" : "A49940-020-b",
+    "speaker" : "Rez ."
+  }, {
+    "id" : "A49940-e19170",
+    "pb" : "A49940-021-a",
+    "speaker" : "Mer."
+  }, {
+    "id" : "A49940-e19250",
+    "pb" : "A49940-021-a",
+    "speaker" : "Rez ."
+  }, {
+    "id" : "A49940-e19310",
+    "pb" : "A49940-021-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e19370",
+    "pb" : "A49940-021-a",
+    "speaker" : "Rez ."
+  }, {
+    "id" : "A49940-e19440",
+    "pb" : "A49940-021-a",
+    "speaker" : "K. Mass."
+  }, {
+    "id" : "A49940-e19540",
+    "pb" : "A49940-021-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e19620",
+    "pb" : "A49940-021-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e19700",
+    "pb" : "A49940-021-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e19730",
+    "pb" : "A49940-021-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e19770",
+    "pb" : "A49940-021-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e19800",
+    "pb" : "A49940-021-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e19870",
+    "pb" : "A49940-021-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e19910",
+    "pb" : "A49940-021-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e19970",
+    "pb" : "A49940-021-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e20010",
+    "pb" : "A49940-021-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e20090",
+    "pb" : "A49940-021-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e20130",
+    "pb" : "A49940-021-b",
+    "speaker" : "Rez ."
+  }, {
+    "id" : "A49940-e20180",
+    "pb" : "A49940-021-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e20220",
+    "pb" : "A49940-021-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e20250",
+    "pb" : "A49940-021-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e20320",
+    "pb" : "A49940-021-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e20350",
+    "pb" : "A49940-021-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e20400",
+    "pb" : "A49940-021-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e20560",
+    "pb" : "A49940-022-a",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e20590",
+    "pb" : "A49940-022-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e20620",
+    "pb" : "A49940-022-a",
+    "speaker" : "Mern ."
+  }, {
+    "id" : "A49940-e20660",
+    "pb" : "A49940-022-a",
+    "speaker" : "Rez ."
+  }, {
+    "id" : "A49940-e20690",
+    "pb" : "A49940-022-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e20840",
+    "pb" : "A49940-022-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e20880",
+    "pb" : "A49940-022-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e20940",
+    "pb" : "A49940-022-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e21000",
+    "pb" : "A49940-022-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e21060",
+    "pb" : "A49940-022-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e21090",
+    "pb" : "A49940-022-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e21180",
+    "pb" : "A49940-022-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e21280",
+    "pb" : "A49940-022-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e21320",
+    "pb" : "A49940-022-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e21430",
+    "pb" : "A49940-022-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e21480",
+    "pb" : "A49940-022-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e21540",
+    "pb" : "A49940-022-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e21620",
+    "pb" : "A49940-022-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e21660",
+    "pb" : "A49940-022-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e21700",
+    "pb" : "A49940-023-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e21810",
+    "pb" : "A49940-023-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e21850",
+    "pb" : "A49940-023-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e21940",
+    "pb" : "A49940-023-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e22030",
+    "pb" : "A49940-023-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e22110",
+    "pb" : "A49940-023-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e22150",
+    "pb" : "A49940-023-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e22230",
+    "pb" : "A49940-023-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e22310",
+    "pb" : "A49940-023-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e22380",
+    "pb" : "A49940-023-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e22410",
+    "pb" : "A49940-023-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e22460",
+    "pb" : "A49940-023-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e22490",
+    "pb" : "A49940-023-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e22550",
+    "pb" : "A49940-023-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e22650",
+    "pb" : "A49940-023-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e22720",
+    "pb" : "A49940-023-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e22750",
+    "pb" : "A49940-023-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e23020",
+    "pb" : "A49940-024-a",
+    "speaker" : "Agla ."
+  }, {
+    "id" : "A49940-e23080",
+    "pb" : "A49940-024-a",
+    "speaker" : "Cum."
+  }, {
+    "id" : "A49940-e23160",
+    "pb" : "A49940-024-a",
+    "speaker" : "Agla ."
+  }, {
+    "id" : "A49940-e23240",
+    "pb" : "A49940-024-a",
+    "speaker" : "Cum."
+  }, {
+    "id" : "A49940-e23350",
+    "pb" : "A49940-024-a",
+    "speaker" : "Agla ."
+  }, {
+    "id" : "A49940-e23430",
+    "pb" : "A49940-024-b",
+    "speaker" : "Cum."
+  }, {
+    "id" : "A49940-e23540",
+    "pb" : "A49940-024-b",
+    "speaker" : "Agla ."
+  }, {
+    "id" : "A49940-e23570",
+    "pb" : "A49940-024-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e23660",
+    "pb" : "A49940-024-b",
+    "speaker" : "Agla ."
+  }, {
+    "id" : "A49940-e24310",
+    "pb" : "A49940-025-b",
+    "speaker" : "Agla ."
+  }, {
+    "id" : "A49940-e24390",
+    "pb" : "A49940-025-b",
+    "speaker" : "Cum."
+  }, {
+    "id" : "A49940-e24470",
+    "pb" : "A49940-025-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e24640",
+    "pb" : "A49940-025-b",
+    "speaker" : "Agla ."
+  }, {
+    "id" : "A49940-e24760",
+    "pb" : "A49940-025-b",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e24800",
+    "pb" : "A49940-025-b",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e24860",
+    "pb" : "A49940-025-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e24980",
+    "pb" : "A49940-026-a",
+    "speaker" : "Agla ."
+  }, {
+    "id" : "A49940-e25060",
+    "pb" : "A49940-026-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e25240",
+    "pb" : "A49940-026-a",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e25280",
+    "pb" : "A49940-026-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e25340",
+    "pb" : "A49940-026-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e25440",
+    "pb" : "A49940-026-b",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e25480",
+    "pb" : "A49940-026-b",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e25520",
+    "pb" : "A49940-026-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e25710",
+    "pb" : "A49940-026-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e25760",
+    "pb" : "A49940-026-b",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e25930",
+    "pb" : "A49940-026-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e25970",
+    "pb" : "A49940-026-b",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e26090",
+    "pb" : "A49940-027-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e26220",
+    "pb" : "A49940-027-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e26330",
+    "pb" : "A49940-027-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e26420",
+    "pb" : "A49940-027-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e26530",
+    "pb" : "A49940-027-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e26590",
+    "pb" : "A49940-027-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e26640",
+    "pb" : "A49940-027-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e26760",
+    "pb" : "A49940-027-b",
+    "speaker" : "Treb."
+  }, {
+    "id" : "A49940-e26800",
+    "pb" : "A49940-027-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e26890",
+    "pb" : "A49940-027-b",
+    "speaker" : "Treb."
+  }, {
+    "id" : "A49940-e26970",
+    "pb" : "A49940-027-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e27180",
+    "pb" : "A49940-028-a",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e27250",
+    "pb" : "A49940-028-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e27360",
+    "pb" : "A49940-028-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e27430",
+    "pb" : "A49940-028-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e27500",
+    "pb" : "A49940-028-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e27540",
+    "pb" : "A49940-028-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e27640",
+    "pb" : "A49940-028-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e27730",
+    "pb" : "A49940-028-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e27790",
+    "pb" : "A49940-028-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e27920",
+    "pb" : "A49940-028-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e27960",
+    "pb" : "A49940-028-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e27990",
+    "pb" : "A49940-028-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e28020",
+    "pb" : "A49940-028-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e28200",
+    "pb" : "A49940-028-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e28270",
+    "pb" : "A49940-029-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e28330",
+    "pb" : "A49940-029-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e28430",
+    "pb" : "A49940-029-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e28480",
+    "pb" : "A49940-029-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e28510",
+    "pb" : "A49940-029-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e28540",
+    "pb" : "A49940-029-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e28570",
+    "pb" : "A49940-029-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e28620",
+    "pb" : "A49940-029-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e28650",
+    "pb" : "A49940-029-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e28680",
+    "pb" : "A49940-029-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e28730",
+    "pb" : "A49940-029-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e28880",
+    "pb" : "A49940-029-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e29010",
+    "pb" : "A49940-029-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e29130",
+    "pb" : "A49940-029-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e29170",
+    "pb" : "A49940-029-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e29210",
+    "pb" : "A49940-029-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e29330",
+    "pb" : "A49940-029-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e29380",
+    "pb" : "A49940-029-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e29410",
+    "pb" : "A49940-029-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e29480",
+    "pb" : "A49940-029-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e29540",
+    "pb" : "A49940-030-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e29710",
+    "pb" : "A49940-030-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e29750",
+    "pb" : "A49940-030-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e29790",
+    "pb" : "A49940-030-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e29890",
+    "pb" : "A49940-030-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e29950",
+    "pb" : "A49940-030-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e30230",
+    "pb" : "A49940-030-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e30480",
+    "pb" : "A49940-030-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e30710",
+    "pb" : "A49940-030-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e30740",
+    "pb" : "A49940-031-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e30810",
+    "pb" : "A49940-031-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e30970",
+    "pb" : "A49940-031-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e31100",
+    "pb" : "A49940-031-a",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e31160",
+    "pb" : "A49940-031-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e31270",
+    "pb" : "A49940-031-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e31400",
+    "pb" : "A49940-031-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e31530",
+    "pb" : "A49940-031-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e31610",
+    "pb" : "A49940-031-b",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e31670",
+    "pb" : "A49940-031-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e31850",
+    "pb" : "A49940-031-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e32000",
+    "pb" : "A49940-032-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e32110",
+    "pb" : "A49940-032-a",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e32170",
+    "pb" : "A49940-032-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e32230",
+    "pb" : "A49940-032-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e32290",
+    "pb" : "A49940-032-a",
+    "speaker" : "Mah ,"
+  }, {
+    "id" : "A49940-e32340",
+    "pb" : "A49940-032-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e32410",
+    "pb" : "A49940-032-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e32450",
+    "pb" : "A49940-032-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e32480",
+    "pb" : "A49940-032-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e32570",
+    "pb" : "A49940-032-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e32650",
+    "pb" : "A49940-032-a",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e32690",
+    "pb" : "A49940-032-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e32750",
+    "pb" : "A49940-032-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e32800",
+    "pb" : "A49940-032-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e32830",
+    "pb" : "A49940-032-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e32860",
+    "pb" : "A49940-032-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e32910",
+    "pb" : "A49940-032-b",
+    "speaker" : "Ros."
+  }, {
+    "id" : "A49940-e33040",
+    "pb" : "A49940-032-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e33140",
+    "pb" : "A49940-032-b",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e33200",
+    "pb" : "A49940-032-b",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e33260",
+    "pb" : "A49940-032-b",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e33410",
+    "pb" : "A49940-033-a",
+    "speaker" : "Bom."
+  }, {
+    "id" : "A49940-e33450",
+    "pb" : "A49940-033-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e33500",
+    "pb" : "A49940-033-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e33580",
+    "pb" : "A49940-033-a",
+    "speaker" : "Mah."
+  }, {
+    "id" : "A49940-e33620",
+    "pb" : "A49940-033-a",
+    "speaker" : "Han."
+  }, {
+    "id" : "A49940-e33840",
+    "pb" : "A49940-033-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e33880",
+    "pb" : "A49940-033-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e33940",
+    "pb" : "A49940-033-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e34020",
+    "pb" : "A49940-033-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e34150",
+    "pb" : "A49940-033-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e34240",
+    "pb" : "A49940-033-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e34270",
+    "pb" : "A49940-033-b",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e34370",
+    "pb" : "A49940-033-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e34500",
+    "pb" : "A49940-034-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e34530",
+    "pb" : "A49940-034-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e34610",
+    "pb" : "A49940-034-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e34650",
+    "pb" : "A49940-034-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e34730",
+    "pb" : "A49940-034-a",
+    "speaker" : "Scip."
+  }, {
+    "id" : "A49940-e34880",
+    "pb" : "A49940-034-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e34980",
+    "pb" : "A49940-034-a",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e35010",
+    "pb" : "A49940-034-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e35050",
+    "pb" : "A49940-034-a",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e35080",
+    "pb" : "A49940-034-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e35120",
+    "pb" : "A49940-034-a",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e35150",
+    "pb" : "A49940-034-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e35180",
+    "pb" : "A49940-034-a",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e35220",
+    "pb" : "A49940-034-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e35270",
+    "pb" : "A49940-034-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e35300",
+    "pb" : "A49940-034-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e35350",
+    "pb" : "A49940-034-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e35380",
+    "pb" : "A49940-034-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e35490",
+    "pb" : "A49940-034-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e35560",
+    "pb" : "A49940-034-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e35690",
+    "pb" : "A49940-034-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e35720",
+    "pb" : "A49940-034-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e35750",
+    "pb" : "A49940-034-b",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e35790",
+    "pb" : "A49940-034-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e35940",
+    "pb" : "A49940-035-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e36170",
+    "pb" : "A49940-035-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e36280",
+    "pb" : "A49940-035-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e36400",
+    "pb" : "A49940-035-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e36520",
+    "pb" : "A49940-035-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e36550",
+    "pb" : "A49940-035-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e36640",
+    "pb" : "A49940-035-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e36700",
+    "pb" : "A49940-035-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e36750",
+    "pb" : "A49940-035-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e36820",
+    "pb" : "A49940-035-b",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e36940",
+    "pb" : "A49940-035-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e37020",
+    "pb" : "A49940-036-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e37080",
+    "pb" : "A49940-036-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e37110",
+    "pb" : "A49940-036-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e37140",
+    "pb" : "A49940-036-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A49940-e37180",
+    "pb" : "A49940-036-a",
+    "speaker" : "K. Mas."
+  }, {
+    "id" : "A49940-e37260",
+    "pb" : "A49940-036-a",
+    "speaker" : "Men."
+  }, {
+    "id" : "A49940-e37310",
+    "pb" : "A49940-036-a",
+    "speaker" : "Lel."
+  }, {
+    "id" : "A49940-e37350",
+    "pb" : "A49940-036-a",
+    "speaker" : "Scip."
+  } ]
+}

@@ -1,0 +1,4976 @@
+{
+  "id" : "A13802",
+  "authors" : [ "Tomkis, Thomas" ],
+  "title" : "Albumazar",
+  "dramatisPersonae" : {
+    "id" : "A13802-e100080",
+    "pb" : "A13802-003-a",
+    "items" : [ [ "ALBVMAZAR .", "An Astrologer ." ], [ "RONCA .", "Theeues ." ], [ "HARPAX .", "Theeues ." ], [ "FVRBO .", "Theeues ." ], [ "PANDOLFO .", "An old Gentleman ." ], [ "CRICCA .", "His seruant ." ], [ "TRINCALO .", "Pandolfo's Farmer ." ], [ "ARMELLINA .", "Antonio's Maid ." ], [ "LELIO .", "Antonio's sonne ." ], [ "EVGENIO .", "Pandolfo's sonne ." ], [ "FLAVIA .", "Antonio's daughter ." ], [ "SVLPITIA .", "Pandolfo's daughter ." ], [ "BEVILONA .", "A Curtezan ." ], [ "ANTONIO .", "An old Gentleman ." ] ]
+  },
+  "speeches" : [ {
+    "id" : "A13802-e100610",
+    "pb" : "A13802-004-b",
+    "speaker" : "ALBVMAZAR .",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e100710",
+    "pb" : "A13802-004-b",
+    "speaker" : "RONC.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e100730",
+    "pb" : "A13802-004-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e100820",
+    "pb" : "A13802-004-b",
+    "speaker" : "HARP.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e100860",
+    "pb" : "A13802-005-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e101000",
+    "pb" : "A13802-005-a",
+    "speaker" : "RONC.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e101020",
+    "pb" : "A13802-005-a",
+    "speaker" : "HARP.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e101040",
+    "pb" : "A13802-005-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e101150",
+    "pb" : "A13802-005-a",
+    "speaker" : "RONC.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e101230",
+    "pb" : "A13802-005-a",
+    "speaker" : "HARP.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e101260",
+    "pb" : "A13802-005-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e101340",
+    "pb" : "A13802-005-b",
+    "speaker" : "HARP.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e101360",
+    "pb" : "A13802-005-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e101380",
+    "pb" : "A13802-005-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e101470",
+    "pb" : "A13802-005-b",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e101490",
+    "pb" : "A13802-005-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e101540",
+    "pb" : "A13802-005-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e101650",
+    "pb" : "A13802-005-b",
+    "speaker" : "FVRB.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e101710",
+    "pb" : "A13802-005-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e101810",
+    "pb" : "A13802-006-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e101920",
+    "pb" : "A13802-006-a",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e101940",
+    "pb" : "A13802-006-a",
+    "speaker" : "FVR.",
+    "who" : "A13802-furbo"
+  }, {
+    "id" : "A13802-e101990",
+    "pb" : "A13802-006-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e102020",
+    "pb" : "A13802-006-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102080",
+    "pb" : "A13802-006-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e102110",
+    "pb" : "A13802-006-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102180",
+    "pb" : "A13802-006-a",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e102220",
+    "pb" : "A13802-006-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102270",
+    "pb" : "A13802-006-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e102290",
+    "pb" : "A13802-006-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102450",
+    "pb" : "A13802-006-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e102530",
+    "pb" : "A13802-006-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102570",
+    "pb" : "A13802-006-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e102600",
+    "pb" : "A13802-006-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102680",
+    "pb" : "A13802-006-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e102710",
+    "pb" : "A13802-007-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102750",
+    "pb" : "A13802-007-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e102770",
+    "pb" : "A13802-007-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102800",
+    "pb" : "A13802-007-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e102820",
+    "pb" : "A13802-007-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102840",
+    "pb" : "A13802-007-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e102870",
+    "pb" : "A13802-007-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102900",
+    "pb" : "A13802-007-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e102950",
+    "pb" : "A13802-007-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e102970",
+    "pb" : "A13802-007-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103040",
+    "pb" : "A13802-007-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103060",
+    "pb" : "A13802-007-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103110",
+    "pb" : "A13802-007-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103130",
+    "pb" : "A13802-007-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103150",
+    "pb" : "A13802-007-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103170",
+    "pb" : "A13802-007-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103210",
+    "pb" : "A13802-007-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103230",
+    "pb" : "A13802-007-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103290",
+    "pb" : "A13802-007-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103310",
+    "pb" : "A13802-007-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103360",
+    "pb" : "A13802-007-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103380",
+    "pb" : "A13802-007-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103430",
+    "pb" : "A13802-007-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103450",
+    "pb" : "A13802-007-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103550",
+    "pb" : "A13802-007-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103570",
+    "pb" : "A13802-007-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103630",
+    "pb" : "A13802-007-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103650",
+    "pb" : "A13802-007-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103670",
+    "pb" : "A13802-007-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103690",
+    "pb" : "A13802-007-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103710",
+    "pb" : "A13802-007-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103790",
+    "pb" : "A13802-007-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103810",
+    "pb" : "A13802-007-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103840",
+    "pb" : "A13802-007-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103870",
+    "pb" : "A13802-007-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103910",
+    "pb" : "A13802-008-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e103940",
+    "pb" : "A13802-008-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e103960",
+    "pb" : "A13802-008-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104060",
+    "pb" : "A13802-008-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104080",
+    "pb" : "A13802-008-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104110",
+    "pb" : "A13802-008-a",
+    "speaker" : "Pan.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104130",
+    "pb" : "A13802-008-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104170",
+    "pb" : "A13802-008-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104190",
+    "pb" : "A13802-008-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104230",
+    "pb" : "A13802-008-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104260",
+    "pb" : "A13802-008-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104280",
+    "pb" : "A13802-008-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104300",
+    "pb" : "A13802-008-a",
+    "speaker" : "Ron.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104320",
+    "pb" : "A13802-008-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104350",
+    "pb" : "A13802-008-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104430",
+    "pb" : "A13802-008-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104450",
+    "pb" : "A13802-008-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104470",
+    "pb" : "A13802-008-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104500",
+    "pb" : "A13802-008-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104520",
+    "pb" : "A13802-008-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104550",
+    "pb" : "A13802-008-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104590",
+    "pb" : "A13802-008-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104610",
+    "pb" : "A13802-008-b",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104640",
+    "pb" : "A13802-008-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104690",
+    "pb" : "A13802-008-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104740",
+    "pb" : "A13802-008-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e104760",
+    "pb" : "A13802-008-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104810",
+    "pb" : "A13802-008-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e104830",
+    "pb" : "A13802-008-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104880",
+    "pb" : "A13802-008-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e104960",
+    "pb" : "A13802-008-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e104990",
+    "pb" : "A13802-008-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e105040",
+    "pb" : "A13802-008-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e105090",
+    "pb" : "A13802-009-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e105110",
+    "pb" : "A13802-009-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e105130",
+    "pb" : "A13802-009-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e105190",
+    "pb" : "A13802-009-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e105210",
+    "pb" : "A13802-009-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e105230",
+    "pb" : "A13802-009-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e105270",
+    "pb" : "A13802-009-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e105290",
+    "pb" : "A13802-009-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e105370",
+    "pb" : "A13802-009-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e105450",
+    "pb" : "A13802-009-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e105480",
+    "pb" : "A13802-009-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e105500",
+    "pb" : "A13802-009-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e105600",
+    "pb" : "A13802-009-b",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e105640",
+    "pb" : "A13802-009-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e105680",
+    "pb" : "A13802-009-b",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e105700",
+    "pb" : "A13802-009-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e105730",
+    "pb" : "A13802-009-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e105760",
+    "pb" : "A13802-009-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e105800",
+    "pb" : "A13802-009-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e105820",
+    "pb" : "A13802-009-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e105930",
+    "pb" : "A13802-009-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e105970",
+    "pb" : "A13802-009-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e106040",
+    "pb" : "A13802-009-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e106060",
+    "pb" : "A13802-009-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e106090",
+    "pb" : "A13802-010-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e106110",
+    "pb" : "A13802-010-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e106130",
+    "pb" : "A13802-010-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e106230",
+    "pb" : "A13802-010-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e106260",
+    "pb" : "A13802-010-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e106280",
+    "pb" : "A13802-010-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e106310",
+    "pb" : "A13802-010-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e106360",
+    "pb" : "A13802-010-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e106380",
+    "pb" : "A13802-010-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e106440",
+    "pb" : "A13802-010-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e106470",
+    "pb" : "A13802-010-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e106490",
+    "pb" : "A13802-010-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e106530",
+    "pb" : "A13802-010-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e106560",
+    "pb" : "A13802-010-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e106580",
+    "pb" : "A13802-010-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e106630",
+    "pb" : "A13802-010-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e106650",
+    "pb" : "A13802-010-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e106690",
+    "pb" : "A13802-010-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e106750",
+    "pb" : "A13802-010-b",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e106780",
+    "pb" : "A13802-010-b",
+    "speaker" : "FVR.",
+    "who" : "A13802-furbo"
+  }, {
+    "id" : "A13802-e106800",
+    "pb" : "A13802-010-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e106830",
+    "pb" : "A13802-010-b",
+    "speaker" : "HARP.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e106860",
+    "pb" : "A13802-010-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e106880",
+    "pb" : "A13802-010-b",
+    "speaker" : "FVRB.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e106900",
+    "pb" : "A13802-010-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e106920",
+    "pb" : "A13802-010-b",
+    "speaker" : "HARP.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e106960",
+    "pb" : "A13802-010-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e106980",
+    "pb" : "A13802-010-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107000",
+    "pb" : "A13802-010-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e107030",
+    "pb" : "A13802-010-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107050",
+    "pb" : "A13802-010-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e107070",
+    "pb" : "A13802-010-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107090",
+    "pb" : "A13802-010-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e107130",
+    "pb" : "A13802-010-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107160",
+    "pb" : "A13802-010-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e107190",
+    "pb" : "A13802-010-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e107260",
+    "pb" : "A13802-010-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e107280",
+    "pb" : "A13802-010-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e107300",
+    "pb" : "A13802-010-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107320",
+    "pb" : "A13802-010-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e107350",
+    "pb" : "A13802-011-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e107380",
+    "pb" : "A13802-011-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107400",
+    "pb" : "A13802-011-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e107440",
+    "pb" : "A13802-011-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107460",
+    "pb" : "A13802-011-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e107480",
+    "pb" : "A13802-011-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107510",
+    "pb" : "A13802-011-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e107540",
+    "pb" : "A13802-011-a",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107560",
+    "pb" : "A13802-011-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e107610",
+    "pb" : "A13802-011-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107630",
+    "pb" : "A13802-011-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e107720",
+    "pb" : "A13802-011-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107740",
+    "pb" : "A13802-011-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e107850",
+    "pb" : "A13802-011-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107910",
+    "pb" : "A13802-011-a",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e107950",
+    "pb" : "A13802-011-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e107970",
+    "pb" : "A13802-011-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e108010",
+    "pb" : "A13802-011-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e108060",
+    "pb" : "A13802-011-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e108130",
+    "pb" : "A13802-011-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e108150",
+    "pb" : "A13802-011-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e108250",
+    "pb" : "A13802-011-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e108270",
+    "pb" : "A13802-011-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e108300",
+    "pb" : "A13802-011-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e108320",
+    "pb" : "A13802-011-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e108360",
+    "pb" : "A13802-011-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e108380",
+    "pb" : "A13802-011-b",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e108430",
+    "pb" : "A13802-011-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e108480",
+    "pb" : "A13802-012-a",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e108540",
+    "pb" : "A13802-012-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e108560",
+    "pb" : "A13802-012-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e108580",
+    "pb" : "A13802-012-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e108620",
+    "pb" : "A13802-012-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e108660",
+    "pb" : "A13802-012-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e108720",
+    "pb" : "A13802-012-a",
+    "speaker" : "TRINCALA .",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e108740",
+    "pb" : "A13802-012-a",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e108760",
+    "pb" : "A13802-012-a",
+    "speaker" : "TRINC.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e108780",
+    "pb" : "A13802-012-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e108800",
+    "pb" : "A13802-012-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e108820",
+    "pb" : "A13802-012-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e108840",
+    "pb" : "A13802-012-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e108860",
+    "pb" : "A13802-012-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e108880",
+    "pb" : "A13802-012-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e108900",
+    "pb" : "A13802-012-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e108920",
+    "pb" : "A13802-012-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e108940",
+    "pb" : "A13802-012-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e108960",
+    "pb" : "A13802-012-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e108980",
+    "pb" : "A13802-012-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e109000",
+    "pb" : "A13802-012-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109020",
+    "pb" : "A13802-012-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e109040",
+    "pb" : "A13802-012-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109080",
+    "pb" : "A13802-013-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109130",
+    "pb" : "A13802-013-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109150",
+    "pb" : "A13802-013-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109170",
+    "pb" : "A13802-013-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109190",
+    "pb" : "A13802-013-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109220",
+    "pb" : "A13802-013-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109260",
+    "pb" : "A13802-013-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109290",
+    "pb" : "A13802-013-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109340",
+    "pb" : "A13802-013-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109370",
+    "pb" : "A13802-013-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109410",
+    "pb" : "A13802-013-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109450",
+    "pb" : "A13802-013-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109500",
+    "pb" : "A13802-013-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109530",
+    "pb" : "A13802-013-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109560",
+    "pb" : "A13802-013-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109650",
+    "pb" : "A13802-013-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109700",
+    "pb" : "A13802-013-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109760",
+    "pb" : "A13802-013-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109780",
+    "pb" : "A13802-013-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109800",
+    "pb" : "A13802-013-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109900",
+    "pb" : "A13802-013-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e109930",
+    "pb" : "A13802-013-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e109970",
+    "pb" : "A13802-013-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e110010",
+    "pb" : "A13802-013-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e110190",
+    "pb" : "A13802-014-a",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e110210",
+    "pb" : "A13802-014-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e110270",
+    "pb" : "A13802-014-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e110300",
+    "pb" : "A13802-014-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e110330",
+    "pb" : "A13802-014-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e110350",
+    "pb" : "A13802-014-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e110460",
+    "pb" : "A13802-014-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e110570",
+    "pb" : "A13802-014-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e110600",
+    "pb" : "A13802-014-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e110640",
+    "pb" : "A13802-014-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e110670",
+    "pb" : "A13802-014-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e110690",
+    "pb" : "A13802-014-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e110730",
+    "pb" : "A13802-014-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e110760",
+    "pb" : "A13802-014-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e110860",
+    "pb" : "A13802-014-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e110880",
+    "pb" : "A13802-014-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e110920",
+    "pb" : "A13802-014-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e110960",
+    "pb" : "A13802-014-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e111020",
+    "pb" : "A13802-015-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e111070",
+    "pb" : "A13802-015-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e111120",
+    "pb" : "A13802-015-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e111200",
+    "pb" : "A13802-015-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e111230",
+    "pb" : "A13802-015-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e111300",
+    "pb" : "A13802-015-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e111340",
+    "pb" : "A13802-015-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e111370",
+    "pb" : "A13802-015-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e111450",
+    "pb" : "A13802-015-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e111470",
+    "pb" : "A13802-015-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e111520",
+    "pb" : "A13802-015-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e111550",
+    "pb" : "A13802-015-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e111580",
+    "pb" : "A13802-015-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e111680",
+    "pb" : "A13802-015-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e111710",
+    "pb" : "A13802-015-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e111770",
+    "pb" : "A13802-015-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e111790",
+    "pb" : "A13802-015-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e111810",
+    "pb" : "A13802-015-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e111930",
+    "pb" : "A13802-015-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e111980",
+    "pb" : "A13802-016-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e112010",
+    "pb" : "A13802-016-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e112040",
+    "pb" : "A13802-016-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e112060",
+    "pb" : "A13802-016-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e112110",
+    "pb" : "A13802-016-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e112130",
+    "pb" : "A13802-016-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e112180",
+    "pb" : "A13802-016-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e112200",
+    "pb" : "A13802-016-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e112220",
+    "pb" : "A13802-016-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e112240",
+    "pb" : "A13802-016-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e112260",
+    "pb" : "A13802-016-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e112290",
+    "pb" : "A13802-016-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112340",
+    "pb" : "A13802-016-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112460",
+    "pb" : "A13802-016-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e112480",
+    "pb" : "A13802-016-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112510",
+    "pb" : "A13802-016-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e112530",
+    "pb" : "A13802-016-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112600",
+    "pb" : "A13802-016-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e112620",
+    "pb" : "A13802-016-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112660",
+    "pb" : "A13802-016-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e112680",
+    "pb" : "A13802-016-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112710",
+    "pb" : "A13802-016-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e112730",
+    "pb" : "A13802-016-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112760",
+    "pb" : "A13802-016-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e112790",
+    "pb" : "A13802-016-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112820",
+    "pb" : "A13802-016-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e112850",
+    "pb" : "A13802-016-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112880",
+    "pb" : "A13802-016-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e112900",
+    "pb" : "A13802-016-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112920",
+    "pb" : "A13802-016-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e112940",
+    "pb" : "A13802-016-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e112960",
+    "pb" : "A13802-016-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e112980",
+    "pb" : "A13802-016-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e113030",
+    "pb" : "A13802-016-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e113050",
+    "pb" : "A13802-016-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e113080",
+    "pb" : "A13802-016-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e113170",
+    "pb" : "A13802-017-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e113200",
+    "pb" : "A13802-017-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e113280",
+    "pb" : "A13802-017-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e113310",
+    "pb" : "A13802-017-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e113350",
+    "pb" : "A13802-017-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e113420",
+    "pb" : "A13802-017-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e113440",
+    "pb" : "A13802-017-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e113490",
+    "pb" : "A13802-017-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e113520",
+    "pb" : "A13802-017-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e113590",
+    "pb" : "A13802-017-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e113620",
+    "pb" : "A13802-017-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e113640",
+    "pb" : "A13802-017-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e113690",
+    "pb" : "A13802-017-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e113730",
+    "pb" : "A13802-017-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e113750",
+    "pb" : "A13802-017-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e113790",
+    "pb" : "A13802-017-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e113850",
+    "pb" : "A13802-017-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e113880",
+    "pb" : "A13802-017-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e113960",
+    "pb" : "A13802-017-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e113980",
+    "pb" : "A13802-017-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e114030",
+    "pb" : "A13802-017-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e114080",
+    "pb" : "A13802-018-a",
+    "speaker" : "EV.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e114130",
+    "pb" : "A13802-018-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e114160",
+    "pb" : "A13802-018-a",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e114180",
+    "pb" : "A13802-018-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e114200",
+    "pb" : "A13802-018-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e114250",
+    "pb" : "A13802-018-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e114350",
+    "pb" : "A13802-018-a",
+    "speaker" : "EV.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e114400",
+    "pb" : "A13802-018-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e114490",
+    "pb" : "A13802-018-a",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e114530",
+    "pb" : "A13802-018-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e114560",
+    "pb" : "A13802-018-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e114580",
+    "pb" : "A13802-018-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e114640",
+    "pb" : "A13802-018-b",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e114660",
+    "pb" : "A13802-018-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e114750",
+    "pb" : "A13802-018-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e114790",
+    "pb" : "A13802-018-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e114850",
+    "pb" : "A13802-018-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e114880",
+    "pb" : "A13802-018-b",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e114920",
+    "pb" : "A13802-018-b",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e114940",
+    "pb" : "A13802-018-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e114980",
+    "pb" : "A13802-018-b",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e115050",
+    "pb" : "A13802-018-b",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115070",
+    "pb" : "A13802-018-b",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e115090",
+    "pb" : "A13802-018-b",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115190",
+    "pb" : "A13802-019-a",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e115230",
+    "pb" : "A13802-019-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115250",
+    "pb" : "A13802-019-a",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e115310",
+    "pb" : "A13802-019-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115350",
+    "pb" : "A13802-019-a",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e115470",
+    "pb" : "A13802-019-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115560",
+    "pb" : "A13802-019-a",
+    "speaker" : "EVG",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e115610",
+    "pb" : "A13802-019-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e115640",
+    "pb" : "A13802-019-b",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e115680",
+    "pb" : "A13802-019-b",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115720",
+    "pb" : "A13802-019-b",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e115740",
+    "pb" : "A13802-019-b",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115760",
+    "pb" : "A13802-019-b",
+    "speaker" : "SV.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e115780",
+    "pb" : "A13802-019-b",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115800",
+    "pb" : "A13802-019-b",
+    "speaker" : "SV.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e115820",
+    "pb" : "A13802-019-b",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115840",
+    "pb" : "A13802-019-b",
+    "speaker" : "SV.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e115860",
+    "pb" : "A13802-019-b",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115880",
+    "pb" : "A13802-019-b",
+    "speaker" : "SV.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e115900",
+    "pb" : "A13802-020-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115920",
+    "pb" : "A13802-020-a",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e115940",
+    "pb" : "A13802-020-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e115960",
+    "pb" : "A13802-020-a",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e115980",
+    "pb" : "A13802-020-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e116040",
+    "pb" : "A13802-020-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e116090",
+    "pb" : "A13802-020-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116110",
+    "pb" : "A13802-020-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e116140",
+    "pb" : "A13802-020-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116170",
+    "pb" : "A13802-020-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e116210",
+    "pb" : "A13802-020-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116240",
+    "pb" : "A13802-020-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e116290",
+    "pb" : "A13802-020-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116330",
+    "pb" : "A13802-020-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e116420",
+    "pb" : "A13802-020-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116460",
+    "pb" : "A13802-020-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e116490",
+    "pb" : "A13802-020-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116520",
+    "pb" : "A13802-020-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e116540",
+    "pb" : "A13802-020-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116650",
+    "pb" : "A13802-021-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e116690",
+    "pb" : "A13802-021-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116760",
+    "pb" : "A13802-021-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e116800",
+    "pb" : "A13802-021-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116830",
+    "pb" : "A13802-021-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e116870",
+    "pb" : "A13802-021-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e116900",
+    "pb" : "A13802-021-a",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116920",
+    "pb" : "A13802-021-a",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e116960",
+    "pb" : "A13802-021-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e116990",
+    "pb" : "A13802-021-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e117010",
+    "pb" : "A13802-021-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e117030",
+    "pb" : "A13802-021-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e117070",
+    "pb" : "A13802-021-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117090",
+    "pb" : "A13802-021-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e117110",
+    "pb" : "A13802-021-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117160",
+    "pb" : "A13802-021-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e117200",
+    "pb" : "A13802-021-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117230",
+    "pb" : "A13802-021-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e117250",
+    "pb" : "A13802-021-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117270",
+    "pb" : "A13802-021-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e117300",
+    "pb" : "A13802-021-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117330",
+    "pb" : "A13802-021-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e117360",
+    "pb" : "A13802-021-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117420",
+    "pb" : "A13802-021-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e117450",
+    "pb" : "A13802-021-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117480",
+    "pb" : "A13802-021-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e117510",
+    "pb" : "A13802-021-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117540",
+    "pb" : "A13802-021-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e117560",
+    "pb" : "A13802-021-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117580",
+    "pb" : "A13802-021-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e117600",
+    "pb" : "A13802-021-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117630",
+    "pb" : "A13802-021-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e117660",
+    "pb" : "A13802-021-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117700",
+    "pb" : "A13802-021-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e117830",
+    "pb" : "A13802-021-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e117860",
+    "pb" : "A13802-022-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e118000",
+    "pb" : "A13802-022-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e118050",
+    "pb" : "A13802-022-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e118160",
+    "pb" : "A13802-022-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e118180",
+    "pb" : "A13802-022-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e118260",
+    "pb" : "A13802-022-a",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e118280",
+    "pb" : "A13802-022-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e118350",
+    "pb" : "A13802-022-b",
+    "speaker" : "FVR.",
+    "who" : "A13802-furbo"
+  }, {
+    "id" : "A13802-e118370",
+    "pb" : "A13802-022-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e118420",
+    "pb" : "A13802-022-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e118480",
+    "pb" : "A13802-022-b",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e118540",
+    "pb" : "A13802-022-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e118580",
+    "pb" : "A13802-022-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e118680",
+    "pb" : "A13802-022-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e118710",
+    "pb" : "A13802-022-b",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e118830",
+    "pb" : "A13802-023-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e118870",
+    "pb" : "A13802-023-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119000",
+    "pb" : "A13802-023-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e119020",
+    "pb" : "A13802-023-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119140",
+    "pb" : "A13802-023-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e119170",
+    "pb" : "A13802-023-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119270",
+    "pb" : "A13802-023-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e119290",
+    "pb" : "A13802-023-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119350",
+    "pb" : "A13802-023-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e119370",
+    "pb" : "A13802-023-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119420",
+    "pb" : "A13802-023-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e119450",
+    "pb" : "A13802-023-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119480",
+    "pb" : "A13802-023-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e119510",
+    "pb" : "A13802-023-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119590",
+    "pb" : "A13802-023-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e119680",
+    "pb" : "A13802-024-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119700",
+    "pb" : "A13802-024-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e119760",
+    "pb" : "A13802-024-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119790",
+    "pb" : "A13802-024-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e119810",
+    "pb" : "A13802-024-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119830",
+    "pb" : "A13802-024-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e119860",
+    "pb" : "A13802-024-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119900",
+    "pb" : "A13802-024-a",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e119920",
+    "pb" : "A13802-024-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e119940",
+    "pb" : "A13802-024-a",
+    "speaker" : "HARP.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e119980",
+    "pb" : "A13802-024-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120010",
+    "pb" : "A13802-024-a",
+    "speaker" : "HARP.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e120040",
+    "pb" : "A13802-024-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120070",
+    "pb" : "A13802-024-b",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e120090",
+    "pb" : "A13802-024-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120110",
+    "pb" : "A13802-024-b",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e120140",
+    "pb" : "A13802-024-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120190",
+    "pb" : "A13802-024-b",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e120240",
+    "pb" : "A13802-024-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120310",
+    "pb" : "A13802-024-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120350",
+    "pb" : "A13802-024-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120380",
+    "pb" : "A13802-024-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120410",
+    "pb" : "A13802-024-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120430",
+    "pb" : "A13802-024-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120450",
+    "pb" : "A13802-024-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120480",
+    "pb" : "A13802-024-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120530",
+    "pb" : "A13802-024-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120550",
+    "pb" : "A13802-024-b",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120570",
+    "pb" : "A13802-024-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120620",
+    "pb" : "A13802-025-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120670",
+    "pb" : "A13802-025-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120700",
+    "pb" : "A13802-025-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120740",
+    "pb" : "A13802-025-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120780",
+    "pb" : "A13802-025-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120800",
+    "pb" : "A13802-025-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120820",
+    "pb" : "A13802-025-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120840",
+    "pb" : "A13802-025-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120860",
+    "pb" : "A13802-025-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120880",
+    "pb" : "A13802-025-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120900",
+    "pb" : "A13802-025-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120920",
+    "pb" : "A13802-025-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120940",
+    "pb" : "A13802-025-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e120960",
+    "pb" : "A13802-025-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e120980",
+    "pb" : "A13802-025-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e121000",
+    "pb" : "A13802-025-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e121020",
+    "pb" : "A13802-025-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e121060",
+    "pb" : "A13802-025-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e121160",
+    "pb" : "A13802-025-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e121190",
+    "pb" : "A13802-025-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e121220",
+    "pb" : "A13802-025-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e121240",
+    "pb" : "A13802-025-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e121270",
+    "pb" : "A13802-025-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e121330",
+    "pb" : "A13802-025-b",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e121480",
+    "pb" : "A13802-025-b",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e121560",
+    "pb" : "A13802-025-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e121580",
+    "pb" : "A13802-025-b",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e121610",
+    "pb" : "A13802-025-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e121640",
+    "pb" : "A13802-025-b",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e121680",
+    "pb" : "A13802-025-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e121770",
+    "pb" : "A13802-026-a",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e121840",
+    "pb" : "A13802-026-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e121870",
+    "pb" : "A13802-026-a",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e121930",
+    "pb" : "A13802-026-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e121950",
+    "pb" : "A13802-026-a",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e121970",
+    "pb" : "A13802-026-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e121990",
+    "pb" : "A13802-026-a",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122030",
+    "pb" : "A13802-026-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e122260",
+    "pb" : "A13802-026-b",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122280",
+    "pb" : "A13802-026-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e122350",
+    "pb" : "A13802-026-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e122390",
+    "pb" : "A13802-026-b",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122420",
+    "pb" : "A13802-026-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e122440",
+    "pb" : "A13802-026-b",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122460",
+    "pb" : "A13802-026-b",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e122480",
+    "pb" : "A13802-026-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e122500",
+    "pb" : "A13802-026-b",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122520",
+    "pb" : "A13802-026-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e122540",
+    "pb" : "A13802-026-b",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122590",
+    "pb" : "A13802-026-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e122620",
+    "pb" : "A13802-026-b",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122660",
+    "pb" : "A13802-026-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e122700",
+    "pb" : "A13802-026-b",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122720",
+    "pb" : "A13802-026-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e122740",
+    "pb" : "A13802-026-b",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122770",
+    "pb" : "A13802-026-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e122820",
+    "pb" : "A13802-026-b",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122870",
+    "pb" : "A13802-027-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e122910",
+    "pb" : "A13802-027-a",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122930",
+    "pb" : "A13802-027-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e122950",
+    "pb" : "A13802-027-a",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e122970",
+    "pb" : "A13802-027-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123020",
+    "pb" : "A13802-027-a",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e123040",
+    "pb" : "A13802-027-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123060",
+    "pb" : "A13802-027-a",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e123080",
+    "pb" : "A13802-027-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123100",
+    "pb" : "A13802-027-a",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e123120",
+    "pb" : "A13802-027-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123150",
+    "pb" : "A13802-027-a",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e123170",
+    "pb" : "A13802-027-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e123210",
+    "pb" : "A13802-027-a",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e123240",
+    "pb" : "A13802-027-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123260",
+    "pb" : "A13802-027-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e123280",
+    "pb" : "A13802-027-a",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123300",
+    "pb" : "A13802-027-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e123320",
+    "pb" : "A13802-027-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123410",
+    "pb" : "A13802-027-a",
+    "speaker" : "BEV.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e123430",
+    "pb" : "A13802-027-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123500",
+    "pb" : "A13802-027-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e123550",
+    "pb" : "A13802-027-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123570",
+    "pb" : "A13802-027-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e123610",
+    "pb" : "A13802-027-b",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123650",
+    "pb" : "A13802-027-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e123710",
+    "pb" : "A13802-027-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123730",
+    "pb" : "A13802-027-b",
+    "speaker" : "BE.",
+    "who" : "A13802-bevilona"
+  }, {
+    "id" : "A13802-e123750",
+    "pb" : "A13802-027-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e123790",
+    "pb" : "A13802-027-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e123810",
+    "pb" : "A13802-027-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e123890",
+    "pb" : "A13802-027-b",
+    "speaker" : "ANTONIO .",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124040",
+    "pb" : "A13802-028-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124090",
+    "pb" : "A13802-028-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124120",
+    "pb" : "A13802-028-a",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124190",
+    "pb" : "A13802-028-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124210",
+    "pb" : "A13802-028-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124240",
+    "pb" : "A13802-028-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124260",
+    "pb" : "A13802-028-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124290",
+    "pb" : "A13802-028-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124310",
+    "pb" : "A13802-028-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124350",
+    "pb" : "A13802-028-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124390",
+    "pb" : "A13802-028-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124450",
+    "pb" : "A13802-028-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124490",
+    "pb" : "A13802-028-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124550",
+    "pb" : "A13802-028-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124570",
+    "pb" : "A13802-028-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124610",
+    "pb" : "A13802-028-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124640",
+    "pb" : "A13802-028-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124670",
+    "pb" : "A13802-028-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124740",
+    "pb" : "A13802-028-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124780",
+    "pb" : "A13802-028-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124810",
+    "pb" : "A13802-028-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124860",
+    "pb" : "A13802-028-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e124880",
+    "pb" : "A13802-028-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124910",
+    "pb" : "A13802-028-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e124930",
+    "pb" : "A13802-028-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e124950",
+    "pb" : "A13802-028-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e124980",
+    "pb" : "A13802-028-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e125010",
+    "pb" : "A13802-028-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e125060",
+    "pb" : "A13802-028-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e125080",
+    "pb" : "A13802-028-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e125120",
+    "pb" : "A13802-029-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e125190",
+    "pb" : "A13802-029-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e125230",
+    "pb" : "A13802-029-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e125250",
+    "pb" : "A13802-029-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e125320",
+    "pb" : "A13802-029-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e125440",
+    "pb" : "A13802-029-a",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e125460",
+    "pb" : "A13802-029-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e125490",
+    "pb" : "A13802-029-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e125540",
+    "pb" : "A13802-029-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e125560",
+    "pb" : "A13802-029-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e125580",
+    "pb" : "A13802-029-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e125630",
+    "pb" : "A13802-029-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e125650",
+    "pb" : "A13802-029-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e125690",
+    "pb" : "A13802-029-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e125720",
+    "pb" : "A13802-029-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e125740",
+    "pb" : "A13802-029-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e125790",
+    "pb" : "A13802-029-b",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e125840",
+    "pb" : "A13802-029-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e125870",
+    "pb" : "A13802-029-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e125920",
+    "pb" : "A13802-029-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e125940",
+    "pb" : "A13802-029-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e125960",
+    "pb" : "A13802-029-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e126070",
+    "pb" : "A13802-029-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e126090",
+    "pb" : "A13802-029-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e126130",
+    "pb" : "A13802-029-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e126190",
+    "pb" : "A13802-030-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e126210",
+    "pb" : "A13802-030-a",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e126230",
+    "pb" : "A13802-030-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e126250",
+    "pb" : "A13802-030-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e126270",
+    "pb" : "A13802-030-a",
+    "speaker" : "FL.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e126320",
+    "pb" : "A13802-030-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e126340",
+    "pb" : "A13802-030-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e126370",
+    "pb" : "A13802-030-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e126400",
+    "pb" : "A13802-030-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e126420",
+    "pb" : "A13802-030-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e126440",
+    "pb" : "A13802-030-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e126460",
+    "pb" : "A13802-030-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e126490",
+    "pb" : "A13802-030-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e126520",
+    "pb" : "A13802-030-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e126550",
+    "pb" : "A13802-030-a",
+    "speaker" : "FL.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e126570",
+    "pb" : "A13802-030-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e126590",
+    "pb" : "A13802-030-a",
+    "speaker" : "FL.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e126630",
+    "pb" : "A13802-030-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e126660",
+    "pb" : "A13802-030-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e126680",
+    "pb" : "A13802-030-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e126700",
+    "pb" : "A13802-030-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e126750",
+    "pb" : "A13802-030-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e126770",
+    "pb" : "A13802-030-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e126790",
+    "pb" : "A13802-030-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e126810",
+    "pb" : "A13802-030-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e126830",
+    "pb" : "A13802-030-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e126850",
+    "pb" : "A13802-030-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e126890",
+    "pb" : "A13802-030-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e126920",
+    "pb" : "A13802-030-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e126970",
+    "pb" : "A13802-030-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e126990",
+    "pb" : "A13802-030-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e127060",
+    "pb" : "A13802-030-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e127080",
+    "pb" : "A13802-030-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e127110",
+    "pb" : "A13802-030-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e127180",
+    "pb" : "A13802-030-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e127220",
+    "pb" : "A13802-030-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e127280",
+    "pb" : "A13802-030-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e127360",
+    "pb" : "A13802-030-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e127400",
+    "pb" : "A13802-030-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e127450",
+    "pb" : "A13802-031-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e127560",
+    "pb" : "A13802-031-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e127610",
+    "pb" : "A13802-031-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e127690",
+    "pb" : "A13802-031-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e127730",
+    "pb" : "A13802-031-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e127750",
+    "pb" : "A13802-031-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e127770",
+    "pb" : "A13802-031-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e127790",
+    "pb" : "A13802-031-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e127810",
+    "pb" : "A13802-031-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e127850",
+    "pb" : "A13802-031-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e127890",
+    "pb" : "A13802-031-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e127930",
+    "pb" : "A13802-031-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e127950",
+    "pb" : "A13802-031-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128000",
+    "pb" : "A13802-031-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e128020",
+    "pb" : "A13802-031-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128040",
+    "pb" : "A13802-031-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e128070",
+    "pb" : "A13802-031-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128090",
+    "pb" : "A13802-031-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e128110",
+    "pb" : "A13802-031-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128160",
+    "pb" : "A13802-031-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128220",
+    "pb" : "A13802-031-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e128270",
+    "pb" : "A13802-031-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128320",
+    "pb" : "A13802-032-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e128370",
+    "pb" : "A13802-032-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128390",
+    "pb" : "A13802-032-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e128410",
+    "pb" : "A13802-032-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128430",
+    "pb" : "A13802-032-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e128450",
+    "pb" : "A13802-032-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128490",
+    "pb" : "A13802-032-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e128510",
+    "pb" : "A13802-032-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128530",
+    "pb" : "A13802-032-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e128600",
+    "pb" : "A13802-032-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128630",
+    "pb" : "A13802-032-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e128740",
+    "pb" : "A13802-032-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128800",
+    "pb" : "A13802-032-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e128830",
+    "pb" : "A13802-032-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e128940",
+    "pb" : "A13802-032-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e128960",
+    "pb" : "A13802-032-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e129020",
+    "pb" : "A13802-032-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e129050",
+    "pb" : "A13802-032-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e129070",
+    "pb" : "A13802-032-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e129090",
+    "pb" : "A13802-032-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e129110",
+    "pb" : "A13802-032-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e129190",
+    "pb" : "A13802-032-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e129240",
+    "pb" : "A13802-032-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e129260",
+    "pb" : "A13802-032-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e129280",
+    "pb" : "A13802-032-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e129310",
+    "pb" : "A13802-032-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e129380",
+    "pb" : "A13802-033-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e129470",
+    "pb" : "A13802-033-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e129500",
+    "pb" : "A13802-033-a",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e129520",
+    "pb" : "A13802-033-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e129540",
+    "pb" : "A13802-033-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e129560",
+    "pb" : "A13802-033-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e129580",
+    "pb" : "A13802-033-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e129610",
+    "pb" : "A13802-033-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e129630",
+    "pb" : "A13802-033-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e129650",
+    "pb" : "A13802-033-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e129670",
+    "pb" : "A13802-033-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e129690",
+    "pb" : "A13802-033-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e129760",
+    "pb" : "A13802-033-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e129780",
+    "pb" : "A13802-033-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e129850",
+    "pb" : "A13802-033-a",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e129880",
+    "pb" : "A13802-033-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e129940",
+    "pb" : "A13802-033-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e129980",
+    "pb" : "A13802-033-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e130030",
+    "pb" : "A13802-033-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e130050",
+    "pb" : "A13802-033-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e130180",
+    "pb" : "A13802-033-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e130250",
+    "pb" : "A13802-033-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e130300",
+    "pb" : "A13802-033-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e130330",
+    "pb" : "A13802-033-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e130360",
+    "pb" : "A13802-033-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e130410",
+    "pb" : "A13802-034-a",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e130580",
+    "pb" : "A13802-034-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e130610",
+    "pb" : "A13802-034-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e130630",
+    "pb" : "A13802-034-a",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e130750",
+    "pb" : "A13802-034-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e130790",
+    "pb" : "A13802-034-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e130850",
+    "pb" : "A13802-034-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e130880",
+    "pb" : "A13802-034-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e130910",
+    "pb" : "A13802-034-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e130930",
+    "pb" : "A13802-034-b",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e130990",
+    "pb" : "A13802-034-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e131010",
+    "pb" : "A13802-034-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131070",
+    "pb" : "A13802-034-b",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131100",
+    "pb" : "A13802-034-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131130",
+    "pb" : "A13802-034-b",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131170",
+    "pb" : "A13802-034-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131220",
+    "pb" : "A13802-034-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131250",
+    "pb" : "A13802-034-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131280",
+    "pb" : "A13802-034-b",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131310",
+    "pb" : "A13802-034-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131350",
+    "pb" : "A13802-034-b",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131370",
+    "pb" : "A13802-034-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131390",
+    "pb" : "A13802-034-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131410",
+    "pb" : "A13802-034-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131430",
+    "pb" : "A13802-035-a",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131540",
+    "pb" : "A13802-035-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131570",
+    "pb" : "A13802-035-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131600",
+    "pb" : "A13802-035-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131620",
+    "pb" : "A13802-035-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131650",
+    "pb" : "A13802-035-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131670",
+    "pb" : "A13802-035-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131700",
+    "pb" : "A13802-035-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131730",
+    "pb" : "A13802-035-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131760",
+    "pb" : "A13802-035-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131780",
+    "pb" : "A13802-035-a",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131800",
+    "pb" : "A13802-035-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131830",
+    "pb" : "A13802-035-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131850",
+    "pb" : "A13802-035-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131910",
+    "pb" : "A13802-035-a",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e131950",
+    "pb" : "A13802-035-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e131970",
+    "pb" : "A13802-035-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e132000",
+    "pb" : "A13802-035-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e132060",
+    "pb" : "A13802-035-a",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e132080",
+    "pb" : "A13802-035-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e132190",
+    "pb" : "A13802-035-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e132250",
+    "pb" : "A13802-035-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e132310",
+    "pb" : "A13802-035-b",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e132330",
+    "pb" : "A13802-035-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e132360",
+    "pb" : "A13802-035-b",
+    "speaker" : "ARM.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e132470",
+    "pb" : "A13802-035-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e132490",
+    "pb" : "A13802-035-b",
+    "speaker" : "AR.",
+    "who" : "A13802-armellina"
+  }, {
+    "id" : "A13802-e132510",
+    "pb" : "A13802-035-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e132550",
+    "pb" : "A13802-036-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e132600",
+    "pb" : "A13802-036-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e132620",
+    "pb" : "A13802-036-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e132660",
+    "pb" : "A13802-036-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e132700",
+    "pb" : "A13802-036-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e132780",
+    "pb" : "A13802-036-a",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e132800",
+    "pb" : "A13802-036-a",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e132840",
+    "pb" : "A13802-036-a",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e132870",
+    "pb" : "A13802-036-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e132910",
+    "pb" : "A13802-036-a",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e132960",
+    "pb" : "A13802-036-a",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e133000",
+    "pb" : "A13802-036-a",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e133160",
+    "pb" : "A13802-036-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e133180",
+    "pb" : "A13802-036-b",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e133270",
+    "pb" : "A13802-036-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e133290",
+    "pb" : "A13802-036-b",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e133340",
+    "pb" : "A13802-036-b",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e133360",
+    "pb" : "A13802-036-b",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e133470",
+    "pb" : "A13802-036-b",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e133510",
+    "pb" : "A13802-036-b",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e133540",
+    "pb" : "A13802-036-b",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e133610",
+    "pb" : "A13802-037-a",
+    "speaker" : "LEL.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e133710",
+    "pb" : "A13802-037-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e133760",
+    "pb" : "A13802-037-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e133780",
+    "pb" : "A13802-037-a",
+    "speaker" : "FVR.",
+    "who" : "A13802-furbo"
+  }, {
+    "id" : "A13802-e133800",
+    "pb" : "A13802-037-a",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e133820",
+    "pb" : "A13802-037-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e133880",
+    "pb" : "A13802-037-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e133930",
+    "pb" : "A13802-037-a",
+    "speaker" : "FVR.",
+    "who" : "A13802-furbo"
+  }, {
+    "id" : "A13802-e133960",
+    "pb" : "A13802-037-a",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e133990",
+    "pb" : "A13802-037-a",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e134070",
+    "pb" : "A13802-037-b",
+    "speaker" : "RO.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e134140",
+    "pb" : "A13802-037-b",
+    "speaker" : "FVR.",
+    "who" : "A13802-furbo"
+  }, {
+    "id" : "A13802-e134180",
+    "pb" : "A13802-037-b",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e134230",
+    "pb" : "A13802-037-b",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e134250",
+    "pb" : "A13802-037-b",
+    "speaker" : "FVR.",
+    "who" : "A13802-furbo"
+  }, {
+    "id" : "A13802-e134280",
+    "pb" : "A13802-037-b",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e134300",
+    "pb" : "A13802-037-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e134360",
+    "pb" : "A13802-037-b",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e134400",
+    "pb" : "A13802-037-b",
+    "speaker" : "HA.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e134430",
+    "pb" : "A13802-037-b",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e134450",
+    "pb" : "A13802-037-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e134480",
+    "pb" : "A13802-037-b",
+    "speaker" : "FVR.",
+    "who" : "A13802-furbo"
+  }, {
+    "id" : "A13802-e134520",
+    "pb" : "A13802-037-b",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e134570",
+    "pb" : "A13802-037-b",
+    "speaker" : "HAR.",
+    "who" : "A13802-harpax"
+  }, {
+    "id" : "A13802-e134620",
+    "pb" : "A13802-038-a",
+    "speaker" : "ALB.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e134660",
+    "pb" : "A13802-038-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e134760",
+    "pb" : "A13802-038-a",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e134790",
+    "pb" : "A13802-038-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e134810",
+    "pb" : "A13802-038-a",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e134830",
+    "pb" : "A13802-038-a",
+    "speaker" : "FVR.",
+    "who" : "A13802-furbo"
+  }, {
+    "id" : "A13802-e134880",
+    "pb" : "A13802-038-a",
+    "speaker" : "AL.",
+    "who" : "A13802-albumazar"
+  }, {
+    "id" : "A13802-e134910",
+    "pb" : "A13802-038-a",
+    "speaker" : "RON.",
+    "who" : "A13802-ronca"
+  }, {
+    "id" : "A13802-e134960",
+    "pb" : "A13802-038-a",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e135050",
+    "pb" : "A13802-038-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135090",
+    "pb" : "A13802-038-a",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e135150",
+    "pb" : "A13802-038-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135200",
+    "pb" : "A13802-038-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e135240",
+    "pb" : "A13802-038-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135270",
+    "pb" : "A13802-038-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e135330",
+    "pb" : "A13802-038-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135350",
+    "pb" : "A13802-038-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e135370",
+    "pb" : "A13802-038-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135390",
+    "pb" : "A13802-038-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e135420",
+    "pb" : "A13802-038-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135440",
+    "pb" : "A13802-038-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e135460",
+    "pb" : "A13802-038-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135480",
+    "pb" : "A13802-038-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e135500",
+    "pb" : "A13802-038-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135520",
+    "pb" : "A13802-038-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e135560",
+    "pb" : "A13802-038-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135640",
+    "pb" : "A13802-038-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e135670",
+    "pb" : "A13802-038-b",
+    "speaker" : "PANDOLFO .",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135810",
+    "pb" : "A13802-039-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e135830",
+    "pb" : "A13802-039-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e135850",
+    "pb" : "A13802-039-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135880",
+    "pb" : "A13802-039-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e135940",
+    "pb" : "A13802-039-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e135960",
+    "pb" : "A13802-039-a",
+    "speaker" : "EV.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e135990",
+    "pb" : "A13802-039-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e136050",
+    "pb" : "A13802-039-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e136080",
+    "pb" : "A13802-039-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e136120",
+    "pb" : "A13802-039-a",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e136190",
+    "pb" : "A13802-039-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e136210",
+    "pb" : "A13802-039-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e136240",
+    "pb" : "A13802-039-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e136270",
+    "pb" : "A13802-039-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e136330",
+    "pb" : "A13802-039-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e136350",
+    "pb" : "A13802-039-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e136390",
+    "pb" : "A13802-039-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e136450",
+    "pb" : "A13802-039-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e136470",
+    "pb" : "A13802-039-b",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e136510",
+    "pb" : "A13802-039-b",
+    "speaker" : "EVG.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e136550",
+    "pb" : "A13802-039-b",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e136580",
+    "pb" : "A13802-039-b",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e136620",
+    "pb" : "A13802-039-b",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e136660",
+    "pb" : "A13802-039-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e136680",
+    "pb" : "A13802-039-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e136730",
+    "pb" : "A13802-039-b",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e136750",
+    "pb" : "A13802-039-b",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e136770",
+    "pb" : "A13802-039-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e136820",
+    "pb" : "A13802-040-a",
+    "speaker" : "LE.",
+    "who" : "A13802-lelio"
+  }, {
+    "id" : "A13802-e136840",
+    "pb" : "A13802-040-a",
+    "speaker" : "EV.",
+    "who" : "A13802-eugenio"
+  }, {
+    "id" : "A13802-e136860",
+    "pb" : "A13802-040-a",
+    "speaker" : "FLA.",
+    "who" : "A13802-flavia"
+  }, {
+    "id" : "A13802-e136880",
+    "pb" : "A13802-040-a",
+    "speaker" : "SVL.",
+    "who" : "A13802-sulpitia"
+  }, {
+    "id" : "A13802-e136900",
+    "pb" : "A13802-040-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e136940",
+    "pb" : "A13802-040-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e137000",
+    "pb" : "A13802-040-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e137060",
+    "pb" : "A13802-040-a",
+    "speaker" : "ANT.",
+    "who" : "A13802-antonio"
+  }, {
+    "id" : "A13802-e137120",
+    "pb" : "A13802-040-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e137160",
+    "pb" : "A13802-040-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e137270",
+    "pb" : "A13802-040-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e137300",
+    "pb" : "A13802-040-a",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e137420",
+    "pb" : "A13802-040-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e137470",
+    "pb" : "A13802-040-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e137530",
+    "pb" : "A13802-040-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e137590",
+    "pb" : "A13802-040-b",
+    "speaker" : "AN.",
+    "who" : "A13802-anastasio"
+  }, {
+    "id" : "A13802-e137650",
+    "pb" : "A13802-040-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e137680",
+    "pb" : "A13802-040-b",
+    "speaker" : "PANDOLFO .",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e137870",
+    "pb" : "A13802-041-a",
+    "speaker" : "TRINCALO",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e137920",
+    "pb" : "A13802-041-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e137950",
+    "pb" : "A13802-041-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e137970",
+    "pb" : "A13802-041-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e137990",
+    "pb" : "A13802-041-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138010",
+    "pb" : "A13802-041-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138050",
+    "pb" : "A13802-041-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138070",
+    "pb" : "A13802-041-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138100",
+    "pb" : "A13802-041-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138120",
+    "pb" : "A13802-041-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138140",
+    "pb" : "A13802-041-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138160",
+    "pb" : "A13802-041-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138190",
+    "pb" : "A13802-041-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138250",
+    "pb" : "A13802-041-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138300",
+    "pb" : "A13802-041-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138330",
+    "pb" : "A13802-041-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138390",
+    "pb" : "A13802-041-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138410",
+    "pb" : "A13802-041-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138440",
+    "pb" : "A13802-041-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138460",
+    "pb" : "A13802-041-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138480",
+    "pb" : "A13802-041-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138540",
+    "pb" : "A13802-041-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138580",
+    "pb" : "A13802-041-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138600",
+    "pb" : "A13802-041-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138620",
+    "pb" : "A13802-041-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138660",
+    "pb" : "A13802-041-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138680",
+    "pb" : "A13802-041-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138700",
+    "pb" : "A13802-041-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138720",
+    "pb" : "A13802-041-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138740",
+    "pb" : "A13802-041-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138760",
+    "pb" : "A13802-041-b",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138820",
+    "pb" : "A13802-041-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138840",
+    "pb" : "A13802-041-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138860",
+    "pb" : "A13802-041-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138890",
+    "pb" : "A13802-041-b",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e138930",
+    "pb" : "A13802-042-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e138960",
+    "pb" : "A13802-042-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e139000",
+    "pb" : "A13802-042-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139020",
+    "pb" : "A13802-042-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e139040",
+    "pb" : "A13802-042-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139080",
+    "pb" : "A13802-042-a",
+    "speaker" : "TRI.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e139170",
+    "pb" : "A13802-042-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139190",
+    "pb" : "A13802-042-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e139210",
+    "pb" : "A13802-042-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139240",
+    "pb" : "A13802-042-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e139270",
+    "pb" : "A13802-042-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139310",
+    "pb" : "A13802-042-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e139350",
+    "pb" : "A13802-042-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139380",
+    "pb" : "A13802-042-a",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e139420",
+    "pb" : "A13802-042-a",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139460",
+    "pb" : "A13802-042-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e139480",
+    "pb" : "A13802-042-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139520",
+    "pb" : "A13802-042-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e139560",
+    "pb" : "A13802-042-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139580",
+    "pb" : "A13802-042-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e139610",
+    "pb" : "A13802-042-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139650",
+    "pb" : "A13802-042-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e139740",
+    "pb" : "A13802-042-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139760",
+    "pb" : "A13802-042-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e139800",
+    "pb" : "A13802-042-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139830",
+    "pb" : "A13802-042-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e139880",
+    "pb" : "A13802-042-b",
+    "speaker" : "PAN.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139900",
+    "pb" : "A13802-042-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e139930",
+    "pb" : "A13802-042-b",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e139960",
+    "pb" : "A13802-042-b",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e140030",
+    "pb" : "A13802-042-b",
+    "speaker" : "PA,",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e140050",
+    "pb" : "A13802-042-b",
+    "speaker" : "CR.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e140160",
+    "pb" : "A13802-043-a",
+    "speaker" : "PA.",
+    "who" : "A13802-pandolfo"
+  }, {
+    "id" : "A13802-e140280",
+    "pb" : "A13802-043-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e140320",
+    "pb" : "A13802-043-a",
+    "speaker" : "TRIN.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e140350",
+    "pb" : "A13802-043-a",
+    "speaker" : "CRIC.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e140410",
+    "pb" : "A13802-043-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  }, {
+    "id" : "A13802-e140430",
+    "pb" : "A13802-043-a",
+    "speaker" : "CRI.",
+    "who" : "A13802-cricca"
+  }, {
+    "id" : "A13802-e140450",
+    "pb" : "A13802-043-a",
+    "speaker" : "TR.",
+    "who" : "A13802-trincalo"
+  } ]
+}
