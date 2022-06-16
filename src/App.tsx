@@ -4,6 +4,7 @@ import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Layout, { AbsoluteBox } from './Layout';
+import PlaysTable from './PlaysTable';
 
 function App() {
   return (
@@ -34,15 +35,9 @@ function Plays() {
   return (
     <>
       <AbsoluteBox sx={{ overflow: 'auto' }}>
-        <ul>
-          {Array(30)
-            .fill(1)
-            .map((_, i) => (
-              <li>
-                <Link to={`${i + 1}`}>Play {i + 1}</Link>
-              </li>
-            ))}
-        </ul>
+        <Container maxWidth={false}>
+          <PlaysTable />
+        </Container>
       </AbsoluteBox>
       <Outlet />
     </>
