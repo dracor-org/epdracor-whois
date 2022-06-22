@@ -1,12 +1,12 @@
-import { Link, Outlet, Routes, Route, useParams } from 'react-router-dom';
+import { Link, Outlet, Routes, Route } from 'react-router-dom';
 import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import IconButton from '@mui/material/IconButton';
 import CloseIcon from '@mui/icons-material/Close';
-import Typography from '@mui/material/Typography';
 import Layout, { AbsoluteBox } from './Layout';
 import PlaysTable from './PlaysTable';
+import Play from './Play';
 
 function App() {
   return (
@@ -47,10 +47,9 @@ function Plays() {
 }
 
 function PlayPane() {
-  const { playId } = useParams();
   return (
     <AbsoluteBox sx={{ backgroundColor: 'white' }}>
-      <Container maxWidth={false}>
+      <Container maxWidth={false} sx={{ height: '100%' }}>
         <IconButton
           component={Link}
           to=".."
@@ -58,7 +57,7 @@ function PlayPane() {
         >
           <CloseIcon />
         </IconButton>
-        <Typography variant="h1">Play {playId}</Typography>
+        <Play />
       </Container>
     </AbsoluteBox>
   );
