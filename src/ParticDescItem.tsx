@@ -12,6 +12,7 @@ import FemaleIcon from '@mui/icons-material/Female';
 import MaleIcon from '@mui/icons-material/Male';
 import QuestionMarkIcon from '@mui/icons-material/QuestionMark';
 import { ParticDescItem } from './types';
+import Editable from './Editable';
 
 interface Props {
   data: ParticDescItem;
@@ -19,11 +20,13 @@ interface Props {
 }
 
 export default function ParticDescItemCmp({
-  data: { id, name, isGroup: isGroupProp, sex: sexProp },
+  data: { id: idProp, name: nameProp, isGroup: isGroupProp, sex: sexProp },
   onDelete,
 }: Props) {
   const [isGroup, setIsGroup] = useState(isGroupProp);
   const [sex, setSex] = useState(sexProp);
+  const [name, setName] = useState(nameProp);
+  const [id, setId] = useState(idProp);
 
   function cycleSex() {
     switch (sex) {
@@ -46,25 +49,38 @@ export default function ParticDescItemCmp({
     <Card>
       <CardContent sx={{ padding: 1, paddingBottom: 0, textAlign: 'left' }}>
         <Tooltip title={isGroup ? 'personGrp' : 'person'}>
-          <IconButton onClick={() => setIsGroup(!isGroup)}>
-            {isGroup ? <GroupIcon /> : <PersonIcon />}
+          <IconButton onClick={() => setIsGroup(!isGroup)} size="small">
+            {isGroup ? (
+              <GroupIcon fontSize="small" />
+            ) : (
+              <PersonIcon fontSize="small" />
+            )}
           </IconButton>
         </Tooltip>
         <Tooltip title={`Sex: ${sex || 'not defined'}`}>
           <IconButton onClick={cycleSex}>
-            {!sex && <QuestionMarkIcon sx={{ opacity: 0.5 }} />}
-            {sex === 'FEMALE' && <FemaleIcon />}
-            {sex === 'MALE' && <MaleIcon />}
-            {sex === 'UNKNOWN' && <QuestionMarkIcon />}
+            {!sex && (
+              <QuestionMarkIcon fontSize="small" sx={{ opacity: 0.5 }} />
+            )}
+            {sex === 'FEMALE' && <FemaleIcon fontSize="small" />}
+            {sex === 'MALE' && <MaleIcon fontSize="small" />}
+            {sex === 'UNKNOWN' && <QuestionMarkIcon fontSize="small" />}
           </IconButton>
         </Tooltip>
         <IconButton onClick={onDelete} size="small">
           <DeleteIcon fontSize="small" />
         </IconButton>
-        <Chip label={id} size="small" />
-        <Typography variant="h6" component="div">
-          {name}
-        </Typography>
+        <Editable
+          text={id}
+          onChange={(t) => setId(t)}
+          render={(text) => <Chip label={text} size="small" />}
+        />
+        <br />
+        <Editable
+          text={name}
+          onChange={(t) => setName(t)}
+          render={(text) => <Typography variant="h6">{text}</Typography>}
+        />
       </CardContent>
     </Card>
   );
