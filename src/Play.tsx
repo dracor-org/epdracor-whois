@@ -24,7 +24,6 @@ export default function Play() {
         console.log(rsp.data);
         setInfo(rsp.data);
       } catch (error) {
-        // eslint-disable-next-line no-console
         console.log(error);
         setError(true);
       }

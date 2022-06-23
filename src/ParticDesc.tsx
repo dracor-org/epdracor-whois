@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { DragDropContext, DropResult, Droppable } from 'react-beautiful-dnd';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import {
@@ -46,6 +47,25 @@ export default function ParticDesc({ dp, speeches }: Props) {
     setItems(items.filter((item, i) => i !== index));
   }
 
+  function onDragEnd(result: DropResult) {
+    const { destination, source } = result;
+    if (!destination) {
+      // not dropped
+      return;
+    }
+    if (
+      // postiton not changed
+      destination.droppableId === source.droppableId &&
+      destination.index === source.index
+    ) {
+      return;
+    }
+    const newItems = [...items];
+    const item = newItems.splice(source.index, 1)[0];
+    newItems.splice(destination.index, 0, item);
+    setItems(newItems);
+  }
+
   return (
     <>
       <Typography variant="h6" mb={2} sx={{ flexShrink: 0 }}>
@@ -57,17 +77,25 @@ export default function ParticDesc({ dp, speeches }: Props) {
           New from Dramatis Personae
         </Button>
       )}
-      <ListContainer>
-        <>
-          {items.map((item, i) => (
-            <ParticDescItemCmp
-              key={item.id}
-              data={item}
-              onDelete={() => removeItem(i)}
-            />
-          ))}
-        </>
-      </ListContainer>
+      <DragDropContext onDragEnd={onDragEnd}>
+        <ListContainer>
+          <Droppable droppableId="particdesc">
+            {(provided) => (
+              <div ref={provided.innerRef} {...provided.droppableProps}>
+                {items.map((item, i) => (
+                  <ParticDescItemCmp
+                    key={item.id}
+                    data={item}
+                    index={i}
+                    onDelete={() => removeItem(i)}
+                  />
+                ))}
+                {provided.placeholder}
+              </div>
+            )}
+          </Droppable>
+        </ListContainer>
+      </DragDropContext>
     </>
   );
 }

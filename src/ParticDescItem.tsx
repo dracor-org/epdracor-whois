@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Draggable } from 'react-beautiful-dnd';
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import Chip from '@mui/material/Chip';
@@ -16,11 +17,13 @@ import Editable from './Editable';
 
 interface Props {
   data: ParticDescItem;
+  index: number;
   onDelete: () => void;
 }
 
 export default function ParticDescItemCmp({
   data: { id: idProp, name: nameProp, isGroup: isGroupProp, sex: sexProp },
+  index,
   onDelete,
 }: Props) {
   const [isGroup, setIsGroup] = useState(isGroupProp);
@@ -46,42 +49,54 @@ export default function ParticDescItemCmp({
   }
 
   return (
-    <Card>
-      <CardContent sx={{ padding: 1, paddingBottom: 0, textAlign: 'left' }}>
-        <Tooltip title={isGroup ? 'personGrp' : 'person'}>
-          <IconButton onClick={() => setIsGroup(!isGroup)} size="small">
-            {isGroup ? (
-              <GroupIcon fontSize="small" />
-            ) : (
-              <PersonIcon fontSize="small" />
-            )}
-          </IconButton>
-        </Tooltip>
-        <Tooltip title={`Sex: ${sex || 'not defined'}`}>
-          <IconButton onClick={cycleSex}>
-            {!sex && (
-              <QuestionMarkIcon fontSize="small" sx={{ opacity: 0.5 }} />
-            )}
-            {sex === 'FEMALE' && <FemaleIcon fontSize="small" />}
-            {sex === 'MALE' && <MaleIcon fontSize="small" />}
-            {sex === 'UNKNOWN' && <QuestionMarkIcon fontSize="small" />}
-          </IconButton>
-        </Tooltip>
-        <IconButton onClick={onDelete} size="small">
-          <DeleteIcon fontSize="small" />
-        </IconButton>
-        <Editable
-          text={id}
-          onChange={(t) => setId(t)}
-          render={(text) => <Chip label={text} size="small" />}
-        />
-        <br />
-        <Editable
-          text={name}
-          onChange={(t) => setName(t)}
-          render={(text) => <Typography variant="h6">{text}</Typography>}
-        />
-      </CardContent>
-    </Card>
+    <Draggable draggableId={id} index={index}>
+      {(provided) => (
+        <div
+          {...provided.draggableProps}
+          {...provided.dragHandleProps}
+          ref={provided.innerRef}
+        >
+          <Card>
+            <CardContent
+              sx={{ padding: 1, paddingBottom: 0, textAlign: 'left' }}
+            >
+              <Tooltip title={isGroup ? 'personGrp' : 'person'}>
+                <IconButton onClick={() => setIsGroup(!isGroup)} size="small">
+                  {isGroup ? (
+                    <GroupIcon fontSize="small" />
+                  ) : (
+                    <PersonIcon fontSize="small" />
+                  )}
+                </IconButton>
+              </Tooltip>
+              <Tooltip title={`Sex: ${sex || 'not defined'}`}>
+                <IconButton onClick={cycleSex}>
+                  {!sex && (
+                    <QuestionMarkIcon fontSize="small" sx={{ opacity: 0.5 }} />
+                  )}
+                  {sex === 'FEMALE' && <FemaleIcon fontSize="small" />}
+                  {sex === 'MALE' && <MaleIcon fontSize="small" />}
+                  {sex === 'UNKNOWN' && <QuestionMarkIcon fontSize="small" />}
+                </IconButton>
+              </Tooltip>
+              <IconButton onClick={onDelete} size="small">
+                <DeleteIcon fontSize="small" />
+              </IconButton>
+              <Editable
+                text={id}
+                onChange={(t) => setId(t)}
+                render={(text) => <Chip label={text} size="small" />}
+              />
+              <br />
+              <Editable
+                text={name}
+                onChange={(t) => setName(t)}
+                render={(text) => <Typography variant="h6">{text}</Typography>}
+              />
+            </CardContent>
+          </Card>
+        </div>
+      )}
+    </Draggable>
   );
 }
