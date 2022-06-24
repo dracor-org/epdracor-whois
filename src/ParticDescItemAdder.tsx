@@ -43,18 +43,22 @@ export default function ParticDescItemAdder({ onAdd }: Props) {
         <TextField
           label="Name"
           size="small"
+          variant="standard"
           inputRef={nameRef}
-          sx={{ marginBottom: 1.5 }}
+          sx={{ marginBottom: 1, marginRight: 1 }}
           InputLabelProps={{ shrink: true }}
           onChange={(e) => setName(e.target.value)}
+          onKeyPress={(e) => e.key === 'Enter' && handleAdd()}
         />
         <TextField
           label="ID"
           size="small"
+          variant="standard"
           inputRef={idRef}
           placeholder={makeId(name)}
           InputLabelProps={{ shrink: true }}
           onChange={(e) => setId(e.target.value)}
+          onKeyPress={(e) => e.key === 'Enter' && handleAdd()}
         />
         <Button
           variant="contained"
