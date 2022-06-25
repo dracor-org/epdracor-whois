@@ -12,10 +12,12 @@ import PersonIcon from '@mui/icons-material/Person';
 import GroupIcon from '@mui/icons-material/Group';
 import FemaleIcon from '@mui/icons-material/Female';
 import MaleIcon from '@mui/icons-material/Male';
+import ReplayIcon from '@mui/icons-material/Replay';
 import QuestionMarkIcon from '@mui/icons-material/QuestionMark';
 import { ParticDescItem, Sex } from './types';
 import { particDescStateFamily } from './state';
 import Editable from './Editable';
+import { makeId } from './utils';
 
 interface Props {
   item: ParticDescItem;
@@ -55,6 +57,8 @@ export default function ParticDescItemCmp({ item }: Props) {
     const newItems = removeItemAtIndex(items, index);
     setItems(newItems);
   }
+
+  const showReload = id !== makeId(name);
 
   return (
     <Draggable draggableId={id} index={index}>
@@ -98,6 +102,16 @@ export default function ParticDescItemCmp({ item }: Props) {
                 onChange={(newId) => save({ id: newId })}
                 render={(text) => <Chip label={text} size="small" />}
               />
+              {showReload && (
+                <Tooltip title="Update ID">
+                  <IconButton
+                    size="small"
+                    onClick={() => save({ id: makeId(name) })}
+                  >
+                    <ReplayIcon fontSize="small" sx={{ fontSize: 12 }} />
+                  </IconButton>
+                </Tooltip>
+              )}
               <br />
               <Editable
                 text={name}
