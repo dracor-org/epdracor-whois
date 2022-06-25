@@ -31,9 +31,10 @@ export interface PlayInfo {
   speeches: Speech[];
 }
 
+export type Sex = 'MALE' | 'FEMALE' | 'UNKNOWN' | undefined;
 export interface ParticDescItem {
   id: string;
   name: string;
   isGroup: boolean;
-  sex?: 'MALE' | 'FEMALE' | 'UNKNOWN';
+  sex?: Sex;
 }

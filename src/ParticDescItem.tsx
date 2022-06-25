@@ -1,4 +1,5 @@
-import { useState } from 'react';
+import { useRecoilState } from 'recoil';
+import { useParams } from 'react-router-dom';
 import { Draggable } from 'react-beautiful-dnd';
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
@@ -12,40 +13,47 @@ import GroupIcon from '@mui/icons-material/Group';
 import FemaleIcon from '@mui/icons-material/Female';
 import MaleIcon from '@mui/icons-material/Male';
 import QuestionMarkIcon from '@mui/icons-material/QuestionMark';
-import { ParticDescItem } from './types';
+import { ParticDescItem, Sex } from './types';
+import { particDescStateFamily } from './state';
 import Editable from './Editable';
 
 interface Props {
-  data: ParticDescItem;
-  index: number;
-  onDelete: () => void;
+  item: ParticDescItem;
 }
 
-export default function ParticDescItemCmp({
-  data: { id: idProp, name: nameProp, isGroup: isGroupProp, sex: sexProp },
-  index,
-  onDelete,
-}: Props) {
-  const [isGroup, setIsGroup] = useState(isGroupProp);
-  const [sex, setSex] = useState(sexProp);
-  const [name, setName] = useState(nameProp);
-  const [id, setId] = useState(idProp);
+export default function ParticDescItemCmp({ item }: Props) {
+  const { id, name, isGroup, sex } = item;
+  const { playId } = useParams();
+  const [items, setItems] = useRecoilState(particDescStateFamily(playId));
+  const index = items.findIndex((listItem) => listItem === item);
+
+  function save(update: Partial<ParticDescItem>) {
+    const newItems = replaceItemAtIndex(items, index, { ...item, ...update });
+    setItems(newItems);
+  }
 
   function cycleSex() {
+    let newSex: Sex;
     switch (sex) {
       case 'FEMALE':
-        setSex('MALE');
+        newSex = 'MALE';
         break;
       case 'MALE':
-        setSex('UNKNOWN');
+        newSex = 'UNKNOWN';
         break;
       case 'UNKNOWN':
-        setSex(undefined);
+        newSex = undefined;
         break;
       default:
-        setSex('FEMALE');
+        newSex = 'FEMALE';
         break;
     }
+    save({ sex: newSex });
+  }
+
+  function handleDelete() {
+    const newItems = removeItemAtIndex(items, index);
+    setItems(newItems);
   }
 
   return (
@@ -61,7 +69,10 @@ export default function ParticDescItemCmp({
               sx={{ padding: 1, paddingBottom: 0, textAlign: 'left' }}
             >
               <Tooltip title={isGroup ? 'personGrp' : 'person'}>
-                <IconButton onClick={() => setIsGroup(!isGroup)} size="small">
+                <IconButton
+                  onClick={() => save({ isGroup: !isGroup })}
+                  size="small"
+                >
                   {isGroup ? (
                     <GroupIcon fontSize="small" />
                   ) : (
@@ -79,18 +90,18 @@ export default function ParticDescItemCmp({
                   {sex === 'UNKNOWN' && <QuestionMarkIcon fontSize="small" />}
                 </IconButton>
               </Tooltip>
-              <IconButton onClick={onDelete} size="small">
+              <IconButton onClick={handleDelete} size="small">
                 <DeleteIcon fontSize="small" />
               </IconButton>
               <Editable
                 text={id}
-                onChange={(t) => setId(t)}
+                onChange={(newId) => save({ id: newId })}
                 render={(text) => <Chip label={text} size="small" />}
               />
               <br />
               <Editable
                 text={name}
-                onChange={(t) => setName(t)}
+                onChange={(newName) => save({ name: newName })}
                 render={(text) => <Typography variant="h6">{text}</Typography>}
               />
             </CardContent>
@@ -99,4 +110,16 @@ export default function ParticDescItemCmp({
       )}
     </Draggable>
   );
+}
+
+function replaceItemAtIndex(
+  arr: ParticDescItem[],
+  index: number,
+  newItem: ParticDescItem
+) {
+  return [...arr.slice(0, index), newItem, ...arr.slice(index + 1)];
+}
+
+function removeItemAtIndex(arr: ParticDescItem[], index: number) {
+  return [...arr.slice(0, index), ...arr.slice(index + 1)];
 }

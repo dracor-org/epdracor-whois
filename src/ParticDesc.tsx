@@ -1,4 +1,5 @@
-import { useState } from 'react';
+import { useParams } from 'react-router-dom';
+import { useRecoilState } from 'recoil';
 import { DragDropContext, DropResult, Droppable } from 'react-beautiful-dnd';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
@@ -9,6 +10,7 @@ import {
   ParticDescItem,
 } from './types';
 import { extractName, guessSex, makeId } from './utils';
+import { particDescStateFamily } from './state';
 import { ListContainer } from './Layout';
 import ParticDescItemCmp from './ParticDescItem';
 import ParticDescItemAdder from './ParticDescItemAdder';
@@ -33,18 +35,15 @@ interface Props {
 }
 
 export default function ParticDesc({ dp, speeches }: Props) {
-  const [items, setItems] = useState<ParticDescItem[]>([]);
+  const { playId } = useParams();
+  const [items, setItems] = useRecoilState(particDescStateFamily(playId));
 
   function newFromDp() {
     setItems(fromDramatisPersonae(dp.items));
   }
 
   function addItem(item: ParticDescItem) {
-    setItems([item, ...items]);
-  }
-
-  function removeItem(index: number) {
-    setItems(items.filter((item, i) => i !== index));
+    setItems((prevItems) => [item, ...prevItems]);
   }
 
   function onDragEnd(result: DropResult) {
@@ -82,13 +81,8 @@ export default function ParticDesc({ dp, speeches }: Props) {
           <Droppable droppableId="particdesc">
             {(provided) => (
               <div ref={provided.innerRef} {...provided.droppableProps}>
-                {items.map((item, i) => (
-                  <ParticDescItemCmp
-                    key={item.id}
-                    data={item}
-                    index={i}
-                    onDelete={() => removeItem(i)}
-                  />
+                {items.map((item) => (
+                  <ParticDescItemCmp key={item.id} item={item} />
                 ))}
                 {provided.placeholder}
               </div>
