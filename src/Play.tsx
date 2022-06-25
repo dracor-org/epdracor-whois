@@ -11,6 +11,7 @@ import { speechesStateFamily } from './state';
 import DramatisPersonaeCmp from './DramatisPersonae';
 import ParticDesc from './ParticDesc';
 import SpeechesList from './SpeechesList';
+import Download from './Download';
 
 export default function Play() {
   const { playId } = useParams();
@@ -63,6 +64,10 @@ export default function Play() {
         {info?.title}
         {` (${info.id})`}
       </Typography>
+
+      <Box>
+        <Download />
+      </Box>
 
       <Grid container spacing={2} sx={{ height: '100%' }}>
         <Grid item xs={4} sx={{ display: 'flex', flexDirection: 'column' }}>
