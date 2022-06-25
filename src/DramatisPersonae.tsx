@@ -1,3 +1,4 @@
+import { useParams } from 'react-router-dom';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Tooltip from '@mui/material/Tooltip';
@@ -16,7 +17,7 @@ interface Props {
 export default function DramatisPersonaeCmp({
   data: { id, pb, items },
 }: Props) {
-  const playId = id.split('-')[0];
+  const { playId } = useParams();
   const page = pb?.replace(/^[^-]+-/, '');
   const url = `https://texts.earlyprint.org/works/${playId}.xml?page=${page}`;
   return (
