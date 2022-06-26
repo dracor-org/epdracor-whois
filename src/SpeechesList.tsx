@@ -1,9 +1,8 @@
-import { useParams } from 'react-router-dom';
 import { useRecoilValue } from 'recoil';
 import Typography from '@mui/material/Typography';
 import List from '@mui/material/List';
 import { Speech } from './types';
-import { uniqueSpeakersQuery } from './state';
+import { selectUniqueSpeakers } from './state';
 import { ListContainer } from './Layout';
 import SpeechesListItem from './SpeechesListItem';
 
@@ -12,8 +11,7 @@ interface Props {
 }
 
 export default function SpeechesList({ speeches }: Props) {
-  const { playId } = useParams();
-  const uniqueSpeakers = useRecoilValue(uniqueSpeakersQuery(playId || ''));
+  const uniqueSpeakers = useRecoilValue(selectUniqueSpeakers);
 
   return (
     <>

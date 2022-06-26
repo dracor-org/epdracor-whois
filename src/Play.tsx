@@ -1,13 +1,13 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { useRecoilState } from 'recoil';
+import { useRecoilState, useSetRecoilState } from 'recoil';
 import axios from 'axios';
 import Box from '@mui/material/Box';
 import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
 import CircularProgress from '@mui/material/CircularProgress';
 import { PlayInfo } from './types';
-import { speechesStateFamily } from './state';
+import { currentPlayIdState, speechesStateFamily } from './state';
 import DramatisPersonaeCmp from './DramatisPersonae';
 import ParticDesc from './ParticDesc';
 import SpeechesList from './SpeechesList';
@@ -19,6 +19,12 @@ export default function Play() {
   const [speeches, setSpeeches] = useRecoilState(speechesStateFamily(playId));
   const [error, setError] = useState(false);
   const [loading, setLoading] = useState(false);
+  const setPlayId = useSetRecoilState(currentPlayIdState);
+
+  useEffect(() => {
+    setPlayId(playId || null);
+    return () => setPlayId(null);
+  }, [playId, setPlayId]);
 
   useEffect(() => {
     async function fetch() {
