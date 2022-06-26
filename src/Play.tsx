@@ -1,20 +1,23 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
+import { useRecoilState } from 'recoil';
 import axios from 'axios';
 import Box from '@mui/material/Box';
 import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
 import CircularProgress from '@mui/material/CircularProgress';
 import { PlayInfo } from './types';
+import { speechesStateFamily } from './state';
 import DramatisPersonaeCmp from './DramatisPersonae';
 import ParticDesc from './ParticDesc';
 import SpeechesList from './SpeechesList';
 
 export default function Play() {
+  const { playId } = useParams();
   const [info, setInfo] = useState<PlayInfo | null>(null);
+  const [speeches, setSpeeches] = useRecoilState(speechesStateFamily(playId));
   const [error, setError] = useState(false);
   const [loading, setLoading] = useState(false);
-  const { playId } = useParams();
 
   useEffect(() => {
     async function fetch() {
@@ -23,7 +26,11 @@ export default function Play() {
         const rsp = await axios.get(`/plays/${playId}.json`);
         console.log(rsp.data);
         setInfo(rsp.data);
+        if (speeches.length === 0 && rsp.data.speeches.length > 0) {
+          setSpeeches([...rsp.data.speeches]);
+        }
       } catch (error) {
+        // eslint-disable-next-line no-console
         console.log(error);
         setError(true);
       }

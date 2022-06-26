@@ -1,25 +1,29 @@
+import { useParams } from 'react-router-dom';
+import { useRecoilValue } from 'recoil';
 import Typography from '@mui/material/Typography';
-import { ListContainer } from './Layout';
+import List from '@mui/material/List';
 import { Speech } from './types';
+import { uniqueSpeakersQuery } from './state';
+import { ListContainer } from './Layout';
+import SpeechesListItem from './SpeechesListItem';
 
 interface Props {
   speeches: Speech[];
 }
 
 export default function SpeechesList({ speeches }: Props) {
-  const uniqueSpeakers = speeches
-    .map((s) => s.speaker)
-    .filter((s, i, self) => self.indexOf(s) === i);
+  const { playId } = useParams();
+  const uniqueSpeakers = useRecoilValue(uniqueSpeakersQuery(playId || ''));
 
   return (
     <>
       <Typography variant="h6">Speakers</Typography>
       <ListContainer>
-        <ul>
-          {uniqueSpeakers.map((s) => (
-            <li key={s}>{s}</li>
+        <List dense>
+          {uniqueSpeakers.map((s, i) => (
+            <SpeechesListItem key={s} speaker={s} />
           ))}
-        </ul>
+        </List>
       </ListContainer>
     </>
   );
