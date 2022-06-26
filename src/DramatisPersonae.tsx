@@ -9,6 +9,7 @@ import ListItem from '@mui/material/ListItem';
 import ListItemText from '@mui/material/ListItemText';
 import { ListContainer } from './Layout';
 import { DramatisPersonae } from './types';
+import { makeEpUrl } from './utils';
 
 interface Props {
   data: DramatisPersonae;
@@ -18,8 +19,7 @@ export default function DramatisPersonaeCmp({
   data: { id, pb, items },
 }: Props) {
   const { playId } = useParams();
-  const page = pb?.replace(/^[^-]+-/, '');
-  const url = `https://texts.earlyprint.org/works/${playId}.xml?page=${page}`;
+  const url = makeEpUrl(playId || '', pb);
   return (
     <>
       <Box sx={{ flexShrink: 0 }}>

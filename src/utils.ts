@@ -18,3 +18,12 @@ export function guessSex(name: string) {
   }
   return undefined;
 }
+
+export function makeEpUrl(playId: string, pb?: string): string {
+  let url = `https://texts.earlyprint.org/works/${playId}.xml`;
+  if (pb) {
+    const page = pb?.replace(/^[^-]+-/, '');
+    url += `?page=${page}`;
+  }
+  return url;
+}
