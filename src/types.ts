@@ -19,6 +19,7 @@ export interface Speech {
   pb: string | null;
   speaker: string | null;
   who: string | null;
+  whos?: string[];
 }
 
 export interface PlayInfo {
