@@ -14,7 +14,7 @@ const root = ReactDOM.createRoot(
 root.render(
   <RecoilRoot>
     <ThemeProvider theme={theme}>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <App />
       </BrowserRouter>
     </ThemeProvider>

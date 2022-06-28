@@ -29,7 +29,10 @@ export default function Play() {
     async function fetch() {
       setLoading(true);
       try {
-        const rsp = await axios.get(`/plays/${playId}.json`);
+        const rsp = await axios.get(
+          `${process.env.PUBLIC_URL}/plays/${playId}.json`
+        );
+        // eslint-disable-next-line no-console
         console.log(rsp.data);
         setInfo(rsp.data);
         if (speeches.length === 0 && rsp.data.speeches.length > 0) {
@@ -43,6 +46,7 @@ export default function Play() {
       setLoading(false);
     }
     fetch();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [playId]);
 
   if (error) {

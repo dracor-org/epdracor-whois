@@ -21,7 +21,7 @@ export default function PlaysTable() {
     async function fetch() {
       setLoading(true);
       try {
-        const rsp = await axios.get('/plays.json');
+        const rsp = await axios.get(`${process.env.PUBLIC_URL}/plays.json`);
         setPlays(rsp.data);
       } catch (error) {
         // eslint-disable-next-line no-console
