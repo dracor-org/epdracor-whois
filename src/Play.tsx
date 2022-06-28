@@ -65,6 +65,8 @@ export default function Play() {
     return <></>;
   }
 
+  const colWidth = info.dramatisPersonae.id ? 4 : 6;
+
   return (
     <Box sx={{ height: '100%', display: 'flex' }} flexDirection="column">
       <Typography variant="h5" mb={1.5}>
@@ -75,19 +77,27 @@ export default function Play() {
       </Typography>
 
       <Grid container spacing={2} sx={{ height: '100%' }}>
-        <Grid item xs={4} sx={{ display: 'flex', flexDirection: 'column' }}>
-          {info?.dramatisPersonae.id ? (
+        {info.dramatisPersonae.id && (
+          <Grid
+            item
+            xs={colWidth}
+            sx={{ display: 'flex', flexDirection: 'column' }}
+          >
             <DramatisPersonaeCmp data={info.dramatisPersonae} />
-          ) : (
-            <Typography variant="h6" sx={{ opacity: 0.5 }}>
-              Dramatis personae
-            </Typography>
-          )}
-        </Grid>
-        <Grid item xs={4} sx={{ display: 'flex', flexDirection: 'column' }}>
+          </Grid>
+        )}
+        <Grid
+          item
+          xs={colWidth}
+          sx={{ display: 'flex', flexDirection: 'column' }}
+        >
           <ParticDesc dp={info.dramatisPersonae} speeches={info.speeches} />
         </Grid>
-        <Grid item xs={4} sx={{ display: 'flex', flexDirection: 'column' }}>
+        <Grid
+          item
+          xs={colWidth}
+          sx={{ display: 'flex', flexDirection: 'column' }}
+        >
           <SpeechesList speeches={info.speeches} />
         </Grid>
       </Grid>
