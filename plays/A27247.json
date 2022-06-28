@@ -1,0 +1,979 @@
+{
+  "id" : "A27247",
+  "authors" : [ "Bedloe, William (?) or Walter, Thomas (?)" ],
+  "title" : "The Excommunicated Prince, or The False Relique",
+  "dramatisPersonae" : {
+    "id" : "A27247-e870",
+    "pb" : "A27247-004-a",
+    "items" : [ [ "TEimurazez, Prince of Georgia, Excommunicated by the Pope." ], [ "Morinus, Brizander, Friends to the Prince, and Zealous for the establish't Religion and Government." ], [ "Salvirus, Another of the Prince's Friends, poyson'd by Zolazer." ], [ "Piazer, A Divine of the Grecian Church: A fierce Preacher and Writer against the Papists, most unmercifully Murther'd by some of the Conspirators." ], [ "Polidorus, General of the Prince's Forces, who by the instigation of the Pope, Conspires the Prince's Death, and the Subversion of the Grecian Religion: For the better carrying on of this Design, he insinuates himself into the favour and good opinion of Teimurazez, pretending to be of the Grecian Church, though really he 's of none at all." ], [ "Zolazer, Governor of the Tower, a disguis'd Papist, another of the Pope's creatures." ], [ "Miletas, At first one of the Conspirators, but travelling into England, was there converted to the Protestant Religion ; and afterwards returning to Georgia, discovered the whole Conspiracy." ], [ "Pedro, Servant to Miletas." ], [ "Dubois, Lucan, Tyrone, Lumbus, Jesuits employ'd by the Pope to propagate the Popish Religion in Georgia, and to whose care the pretended Relique of Queen Ceteba was committed." ], [ "Ceteba, Queen Dowager of Georgia, an Amcrous old Woman ▪ in love with Polidorus, and in hopes of obliging him, is a great furtherer of the Conspiracy against her Son." ], [ "Maada, Maid of Honour to the Queen, and taken prisoner with her." ], [ "Cosmelia, Known for some time by the name of Melanthus ; She was Wife to Miletas, in whose absence Polidorus intic'd her to be his Miss ; and afterwards growing weary of her, forceth her to serve him in a mans habit." ] ]
+  },
+  "speeches" : [ {
+    "id" : "A27247-e1990",
+    "pb" : "A27247-006-b",
+    "speaker" : "Queen ."
+  }, {
+    "id" : "A27247-e2050",
+    "pb" : "A27247-007-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e2130",
+    "pb" : "A27247-007-a",
+    "speaker" : "Queen ."
+  }, {
+    "id" : "A27247-e2360",
+    "pb" : "A27247-007-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e2540",
+    "pb" : "A27247-007-a",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e2810",
+    "pb" : "A27247-007-b",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e2930",
+    "pb" : "A27247-007-b",
+    "speaker" : "Queen ."
+  }, {
+    "id" : "A27247-e3280",
+    "pb" : "A27247-008-a",
+    "speaker" : "Teimurazez . Jove ,"
+  }, {
+    "id" : "A27247-e3470",
+    "pb" : "A27247-008-a",
+    "speaker" : "Salvirus ."
+  }, {
+    "id" : "A27247-e3520",
+    "pb" : "A27247-008-a",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e3800",
+    "pb" : "A27247-008-b",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e3920",
+    "pb" : "A27247-008-b",
+    "speaker" : "Prince ."
+  }, {
+    "id" : "A27247-e4070",
+    "pb" : "A27247-008-b",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e4100",
+    "pb" : "A27247-008-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e4290",
+    "pb" : "A27247-008-b",
+    "speaker" : "Salvirus ."
+  }, {
+    "id" : "A27247-e4550",
+    "pb" : "A27247-009-a",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e4580",
+    "pb" : "A27247-009-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e4620",
+    "pb" : "A27247-009-a",
+    "speaker" : "Prince ."
+  }, {
+    "id" : "A27247-e4680",
+    "pb" : "A27247-009-a",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e5120",
+    "pb" : "A27247-009-b",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e5160",
+    "pb" : "A27247-009-b",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e5200",
+    "pb" : "A27247-009-b",
+    "speaker" : "Tyrone ."
+  }, {
+    "id" : "A27247-e5260",
+    "pb" : "A27247-009-b",
+    "speaker" : "Zol ."
+  }, {
+    "id" : "A27247-e5320",
+    "pb" : "A27247-009-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e5390",
+    "pb" : "A27247-009-b",
+    "speaker" : "Lumbus ."
+  }, {
+    "id" : "A27247-e5430",
+    "pb" : "A27247-009-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e5510",
+    "pb" : "A27247-009-b",
+    "speaker" : "Lucan ."
+  }, {
+    "id" : "A27247-e5550",
+    "pb" : "A27247-009-b",
+    "speaker" : "Polid."
+  }, {
+    "id" : "A27247-e5810",
+    "pb" : "A27247-010-a",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e5850",
+    "pb" : "A27247-010-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e5880",
+    "pb" : "A27247-010-a",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e6080",
+    "pb" : "A27247-010-a",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e6130",
+    "pb" : "A27247-010-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e6310",
+    "pb" : "A27247-010-b",
+    "speaker" : "Lucan ."
+  }, {
+    "id" : "A27247-e6400",
+    "pb" : "A27247-010-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e6540",
+    "pb" : "A27247-010-b",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e6630",
+    "pb" : "A27247-010-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e6710",
+    "pb" : "A27247-010-b",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e6940",
+    "pb" : "A27247-011-a",
+    "speaker" : "Tyrone ."
+  }, {
+    "id" : "A27247-e7150",
+    "pb" : "A27247-011-a",
+    "speaker" : "Lumbus ."
+  }, {
+    "id" : "A27247-e7240",
+    "pb" : "A27247-011-a",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e7420",
+    "pb" : "A27247-011-a",
+    "speaker" : "Lucan ."
+  }, {
+    "id" : "A27247-e7530",
+    "pb" : "A27247-011-a",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e7640",
+    "pb" : "A27247-011-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e7730",
+    "pb" : "A27247-011-b",
+    "speaker" : "Souldier ."
+  }, {
+    "id" : "A27247-e7770",
+    "pb" : "A27247-011-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e7820",
+    "pb" : "A27247-011-b",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e7940",
+    "pb" : "A27247-011-b",
+    "speaker" : "Souldier ."
+  }, {
+    "id" : "A27247-e7990",
+    "pb" : "A27247-011-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e8050",
+    "pb" : "A27247-011-b",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e8160",
+    "pb" : "A27247-011-b",
+    "speaker" : "Queen ."
+  }, {
+    "id" : "A27247-e8550",
+    "pb" : "A27247-012-a",
+    "speaker" : "Maacla ."
+  }, {
+    "id" : "A27247-e8640",
+    "pb" : "A27247-012-a",
+    "speaker" : "Queen ."
+  }, {
+    "id" : "A27247-e8760",
+    "pb" : "A27247-012-a",
+    "speaker" : "Maacla ."
+  }, {
+    "id" : "A27247-e8830",
+    "pb" : "A27247-012-a",
+    "speaker" : "Ceteba ."
+  }, {
+    "id" : "A27247-e8950",
+    "pb" : "A27247-012-a",
+    "speaker" : "Maacla ."
+  }, {
+    "id" : "A27247-e9020",
+    "pb" : "A27247-012-a",
+    "speaker" : "Venus"
+  }, {
+    "id" : "A27247-e9150",
+    "pb" : "A27247-012-b",
+    "speaker" : "Maacla ."
+  }, {
+    "id" : "A27247-e9390",
+    "pb" : "A27247-012-b",
+    "speaker" : "Ceteba ."
+  }, {
+    "id" : "A27247-e9480",
+    "pb" : "A27247-012-b",
+    "speaker" : "Maacla ."
+  }, {
+    "id" : "A27247-e9730",
+    "pb" : "A27247-012-b",
+    "speaker" : "Ceteba ."
+  }, {
+    "id" : "A27247-e9930",
+    "pb" : "A27247-013-a",
+    "speaker" : "1 Persian ."
+  }, {
+    "id" : "A27247-e10040",
+    "pb" : "A27247-013-a",
+    "speaker" : "Ceteba ."
+  }, {
+    "id" : "A27247-e11120",
+    "pb" : "A27247-014-a",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e11170",
+    "pb" : "A27247-014-a",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e11330",
+    "pb" : "A27247-014-a",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e11430",
+    "pb" : "A27247-014-a",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e11540",
+    "pb" : "A27247-014-a",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e11610",
+    "pb" : "A27247-014-a",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e11710",
+    "pb" : "A27247-014-a",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e11880",
+    "pb" : "A27247-014-b",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e11970",
+    "pb" : "A27247-014-b",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e12100",
+    "pb" : "A27247-014-b",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e12200",
+    "pb" : "A27247-014-b",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e12260",
+    "pb" : "A27247-014-b",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e12330",
+    "pb" : "A27247-014-b",
+    "speaker" : "Prince ."
+  }, {
+    "id" : "A27247-e12470",
+    "pb" : "A27247-015-a",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e12590",
+    "pb" : "A27247-015-a",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e12630",
+    "pb" : "A27247-015-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e12790",
+    "pb" : "A27247-015-a",
+    "speaker" : "Tyrone ."
+  }, {
+    "id" : "A27247-e12830",
+    "pb" : "A27247-015-a",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e12890",
+    "pb" : "A27247-015-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e12920",
+    "pb" : "A27247-015-a",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e12950",
+    "pb" : "A27247-015-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e13720",
+    "pb" : "A27247-015-b",
+    "speaker" : "Polid."
+  }, {
+    "id" : "A27247-e13790",
+    "pb" : "A27247-015-b",
+    "speaker" : "Cosmelia ."
+  }, {
+    "id" : "A27247-e13960",
+    "pb" : "A27247-016-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e14030",
+    "pb" : "A27247-016-a",
+    "speaker" : "Cosmelia ."
+  }, {
+    "id" : "A27247-e14100",
+    "pb" : "A27247-016-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e14210",
+    "pb" : "A27247-016-a",
+    "speaker" : "Page ."
+  }, {
+    "id" : "A27247-e14290",
+    "pb" : "A27247-016-a",
+    "speaker" : "Polid."
+  }, {
+    "id" : "A27247-e14430",
+    "pb" : "A27247-016-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e14470",
+    "pb" : "A27247-016-a",
+    "speaker" : "Pedro."
+  }, {
+    "id" : "A27247-e14510",
+    "pb" : "A27247-016-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e14590",
+    "pb" : "A27247-016-a",
+    "speaker" : "Pedro."
+  }, {
+    "id" : "A27247-e14790",
+    "pb" : "A27247-016-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e14820",
+    "pb" : "A27247-016-b",
+    "speaker" : "Pedro."
+  }, {
+    "id" : "A27247-e14940",
+    "pb" : "A27247-016-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e15050",
+    "pb" : "A27247-016-b",
+    "speaker" : "Cosmelia ."
+  }, {
+    "id" : "A27247-e15440",
+    "pb" : "A27247-017-a",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e15500",
+    "pb" : "A27247-017-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e15640",
+    "pb" : "A27247-017-a",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e15920",
+    "pb" : "A27247-017-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e16010",
+    "pb" : "A27247-017-a",
+    "speaker" : "Piazer ."
+  }, {
+    "id" : "A27247-e16090",
+    "pb" : "A27247-017-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e16200",
+    "pb" : "A27247-017-b",
+    "speaker" : "Piazer ."
+  }, {
+    "id" : "A27247-e16280",
+    "pb" : "A27247-017-b",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e16330",
+    "pb" : "A27247-017-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e16370",
+    "pb" : "A27247-017-b",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e16520",
+    "pb" : "A27247-017-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e16770",
+    "pb" : "A27247-018-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e16860",
+    "pb" : "A27247-018-a",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e16950",
+    "pb" : "A27247-018-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e17000",
+    "pb" : "A27247-018-a",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e17080",
+    "pb" : "A27247-018-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e17370",
+    "pb" : "A27247-018-b",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e17440",
+    "pb" : "A27247-018-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e17680",
+    "pb" : "A27247-018-b",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e17770",
+    "pb" : "A27247-018-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e18050",
+    "pb" : "A27247-019-a",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e18120",
+    "pb" : "A27247-019-a",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e18430",
+    "pb" : "A27247-019-a",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e18470",
+    "pb" : "A27247-019-a",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e18600",
+    "pb" : "A27247-019-b",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e18750",
+    "pb" : "A27247-019-b",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e19080",
+    "pb" : "A27247-019-b",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e19610",
+    "pb" : "A27247-020-a",
+    "speaker" : "Polidorus !"
+  }, {
+    "id" : "A27247-e19690",
+    "pb" : "A27247-020-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e19760",
+    "pb" : "A27247-020-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e19850",
+    "pb" : "A27247-020-b",
+    "speaker" : "Polidor ."
+  }, {
+    "id" : "A27247-e19910",
+    "pb" : "A27247-020-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e20010",
+    "pb" : "A27247-020-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e20090",
+    "pb" : "A27247-020-b",
+    "speaker" : "Milet."
+  }, {
+    "id" : "A27247-e20140",
+    "pb" : "A27247-020-b",
+    "speaker" : "Polidor ."
+  }, {
+    "id" : "A27247-e20200",
+    "pb" : "A27247-020-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e20230",
+    "pb" : "A27247-020-b",
+    "speaker" : "Polidor ."
+  }, {
+    "id" : "A27247-e20440",
+    "pb" : "A27247-020-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e20500",
+    "pb" : "A27247-021-a",
+    "speaker" : "Polydor."
+  }, {
+    "id" : "A27247-e20580",
+    "pb" : "A27247-021-a",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e20610",
+    "pb" : "A27247-021-a",
+    "speaker" : "Pol."
+  }, {
+    "id" : "A27247-e20660",
+    "pb" : "A27247-021-a",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e20700",
+    "pb" : "A27247-021-a",
+    "speaker" : "Pol."
+  }, {
+    "id" : "A27247-e20840",
+    "pb" : "A27247-021-a",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e20920",
+    "pb" : "A27247-021-a",
+    "speaker" : "Polidor ."
+  }, {
+    "id" : "A27247-e21000",
+    "pb" : "A27247-021-a",
+    "speaker" : "Messenger ."
+  }, {
+    "id" : "A27247-e21040",
+    "pb" : "A27247-021-a",
+    "speaker" : "Polidor ."
+  }, {
+    "id" : "A27247-e21120",
+    "pb" : "A27247-021-a",
+    "speaker" : "Messenger ."
+  }, {
+    "id" : "A27247-e21210",
+    "pb" : "A27247-021-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e21430",
+    "pb" : "A27247-021-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e21510",
+    "pb" : "A27247-021-b",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e21600",
+    "pb" : "A27247-021-b",
+    "speaker" : "Zolaz ."
+  }, {
+    "id" : "A27247-e21830",
+    "pb" : "A27247-022-a",
+    "speaker" : "Lucan ."
+  }, {
+    "id" : "A27247-e21910",
+    "pb" : "A27247-022-a",
+    "speaker" : "Lumbus ."
+  }, {
+    "id" : "A27247-e22070",
+    "pb" : "A27247-022-a",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e22210",
+    "pb" : "A27247-022-a",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e22350",
+    "pb" : "A27247-022-a",
+    "speaker" : "Tyrone ."
+  }, {
+    "id" : "A27247-e22500",
+    "pb" : "A27247-022-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e22620",
+    "pb" : "A27247-022-b",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e22700",
+    "pb" : "A27247-022-b",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e22960",
+    "pb" : "A27247-022-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e23040",
+    "pb" : "A27247-023-a",
+    "speaker" : "Brisander ."
+  }, {
+    "id" : "A27247-e23120",
+    "pb" : "A27247-023-a",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e23190",
+    "pb" : "A27247-023-a",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e23580",
+    "pb" : "A27247-023-a",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e23650",
+    "pb" : "A27247-023-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e23800",
+    "pb" : "A27247-023-b",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e23880",
+    "pb" : "A27247-023-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e23920",
+    "pb" : "A27247-023-b",
+    "speaker" : "Teimuraz ."
+  }, {
+    "id" : "A27247-e23960",
+    "pb" : "A27247-023-b",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e24150",
+    "pb" : "A27247-023-b",
+    "speaker" : "Tyrone ."
+  }, {
+    "id" : "A27247-e24260",
+    "pb" : "A27247-023-b",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e24360",
+    "pb" : "A27247-024-a",
+    "speaker" : "Lucan ."
+  }, {
+    "id" : "A27247-e24390",
+    "pb" : "A27247-024-a",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e24480",
+    "pb" : "A27247-024-a",
+    "speaker" : "Lumbus ."
+  }, {
+    "id" : "A27247-e24590",
+    "pb" : "A27247-024-a",
+    "speaker" : "Tyrone ."
+  }, {
+    "id" : "A27247-e24650",
+    "pb" : "A27247-024-a",
+    "speaker" : "Lumbus ."
+  }, {
+    "id" : "A27247-e24690",
+    "pb" : "A27247-024-a",
+    "speaker" : "Lucan ."
+  }, {
+    "id" : "A27247-e24820",
+    "pb" : "A27247-024-a",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e25000",
+    "pb" : "A27247-024-b",
+    "speaker" : "Tyrone ."
+  }, {
+    "id" : "A27247-e25070",
+    "pb" : "A27247-024-b",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e25150",
+    "pb" : "A27247-024-b",
+    "speaker" : "Lucan ."
+  }, {
+    "id" : "A27247-e25220",
+    "pb" : "A27247-024-b",
+    "speaker" : "Lumbus ."
+  }, {
+    "id" : "A27247-e25290",
+    "pb" : "A27247-024-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e25390",
+    "pb" : "A27247-024-b",
+    "speaker" : "Lucan ."
+  }, {
+    "id" : "A27247-e25460",
+    "pb" : "A27247-024-b",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e25550",
+    "pb" : "A27247-025-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e25590",
+    "pb" : "A27247-025-a",
+    "speaker" : "Lumbus ."
+  }, {
+    "id" : "A27247-e25680",
+    "pb" : "A27247-025-a",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e25830",
+    "pb" : "A27247-025-a",
+    "speaker" : "Zolazer ."
+  }, {
+    "id" : "A27247-e25920",
+    "pb" : "A27247-025-a",
+    "speaker" : "Lumbus ."
+  }, {
+    "id" : "A27247-e26140",
+    "pb" : "A27247-025-a",
+    "speaker" : "Dubois ."
+  }, {
+    "id" : "A27247-e26250",
+    "pb" : "A27247-025-a",
+    "speaker" : "Tyrone ."
+  }, {
+    "id" : "A27247-e26400",
+    "pb" : "A27247-025-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e26460",
+    "pb" : "A27247-025-b",
+    "speaker" : "Lumbus ."
+  }, {
+    "id" : "A27247-e26540",
+    "pb" : "A27247-025-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e26650",
+    "pb" : "A27247-025-b",
+    "speaker" : "Tyrone ."
+  }, {
+    "id" : "A27247-e26750",
+    "pb" : "A27247-025-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e26810",
+    "pb" : "A27247-025-b",
+    "speaker" : "Zolaz ."
+  }, {
+    "id" : "A27247-e26870",
+    "pb" : "A27247-025-b",
+    "speaker" : "1 Diseased Person ."
+  }, {
+    "id" : "A27247-e26900",
+    "pb" : "A27247-026-a",
+    "speaker" : "2 Dis. Person ."
+  }, {
+    "id" : "A27247-e26930",
+    "pb" : "A27247-026-a",
+    "speaker" : "3 Sick Person ."
+  }, {
+    "id" : "A27247-e27480",
+    "pb" : "A27247-026-b",
+    "speaker" : "Cosmelia ."
+  }, {
+    "id" : "A27247-e27670",
+    "pb" : "A27247-026-b",
+    "speaker" : "Polidor ."
+  }, {
+    "id" : "A27247-e27710",
+    "pb" : "A27247-026-b",
+    "speaker" : "Cosmelia ."
+  }, {
+    "id" : "A27247-e27820",
+    "pb" : "A27247-026-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e27880",
+    "pb" : "A27247-026-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e27940",
+    "pb" : "A27247-026-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e28010",
+    "pb" : "A27247-026-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e28100",
+    "pb" : "A27247-026-b",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e28250",
+    "pb" : "A27247-027-a",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e28280",
+    "pb" : "A27247-027-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e28310",
+    "pb" : "A27247-027-a",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e28380",
+    "pb" : "A27247-027-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e28420",
+    "pb" : "A27247-027-a",
+    "speaker" : "Guards ."
+  }, {
+    "id" : "A27247-e28450",
+    "pb" : "A27247-027-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e28490",
+    "pb" : "A27247-027-a",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e28560",
+    "pb" : "A27247-027-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e28590",
+    "pb" : "A27247-027-a",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e28660",
+    "pb" : "A27247-027-a",
+    "speaker" : "Polidorus ."
+  }, {
+    "id" : "A27247-e28800",
+    "pb" : "A27247-027-a",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e28940",
+    "pb" : "A27247-027-b",
+    "speaker" : "Cosmelia ."
+  }, {
+    "id" : "A27247-e29030",
+    "pb" : "A27247-027-b",
+    "speaker" : "Miletas ."
+  }, {
+    "id" : "A27247-e29130",
+    "pb" : "A27247-027-b",
+    "speaker" : "Cosmelia ."
+  }, {
+    "id" : "A27247-e29250",
+    "pb" : "A27247-027-b",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e29310",
+    "pb" : "A27247-027-b",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e29440",
+    "pb" : "A27247-028-a",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e29720",
+    "pb" : "A27247-028-a",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e29790",
+    "pb" : "A27247-028-a",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e30310",
+    "pb" : "A27247-028-b",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e30380",
+    "pb" : "A27247-028-b",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e30500",
+    "pb" : "A27247-028-b",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e30620",
+    "pb" : "A27247-029-a",
+    "speaker" : "Brizand ."
+  }, {
+    "id" : "A27247-e30830",
+    "pb" : "A27247-029-a",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e30870",
+    "pb" : "A27247-029-a",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e30970",
+    "pb" : "A27247-029-a",
+    "speaker" : "Morinus ."
+  }, {
+    "id" : "A27247-e31010",
+    "pb" : "A27247-029-a",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e31130",
+    "pb" : "A27247-029-a",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e31270",
+    "pb" : "A27247-029-b",
+    "speaker" : "Mor."
+  }, {
+    "id" : "A27247-e31300",
+    "pb" : "A27247-029-b",
+    "speaker" : "Brizander ."
+  }, {
+    "id" : "A27247-e31360",
+    "pb" : "A27247-029-b",
+    "speaker" : "Teimurazez ."
+  }, {
+    "id" : "A27247-e31420",
+    "pb" : "A27247-029-b",
+    "speaker" : "Morin ."
+  }, {
+    "id" : "A27247-e31490",
+    "pb" : "A27247-029-b",
+    "speaker" : "Brizander ."
+  } ]
+}

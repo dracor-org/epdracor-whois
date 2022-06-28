@@ -1,0 +1,767 @@
+{
+  "id" : "A36588",
+  "authors" : [ "Dryden, John" ],
+  "title" : "Albion Albanius",
+  "dramatisPersonae" : {
+    "id" : "A36588-e1030",
+    "pb" : "A36588-006-a",
+    "items" : [ [ "Mercury." ], [ "Augusta. London." ], [ "Thamesis." ], [ "Democracy." ], [ "Zelota. Feign'd Zeal." ], [ "Archon. The General." ], [ "Iuno." ], [ "Iris." ], [ "Albion." ], [ "Albanius." ], [ "Pluto." ], [ "Alecto." ], [ "Apollo." ], [ "Neptune." ], [ "Nereids." ], [ "Acacia. Innocence." ], [ "Tyranny." ], [ "Asebia. Atheism or Vngodliness." ], [ "Proteus." ], [ "Venus." ], [ "Fame." ], [ "A Chorus of Cities." ], [ "A Chorus of Rivers." ], [ "A Chorus of the People." ], [ "A Chorus of Furies." ], [ "A Chorus of Nereids and Tritons." ], [ "A Grand Chorus of Hero's, Loves and" ], [ "Graces." ] ]
+  },
+  "speeches" : [ {
+    "id" : "A36588-e3080",
+    "pb" : "A36588-010-a",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e3210",
+    "pb" : "A36588-010-a",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e3310",
+    "pb" : "A36588-010-a",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e3440",
+    "pb" : "A36588-010-a",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e3480",
+    "pb" : "A36588-010-a",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e3550",
+    "pb" : "A36588-010-a",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e3580",
+    "pb" : "A36588-010-b",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e3610",
+    "pb" : "A36588-010-b",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e3650",
+    "pb" : "A36588-010-b",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e3690",
+    "pb" : "A36588-010-b",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e3810",
+    "pb" : "A36588-010-b",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e3880",
+    "pb" : "A36588-010-b",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e3920",
+    "pb" : "A36588-010-b",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e3970",
+    "pb" : "A36588-010-b",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e4030",
+    "pb" : "A36588-010-b",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e4110",
+    "pb" : "A36588-010-b",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e4170",
+    "pb" : "A36588-010-b",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e4200",
+    "pb" : "A36588-010-b",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e4240",
+    "pb" : "A36588-011-a",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e4320",
+    "pb" : "A36588-011-a",
+    "speaker" : "Chor. of all ."
+  }, {
+    "id" : "A36588-e4400",
+    "pb" : "A36588-011-a",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e4470",
+    "pb" : "A36588-011-a",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e4500",
+    "pb" : "A36588-011-a",
+    "speaker" : "Chor. of all ."
+  }, {
+    "id" : "A36588-e4570",
+    "pb" : "A36588-011-a",
+    "speaker" : "Democ."
+  }, {
+    "id" : "A36588-e4620",
+    "pb" : "A36588-011-a",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e4660",
+    "pb" : "A36588-011-a",
+    "speaker" : "Zeal ."
+  }, {
+    "id" : "A36588-e4720",
+    "pb" : "A36588-011-a",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e4790",
+    "pb" : "A36588-011-a",
+    "speaker" : "Democ."
+  }, {
+    "id" : "A36588-e4850",
+    "pb" : "A36588-011-a",
+    "speaker" : "Zeal ."
+  }, {
+    "id" : "A36588-e4920",
+    "pb" : "A36588-011-b",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e4990",
+    "pb" : "A36588-011-b",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e5070",
+    "pb" : "A36588-011-b",
+    "speaker" : "Thamesis and Augusta"
+  }, {
+    "id" : "A36588-e5150",
+    "pb" : "A36588-011-b",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e5220",
+    "pb" : "A36588-011-b",
+    "speaker" : "Zel."
+  }, {
+    "id" : "A36588-e5260",
+    "pb" : "A36588-011-b",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e5310",
+    "pb" : "A36588-011-b",
+    "speaker" : "Archon"
+  }, {
+    "id" : "A36588-e5430",
+    "pb" : "A36588-011-b",
+    "speaker" : "Chor."
+  }, {
+    "id" : "A36588-e5470",
+    "pb" : "A36588-011-b",
+    "speaker" : "Aug. Tham."
+  }, {
+    "id" : "A36588-e5500",
+    "pb" : "A36588-011-b",
+    "speaker" : "Archon ."
+  }, {
+    "id" : "A36588-e5530",
+    "pb" : "A36588-011-b",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e5630",
+    "pb" : "A36588-012-a",
+    "speaker" : "Archon ."
+  }, {
+    "id" : "A36588-e5660",
+    "pb" : "A36588-012-a",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e5800",
+    "pb" : "A36588-012-a",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e5880",
+    "pb" : "A36588-012-a",
+    "speaker" : "Zel."
+  }, {
+    "id" : "A36588-e6040",
+    "pb" : "A36588-012-a",
+    "speaker" : "Aug. and Tham."
+  }, {
+    "id" : "A36588-e6200",
+    "pb" : "A36588-012-b",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e6310",
+    "pb" : "A36588-012-b",
+    "speaker" : "Chor."
+  }, {
+    "id" : "A36588-e6360",
+    "pb" : "A36588-012-b",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e6450",
+    "pb" : "A36588-012-b",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e6610",
+    "pb" : "A36588-012-b",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e6680",
+    "pb" : "A36588-012-b",
+    "speaker" : "Iuno ."
+  }, {
+    "id" : "A36588-e6750",
+    "pb" : "A36588-013-a",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e6810",
+    "pb" : "A36588-013-a",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e6880",
+    "pb" : "A36588-013-a",
+    "speaker" : "Iuno ."
+  }, {
+    "id" : "A36588-e7040",
+    "pb" : "A36588-013-a",
+    "speaker" : "Iuno ."
+  }, {
+    "id" : "A36588-e7130",
+    "pb" : "A36588-013-a",
+    "speaker" : "Iris."
+  }, {
+    "id" : "A36588-e7330",
+    "pb" : "A36588-013-b",
+    "speaker" : "Iuno ."
+  }, {
+    "id" : "A36588-e7450",
+    "pb" : "A36588-013-b",
+    "speaker" : "Mer. Iu. Ir."
+  }, {
+    "id" : "A36588-e7530",
+    "pb" : "A36588-013-b",
+    "speaker" : "Aug. and Tham."
+  }, {
+    "id" : "A36588-e7750",
+    "pb" : "A36588-013-b",
+    "speaker" : "Full Chor."
+  }, {
+    "id" : "A36588-e7790",
+    "pb" : "A36588-013-b",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e7840",
+    "pb" : "A36588-013-b",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e7880",
+    "pb" : "A36588-013-b",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e7920",
+    "pb" : "A36588-013-b",
+    "speaker" : "Tham."
+  }, {
+    "id" : "A36588-e8100",
+    "pb" : "A36588-014-a",
+    "speaker" : "Plut."
+  }, {
+    "id" : "A36588-e8220",
+    "pb" : "A36588-014-a",
+    "speaker" : "Democ. and Zelot . together ."
+  }, {
+    "id" : "A36588-e8310",
+    "pb" : "A36588-014-a",
+    "speaker" : "Democ."
+  }, {
+    "id" : "A36588-e8340",
+    "pb" : "A36588-014-a",
+    "speaker" : "Pluto ."
+  }, {
+    "id" : "A36588-e8380",
+    "pb" : "A36588-014-a",
+    "speaker" : "Democ."
+  }, {
+    "id" : "A36588-e8490",
+    "pb" : "A36588-014-b",
+    "speaker" : "Zelota ."
+  }, {
+    "id" : "A36588-e8600",
+    "pb" : "A36588-014-b",
+    "speaker" : "Plut."
+  }, {
+    "id" : "A36588-e8640",
+    "pb" : "A36588-014-b",
+    "speaker" : "Dem. and Zel."
+  }, {
+    "id" : "A36588-e8710",
+    "pb" : "A36588-014-b",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e8750",
+    "pb" : "A36588-014-b",
+    "speaker" : "Zel."
+  }, {
+    "id" : "A36588-e8790",
+    "pb" : "A36588-014-b",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e8820",
+    "pb" : "A36588-014-b",
+    "speaker" : "Zel."
+  }, {
+    "id" : "A36588-e8850",
+    "pb" : "A36588-014-b",
+    "speaker" : "Dem. and Zel."
+  }, {
+    "id" : "A36588-e8930",
+    "pb" : "A36588-014-b",
+    "speaker" : "Plut."
+  }, {
+    "id" : "A36588-e9100",
+    "pb" : "A36588-014-b",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e9150",
+    "pb" : "A36588-015-a",
+    "speaker" : "Zel."
+  }, {
+    "id" : "A36588-e9210",
+    "pb" : "A36588-015-a",
+    "speaker" : "Pluto ."
+  }, {
+    "id" : "A36588-e9370",
+    "pb" : "A36588-015-a",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e9430",
+    "pb" : "A36588-015-a",
+    "speaker" : "Zel."
+  }, {
+    "id" : "A36588-e9480",
+    "pb" : "A36588-015-a",
+    "speaker" : "Pluto ."
+  }, {
+    "id" : "A36588-e9540",
+    "pb" : "A36588-015-a",
+    "speaker" : "Zel."
+  }, {
+    "id" : "A36588-e9630",
+    "pb" : "A36588-015-a",
+    "speaker" : "Alecto ."
+  }, {
+    "id" : "A36588-e9860",
+    "pb" : "A36588-015-b",
+    "speaker" : "Pluto ."
+  }, {
+    "id" : "A36588-e10010",
+    "pb" : "A36588-015-b",
+    "speaker" : "Pluto ."
+  }, {
+    "id" : "A36588-e10130",
+    "pb" : "A36588-015-b",
+    "speaker" : "Chorus ."
+  }, {
+    "id" : "A36588-e10260",
+    "pb" : "A36588-016-a",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e10530",
+    "pb" : "A36588-016-a",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e10650",
+    "pb" : "A36588-016-b",
+    "speaker" : "Zel."
+  }, {
+    "id" : "A36588-e10730",
+    "pb" : "A36588-016-b",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e10780",
+    "pb" : "A36588-016-b",
+    "speaker" : "Zelot ."
+  }, {
+    "id" : "A36588-e10830",
+    "pb" : "A36588-016-b",
+    "speaker" : "Aug."
+  }, {
+    "id" : "A36588-e10890",
+    "pb" : "A36588-016-b",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e10960",
+    "pb" : "A36588-016-b",
+    "speaker" : "Zelot ."
+  }, {
+    "id" : "A36588-e11370",
+    "pb" : "A36588-017-a",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e11460",
+    "pb" : "A36588-017-a",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e11500",
+    "pb" : "A36588-017-a",
+    "speaker" : "Merc."
+  }, {
+    "id" : "A36588-e11650",
+    "pb" : "A36588-017-b",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e11760",
+    "pb" : "A36588-017-b",
+    "speaker" : "Alban ."
+  }, {
+    "id" : "A36588-e11850",
+    "pb" : "A36588-017-b",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e11980",
+    "pb" : "A36588-017-b",
+    "speaker" : "Alban ."
+  }, {
+    "id" : "A36588-e12080",
+    "pb" : "A36588-017-b",
+    "speaker" : "Albion . and Alban ."
+  }, {
+    "id" : "A36588-e12220",
+    "pb" : "A36588-018-a",
+    "speaker" : "Apoll."
+  }, {
+    "id" : "A36588-e12460",
+    "pb" : "A36588-018-a",
+    "speaker" : "Thames ,"
+  }, {
+    "id" : "A36588-e12690",
+    "pb" : "A36588-018-b",
+    "speaker" : "Two Nymphs and Triton"
+  }, {
+    "id" : "A36588-e12850",
+    "pb" : "A36588-018-b",
+    "speaker" : "Two Nymphs and Tritons ."
+  }, {
+    "id" : "A36588-e13070",
+    "pb" : "A36588-019-a",
+    "speaker" : "The two Nymphs and Triton"
+  }, {
+    "id" : "A36588-e13410",
+    "pb" : "A36588-019-a",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e13520",
+    "pb" : "A36588-019-b",
+    "speaker" : "Acacia ."
+  }, {
+    "id" : "A36588-e13600",
+    "pb" : "A36588-019-b",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e13650",
+    "pb" : "A36588-019-b",
+    "speaker" : "Acacia ."
+  }, {
+    "id" : "A36588-e13680",
+    "pb" : "A36588-019-b",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e13810",
+    "pb" : "A36588-019-b",
+    "speaker" : "Chorus of both ."
+  }, {
+    "id" : "A36588-e13850",
+    "pb" : "A36588-019-b",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e13880",
+    "pb" : "A36588-019-b",
+    "speaker" : "Acacia ."
+  }, {
+    "id" : "A36588-e13970",
+    "pb" : "A36588-020-a",
+    "speaker" : "Nereids"
+  }, {
+    "id" : "A36588-e14170",
+    "pb" : "A36588-020-a",
+    "speaker" : "Tyran ."
+  }, {
+    "id" : "A36588-e14230",
+    "pb" : "A36588-020-a",
+    "speaker" : "Democ."
+  }, {
+    "id" : "A36588-e14260",
+    "pb" : "A36588-020-a",
+    "speaker" : "Tyr."
+  }, {
+    "id" : "A36588-e14290",
+    "pb" : "A36588-020-a",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e14320",
+    "pb" : "A36588-020-a",
+    "speaker" : "Tyr."
+  }, {
+    "id" : "A36588-e14350",
+    "pb" : "A36588-020-a",
+    "speaker" : "Democ."
+  }, {
+    "id" : "A36588-e14380",
+    "pb" : "A36588-020-a",
+    "speaker" : "Tyr."
+  }, {
+    "id" : "A36588-e14410",
+    "pb" : "A36588-020-a",
+    "speaker" : "Asebia ."
+  }, {
+    "id" : "A36588-e14450",
+    "pb" : "A36588-020-a",
+    "speaker" : "Zelot ."
+  }, {
+    "id" : "A36588-e14490",
+    "pb" : "A36588-020-a",
+    "speaker" : "Asebia ."
+  }, {
+    "id" : "A36588-e14530",
+    "pb" : "A36588-020-a",
+    "speaker" : "Chor."
+  }, {
+    "id" : "A36588-e14570",
+    "pb" : "A36588-020-a",
+    "speaker" : "Tyran ."
+  }, {
+    "id" : "A36588-e14600",
+    "pb" : "A36588-020-a",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e14630",
+    "pb" : "A36588-020-a",
+    "speaker" : "Tyran ."
+  }, {
+    "id" : "A36588-e14660",
+    "pb" : "A36588-020-a",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e14700",
+    "pb" : "A36588-020-b",
+    "speaker" : "Tyran ."
+  }, {
+    "id" : "A36588-e14760",
+    "pb" : "A36588-020-b",
+    "speaker" : "Asebia ."
+  }, {
+    "id" : "A36588-e14810",
+    "pb" : "A36588-020-b",
+    "speaker" : "Zelot ."
+  }, {
+    "id" : "A36588-e14900",
+    "pb" : "A36588-020-b",
+    "speaker" : "Asebia ."
+  }, {
+    "id" : "A36588-e14960",
+    "pb" : "A36588-020-b",
+    "speaker" : "Zelot ."
+  }, {
+    "id" : "A36588-e15040",
+    "pb" : "A36588-020-b",
+    "speaker" : "Chor."
+  }, {
+    "id" : "A36588-e15070",
+    "pb" : "A36588-020-b",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e15120",
+    "pb" : "A36588-020-b",
+    "speaker" : "Chor."
+  }, {
+    "id" : "A36588-e15150",
+    "pb" : "A36588-020-b",
+    "speaker" : "Asebia ."
+  }, {
+    "id" : "A36588-e15200",
+    "pb" : "A36588-020-b",
+    "speaker" : "Zelota ."
+  }, {
+    "id" : "A36588-e15270",
+    "pb" : "A36588-021-a",
+    "speaker" : "Democr ."
+  }, {
+    "id" : "A36588-e15350",
+    "pb" : "A36588-021-a",
+    "speaker" : "Tyran ."
+  }, {
+    "id" : "A36588-e15380",
+    "pb" : "A36588-021-a",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e15410",
+    "pb" : "A36588-021-a",
+    "speaker" : "Zelota ."
+  }, {
+    "id" : "A36588-e15440",
+    "pb" : "A36588-021-a",
+    "speaker" : "Tyran ."
+  }, {
+    "id" : "A36588-e15470",
+    "pb" : "A36588-021-a",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e15510",
+    "pb" : "A36588-021-a",
+    "speaker" : "Tyran ."
+  }, {
+    "id" : "A36588-e15550",
+    "pb" : "A36588-021-a",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e15610",
+    "pb" : "A36588-021-a",
+    "speaker" : "Asebia ."
+  }, {
+    "id" : "A36588-e15690",
+    "pb" : "A36588-021-a",
+    "speaker" : "Zelota ."
+  }, {
+    "id" : "A36588-e15750",
+    "pb" : "A36588-021-a",
+    "speaker" : "Tyran ."
+  }, {
+    "id" : "A36588-e15780",
+    "pb" : "A36588-021-a",
+    "speaker" : "Dem."
+  }, {
+    "id" : "A36588-e15850",
+    "pb" : "A36588-021-b",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e15890",
+    "pb" : "A36588-021-b",
+    "speaker" : "Acacia ."
+  }, {
+    "id" : "A36588-e15930",
+    "pb" : "A36588-021-b",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e15990",
+    "pb" : "A36588-021-b",
+    "speaker" : "Acacia ."
+  }, {
+    "id" : "A36588-e16050",
+    "pb" : "A36588-021-b",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e16090",
+    "pb" : "A36588-021-b",
+    "speaker" : "Acacia ."
+  }, {
+    "id" : "A36588-e16220",
+    "pb" : "A36588-021-b",
+    "speaker" : "Proteus ."
+  }, {
+    "id" : "A36588-e16420",
+    "pb" : "A36588-022-a",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e16450",
+    "pb" : "A36588-022-a",
+    "speaker" : "Proteus ."
+  }, {
+    "id" : "A36588-e16550",
+    "pb" : "A36588-022-a",
+    "speaker" : "Democ."
+  }, {
+    "id" : "A36588-e16610",
+    "pb" : "A36588-022-a",
+    "speaker" : "Zelot ."
+  }, {
+    "id" : "A36588-e16670",
+    "pb" : "A36588-022-a",
+    "speaker" : "Democ."
+  }, {
+    "id" : "A36588-e16710",
+    "pb" : "A36588-022-a",
+    "speaker" : "Zelota ."
+  }, {
+    "id" : "A36588-e16740",
+    "pb" : "A36588-022-a",
+    "speaker" : "Omnes ."
+  }, {
+    "id" : "A36588-e16810",
+    "pb" : "A36588-022-a",
+    "speaker" : "Democ."
+  }, {
+    "id" : "A36588-e16890",
+    "pb" : "A36588-022-b",
+    "speaker" : "Zelota ."
+  }, {
+    "id" : "A36588-e16950",
+    "pb" : "A36588-022-b",
+    "speaker" : "Chor."
+  }, {
+    "id" : "A36588-e17000",
+    "pb" : "A36588-022-b",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e17060",
+    "pb" : "A36588-022-b",
+    "speaker" : "Acacia ."
+  }, {
+    "id" : "A36588-e17110",
+    "pb" : "A36588-022-b",
+    "speaker" : "Both."
+  }, {
+    "id" : "A36588-e17150",
+    "pb" : "A36588-022-b",
+    "speaker" : "Albion ."
+  }, {
+    "id" : "A36588-e17180",
+    "pb" : "A36588-022-b",
+    "speaker" : "Acacia ."
+  }, {
+    "id" : "A36588-e17320",
+    "pb" : "A36588-022-b",
+    "speaker" : "Venus"
+  }, {
+    "id" : "A36588-e17420",
+    "pb" : "A36588-023-a",
+    "speaker" : "Venus ."
+  }, {
+    "id" : "A36588-e17490",
+    "pb" : "A36588-023-a",
+    "speaker" : "Chor. of all ."
+  }, {
+    "id" : "A36588-e17590",
+    "pb" : "A36588-023-a",
+    "speaker" : "Phoeb."
+  }, {
+    "id" : "A36588-e17700",
+    "pb" : "A36588-023-a",
+    "speaker" : "Ven."
+  }, {
+    "id" : "A36588-e17740",
+    "pb" : "A36588-023-a",
+    "speaker" : "Nept."
+  }, {
+    "id" : "A36588-e17790",
+    "pb" : "A36588-023-a",
+    "speaker" : "Phoeb."
+  }, {
+    "id" : "A36588-e17910",
+    "pb" : "A36588-023-a",
+    "speaker" : "Ven."
+  }, {
+    "id" : "A36588-e18020",
+    "pb" : "A36588-024-a",
+    "speaker" : "Acacia ."
+  }, {
+    "id" : "A36588-e18160",
+    "pb" : "A36588-024-a",
+    "speaker" : "Ven."
+  }, {
+    "id" : "A36588-e18330",
+    "pb" : "A36588-025-a",
+    "speaker" : "Fame ."
+  } ]
+}

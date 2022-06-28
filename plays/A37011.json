@@ -1,0 +1,3775 @@
+{
+  "id" : "A37011",
+  "authors" : [ "D'Urfey, Thomas" ],
+  "title" : "The Richmond Heiress, or A Woman Once in the Right",
+  "dramatisPersonae" : {
+    "id" : "A37011-e270",
+    "pb" : "A37011-003-a",
+    "items" : [ [ "Sir Charles Romance, ] A travell'd old Knight, grave and sententious, Guardian to the Heiress and Father-in-Law, yet contriving her for his Son. Acted by Mr. Freeman." ], [ "Sir Quibble Quere, ] A soft, easie, half-witted Knight, credulous to an extravagant degree, perpetually asking Questions about the Play-House and Town Intrigues, tho' always banter'd and kept in Ignorance. By Mr. Bright." ], [ "Tom Romance, ] Son to Sir Charles ; a young, vain, fluttering, lying Fellow, always bragging of his Mistresses Favours, and shewing their Presents, perpetually intriguing, and never constant to any. By Mr. Powel." ], [ "Dr. Guiacum, ] An opinionated Chimical Doctor, a great pretender to cure Lunaticks and Claps. By Mr. Sandford." ], [ "Frederick, ] Half-Brother to Sir Quibble ; a witty, young, Town-Spark, who through the Vice and Inconstancy of his Humour, tho' he were contracted to Sophronia, breaks off with her upon a slight occasion, to pursue an Intrigue with the Heiress, who has much the greater Fortune. By Mr. Williams." ], [ "Rice ap Shinkin, ] A young, whimsical, Welsh Fop, that imitates Tom Romance in Intriguing, his Kinsman too and Companion. By Mr. Bowman." ], [ "Dick Stockjobb, ] An opinionated impertinent Citizen, a great Stock-jobber, and always laying Wagers, and against the Government. By Mr. Underhill." ], [ "Hotspur, ] A rash, hot headed, quarrelsom Fellow, Friend to Frederick, and intrigu'd with Mrs. Stockjobb. By Mr. Hudson." ], [ "Quickwit, ] A witty, but poor Scholar, that being hired by Frederick to steal the Heiress, feigns himself mad, and takes upon him the Name of the Lord de la Fool. By Mr. Dogget." ], [ "Cunnington, ] Subtle and mischievous, and Antagonist to Quickwit in his Design upon the Heiress. By Mr. Bowen." ], [ "Christopher, ] Servant to Dr. Guiacum." ], [ "Numps, ] A Country-Fellow, employ'd as Servant to my Lord de la Fool." ], [ "Fulvia, ] The Heiress, a witty, generous, and virtuous young Lady, who being privately in love with Frederick, feigns her self lunatick to trick her Guardian, and avoid impertinent Suitors. Acted by Mrs. Bracegirdle." ], [ "Sophronia, ] A Female plain-dealer, passionate and high-spirited, very satyrical upon the Town Humours, and particularly severe upon Frederick for deserting her. By Mrs. Barry." ], [ "Mrs. Stockjobb, alias Pogry, ] Stockjobb's Wife, formerly a French-man 's Widow in Picardy ; but coming over as a Refugee, is married to Stockjobb, a trim, gay Coquette, yet pretending to Religion and Good-breeding. By Mrs. Bowman." ], [ "Madam Squeamish, ] A young fantastical Creature of Richmond, horribly afraid of being Lampoon'd, and yet perpetually doing something or other to deserve it. By Mrs. Knight." ], [ "Marmalette, ] An old ridiculous Waiting-Woman of Fulvia's very desirous of a Husband, and contriving all she can to get one. By Mrs. Lee." ], [ "Ponade. ] A Waiting-Maid." ], [ "Mad men, Clown, Musicians, Singers, Dancers, Constable and Watch, Footmen and Attendants." ] ]
+  },
+  "speeches" : [ {
+    "id" : "A37011-e2080",
+    "pb" : "A37011-004-b",
+    "speaker" : "He."
+  }, {
+    "id" : "A37011-e2180",
+    "pb" : "A37011-004-b",
+    "speaker" : "She."
+  }, {
+    "id" : "A37011-e2290",
+    "pb" : "A37011-004-b",
+    "speaker" : "He."
+  }, {
+    "id" : "A37011-e2430",
+    "pb" : "A37011-004-b",
+    "speaker" : "She."
+  }, {
+    "id" : "A37011-e2510",
+    "pb" : "A37011-004-b",
+    "speaker" : "He."
+  }, {
+    "id" : "A37011-e2590",
+    "pb" : "A37011-004-b",
+    "speaker" : "She."
+  }, {
+    "id" : "A37011-e2690",
+    "pb" : "A37011-004-b",
+    "speaker" : "He."
+  }, {
+    "id" : "A37011-e2780",
+    "pb" : "A37011-004-b",
+    "speaker" : "Chorus of both ."
+  }, {
+    "id" : "A37011-e2860",
+    "pb" : "A37011-004-b",
+    "speaker" : "She."
+  }, {
+    "id" : "A37011-e2950",
+    "pb" : "A37011-004-b",
+    "speaker" : "He."
+  }, {
+    "id" : "A37011-e3050",
+    "pb" : "A37011-004-b",
+    "speaker" : "She."
+  }, {
+    "id" : "A37011-e3140",
+    "pb" : "A37011-004-b",
+    "speaker" : "He."
+  }, {
+    "id" : "A37011-e3200",
+    "pb" : "A37011-004-b",
+    "speaker" : "She."
+  }, {
+    "id" : "A37011-e3250",
+    "pb" : "A37011-004-b",
+    "speaker" : "He."
+  }, {
+    "id" : "A37011-e3280",
+    "pb" : "A37011-004-b",
+    "speaker" : "Chorus ."
+  }, {
+    "id" : "A37011-e4310",
+    "pb" : "A37011-005-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e4350",
+    "pb" : "A37011-005-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e4390",
+    "pb" : "A37011-005-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e4420",
+    "pb" : "A37011-005-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e4460",
+    "pb" : "A37011-005-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e4510",
+    "pb" : "A37011-005-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e4560",
+    "pb" : "A37011-005-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e4590",
+    "pb" : "A37011-005-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e4620",
+    "pb" : "A37011-006-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e4670",
+    "pb" : "A37011-006-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e4740",
+    "pb" : "A37011-006-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e4770",
+    "pb" : "A37011-006-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e4850",
+    "pb" : "A37011-006-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e4880",
+    "pb" : "A37011-006-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e4930",
+    "pb" : "A37011-006-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e5060",
+    "pb" : "A37011-006-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e5110",
+    "pb" : "A37011-006-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e5140",
+    "pb" : "A37011-006-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e5180",
+    "pb" : "A37011-006-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e5210",
+    "pb" : "A37011-006-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e5290",
+    "pb" : "A37011-006-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e5330",
+    "pb" : "A37011-006-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e5410",
+    "pb" : "A37011-007-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e5450",
+    "pb" : "A37011-007-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e5480",
+    "pb" : "A37011-007-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e5540",
+    "pb" : "A37011-007-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e5580",
+    "pb" : "A37011-007-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e5620",
+    "pb" : "A37011-007-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e5650",
+    "pb" : "A37011-007-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e5690",
+    "pb" : "A37011-007-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e5730",
+    "pb" : "A37011-007-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e5770",
+    "pb" : "A37011-007-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e5800",
+    "pb" : "A37011-007-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e5860",
+    "pb" : "A37011-007-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e5910",
+    "pb" : "A37011-007-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e5940",
+    "pb" : "A37011-007-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e5970",
+    "pb" : "A37011-007-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e6070",
+    "pb" : "A37011-007-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e6100",
+    "pb" : "A37011-007-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e6140",
+    "pb" : "A37011-007-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e6190",
+    "pb" : "A37011-007-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e6240",
+    "pb" : "A37011-007-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e6280",
+    "pb" : "A37011-007-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e6350",
+    "pb" : "A37011-007-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e6380",
+    "pb" : "A37011-007-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e6430",
+    "pb" : "A37011-007-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e6470",
+    "pb" : "A37011-007-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e6510",
+    "pb" : "A37011-007-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e6550",
+    "pb" : "A37011-007-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e6580",
+    "pb" : "A37011-007-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e6630",
+    "pb" : "A37011-007-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e6680",
+    "pb" : "A37011-007-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e6710",
+    "pb" : "A37011-007-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e6820",
+    "pb" : "A37011-007-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e6850",
+    "pb" : "A37011-007-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e7010",
+    "pb" : "A37011-007-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e7040",
+    "pb" : "A37011-007-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e7090",
+    "pb" : "A37011-008-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e7150",
+    "pb" : "A37011-008-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e7240",
+    "pb" : "A37011-008-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e7280",
+    "pb" : "A37011-008-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e7310",
+    "pb" : "A37011-008-a",
+    "speaker" : "Sir . Char."
+  }, {
+    "id" : "A37011-e7360",
+    "pb" : "A37011-008-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e7390",
+    "pb" : "A37011-008-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e7430",
+    "pb" : "A37011-008-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e7460",
+    "pb" : "A37011-008-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e7500",
+    "pb" : "A37011-008-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e7530",
+    "pb" : "A37011-008-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e7600",
+    "pb" : "A37011-008-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e7680",
+    "pb" : "A37011-008-b",
+    "speaker" : "Rice ."
+  }, {
+    "id" : "A37011-e7740",
+    "pb" : "A37011-008-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e7820",
+    "pb" : "A37011-008-b",
+    "speaker" : "Rice ."
+  }, {
+    "id" : "A37011-e7870",
+    "pb" : "A37011-008-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e7920",
+    "pb" : "A37011-008-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e7950",
+    "pb" : "A37011-008-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e8020",
+    "pb" : "A37011-008-b",
+    "speaker" : "Rice ."
+  }, {
+    "id" : "A37011-e8070",
+    "pb" : "A37011-008-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e8100",
+    "pb" : "A37011-008-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e8160",
+    "pb" : "A37011-008-b",
+    "speaker" : "Rice ."
+  }, {
+    "id" : "A37011-e8210",
+    "pb" : "A37011-008-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e8240",
+    "pb" : "A37011-008-b",
+    "speaker" : "Rice ."
+  }, {
+    "id" : "A37011-e8290",
+    "pb" : "A37011-008-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e8340",
+    "pb" : "A37011-009-a",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e8370",
+    "pb" : "A37011-009-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e8400",
+    "pb" : "A37011-009-a",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e8430",
+    "pb" : "A37011-009-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e8480",
+    "pb" : "A37011-009-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e8580",
+    "pb" : "A37011-009-a",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e8610",
+    "pb" : "A37011-009-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e8670",
+    "pb" : "A37011-009-a",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e8700",
+    "pb" : "A37011-009-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e8760",
+    "pb" : "A37011-009-a",
+    "speaker" : "Rice ."
+  }, {
+    "id" : "A37011-e8790",
+    "pb" : "A37011-009-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e8970",
+    "pb" : "A37011-009-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e9010",
+    "pb" : "A37011-009-a",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e9050",
+    "pb" : "A37011-009-b",
+    "speaker" : "Rice ."
+  }, {
+    "id" : "A37011-e9170",
+    "pb" : "A37011-009-b",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e9200",
+    "pb" : "A37011-009-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e9240",
+    "pb" : "A37011-009-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e9290",
+    "pb" : "A37011-009-b",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e9320",
+    "pb" : "A37011-009-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e9360",
+    "pb" : "A37011-009-b",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e9410",
+    "pb" : "A37011-009-b",
+    "speaker" : "Rice ."
+  }, {
+    "id" : "A37011-e9470",
+    "pb" : "A37011-009-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e9500",
+    "pb" : "A37011-009-b",
+    "speaker" : "Sir . Char."
+  }, {
+    "id" : "A37011-e9560",
+    "pb" : "A37011-009-b",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e9590",
+    "pb" : "A37011-009-b",
+    "speaker" : "Rice ."
+  }, {
+    "id" : "A37011-e9630",
+    "pb" : "A37011-009-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e9660",
+    "pb" : "A37011-009-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e9710",
+    "pb" : "A37011-009-b",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e9770",
+    "pb" : "A37011-009-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e9840",
+    "pb" : "A37011-009-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e9970",
+    "pb" : "A37011-010-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e10020",
+    "pb" : "A37011-010-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e10060",
+    "pb" : "A37011-010-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e10100",
+    "pb" : "A37011-010-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e10140",
+    "pb" : "A37011-010-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e10180",
+    "pb" : "A37011-010-a",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e10210",
+    "pb" : "A37011-010-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e10250",
+    "pb" : "A37011-010-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e10290",
+    "pb" : "A37011-010-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e10330",
+    "pb" : "A37011-010-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e10360",
+    "pb" : "A37011-010-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e10390",
+    "pb" : "A37011-010-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e10420",
+    "pb" : "A37011-010-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e10470",
+    "pb" : "A37011-010-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e10500",
+    "pb" : "A37011-010-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e10540",
+    "pb" : "A37011-010-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e10590",
+    "pb" : "A37011-010-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e10620",
+    "pb" : "A37011-010-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e10670",
+    "pb" : "A37011-010-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e10710",
+    "pb" : "A37011-010-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e10810",
+    "pb" : "A37011-010-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e10870",
+    "pb" : "A37011-010-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e10920",
+    "pb" : "A37011-010-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e10970",
+    "pb" : "A37011-011-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e11030",
+    "pb" : "A37011-011-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e11060",
+    "pb" : "A37011-011-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e11100",
+    "pb" : "A37011-011-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e11180",
+    "pb" : "A37011-011-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e11210",
+    "pb" : "A37011-011-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e11250",
+    "pb" : "A37011-011-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e11290",
+    "pb" : "A37011-011-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e11350",
+    "pb" : "A37011-011-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e11390",
+    "pb" : "A37011-011-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e11420",
+    "pb" : "A37011-011-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e11450",
+    "pb" : "A37011-011-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e11510",
+    "pb" : "A37011-011-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e11550",
+    "pb" : "A37011-011-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e11600",
+    "pb" : "A37011-011-b",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e11640",
+    "pb" : "A37011-011-b",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e11690",
+    "pb" : "A37011-011-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e11720",
+    "pb" : "A37011-011-b",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e11760",
+    "pb" : "A37011-011-b",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e11820",
+    "pb" : "A37011-011-b",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e11860",
+    "pb" : "A37011-011-b",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e11980",
+    "pb" : "A37011-011-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e12010",
+    "pb" : "A37011-011-b",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e12060",
+    "pb" : "A37011-011-b",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e12110",
+    "pb" : "A37011-011-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e12140",
+    "pb" : "A37011-011-b",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e12170",
+    "pb" : "A37011-012-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e12200",
+    "pb" : "A37011-012-a",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e12230",
+    "pb" : "A37011-012-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e12260",
+    "pb" : "A37011-012-a",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e12290",
+    "pb" : "A37011-012-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e12320",
+    "pb" : "A37011-012-a",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e12380",
+    "pb" : "A37011-012-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e12410",
+    "pb" : "A37011-012-a",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e12440",
+    "pb" : "A37011-012-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e12510",
+    "pb" : "A37011-012-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e12610",
+    "pb" : "A37011-012-b",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e12690",
+    "pb" : "A37011-012-b",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e12740",
+    "pb" : "A37011-012-b",
+    "speaker" : "Stockj ."
+  }, {
+    "id" : "A37011-e12800",
+    "pb" : "A37011-012-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e12830",
+    "pb" : "A37011-012-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e12860",
+    "pb" : "A37011-012-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e12900",
+    "pb" : "A37011-012-b",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e12930",
+    "pb" : "A37011-012-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e12970",
+    "pb" : "A37011-012-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e13010",
+    "pb" : "A37011-012-b",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e13100",
+    "pb" : "A37011-013-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e13130",
+    "pb" : "A37011-013-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e13170",
+    "pb" : "A37011-013-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e13220",
+    "pb" : "A37011-013-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e13250",
+    "pb" : "A37011-013-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e13290",
+    "pb" : "A37011-013-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e13420",
+    "pb" : "A37011-013-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e13450",
+    "pb" : "A37011-013-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e13480",
+    "pb" : "A37011-013-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e13510",
+    "pb" : "A37011-013-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e13540",
+    "pb" : "A37011-013-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e13580",
+    "pb" : "A37011-013-a",
+    "speaker" : "Cuning ."
+  }, {
+    "id" : "A37011-e13660",
+    "pb" : "A37011-013-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e13690",
+    "pb" : "A37011-013-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e13720",
+    "pb" : "A37011-013-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e13750",
+    "pb" : "A37011-013-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e13830",
+    "pb" : "A37011-013-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e13870",
+    "pb" : "A37011-013-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e13920",
+    "pb" : "A37011-013-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e13950",
+    "pb" : "A37011-013-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e14010",
+    "pb" : "A37011-013-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e14040",
+    "pb" : "A37011-013-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e14080",
+    "pb" : "A37011-013-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e14120",
+    "pb" : "A37011-013-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e14200",
+    "pb" : "A37011-013-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e14250",
+    "pb" : "A37011-014-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e14310",
+    "pb" : "A37011-014-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e14350",
+    "pb" : "A37011-014-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e14420",
+    "pb" : "A37011-014-a",
+    "speaker" : "Christ ."
+  }, {
+    "id" : "A37011-e14450",
+    "pb" : "A37011-014-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e14480",
+    "pb" : "A37011-014-a",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e14520",
+    "pb" : "A37011-014-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e14580",
+    "pb" : "A37011-014-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e14630",
+    "pb" : "A37011-014-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e14680",
+    "pb" : "A37011-014-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e14720",
+    "pb" : "A37011-014-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e14760",
+    "pb" : "A37011-014-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e14800",
+    "pb" : "A37011-014-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e14840",
+    "pb" : "A37011-014-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e14880",
+    "pb" : "A37011-014-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e14910",
+    "pb" : "A37011-014-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e14960",
+    "pb" : "A37011-014-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e15000",
+    "pb" : "A37011-014-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15050",
+    "pb" : "A37011-014-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e15090",
+    "pb" : "A37011-014-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15150",
+    "pb" : "A37011-014-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e15200",
+    "pb" : "A37011-014-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15240",
+    "pb" : "A37011-014-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e15270",
+    "pb" : "A37011-014-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15310",
+    "pb" : "A37011-014-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e15350",
+    "pb" : "A37011-014-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15380",
+    "pb" : "A37011-015-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e15420",
+    "pb" : "A37011-015-a",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e15450",
+    "pb" : "A37011-015-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e15500",
+    "pb" : "A37011-015-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15540",
+    "pb" : "A37011-015-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e15620",
+    "pb" : "A37011-015-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15650",
+    "pb" : "A37011-015-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e15690",
+    "pb" : "A37011-015-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15720",
+    "pb" : "A37011-015-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e15760",
+    "pb" : "A37011-015-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15790",
+    "pb" : "A37011-015-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e15820",
+    "pb" : "A37011-015-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15850",
+    "pb" : "A37011-015-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e15880",
+    "pb" : "A37011-015-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e15910",
+    "pb" : "A37011-015-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e16020",
+    "pb" : "A37011-015-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e16110",
+    "pb" : "A37011-015-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e16150",
+    "pb" : "A37011-015-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e16250",
+    "pb" : "A37011-015-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e16280",
+    "pb" : "A37011-015-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e16310",
+    "pb" : "A37011-015-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e16350",
+    "pb" : "A37011-015-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e16380",
+    "pb" : "A37011-015-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e16430",
+    "pb" : "A37011-015-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e16460",
+    "pb" : "A37011-015-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e16490",
+    "pb" : "A37011-015-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e16520",
+    "pb" : "A37011-015-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e16570",
+    "pb" : "A37011-015-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e16610",
+    "pb" : "A37011-015-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e16650",
+    "pb" : "A37011-015-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e16680",
+    "pb" : "A37011-015-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e16790",
+    "pb" : "A37011-015-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e16830",
+    "pb" : "A37011-015-b",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e16870",
+    "pb" : "A37011-015-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e16950",
+    "pb" : "A37011-016-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e17030",
+    "pb" : "A37011-016-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17060",
+    "pb" : "A37011-016-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e17090",
+    "pb" : "A37011-016-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17120",
+    "pb" : "A37011-016-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e17150",
+    "pb" : "A37011-016-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17180",
+    "pb" : "A37011-016-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e17210",
+    "pb" : "A37011-016-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17240",
+    "pb" : "A37011-016-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e17270",
+    "pb" : "A37011-016-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17320",
+    "pb" : "A37011-016-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e17370",
+    "pb" : "A37011-016-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17420",
+    "pb" : "A37011-016-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e17450",
+    "pb" : "A37011-016-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17480",
+    "pb" : "A37011-016-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e17520",
+    "pb" : "A37011-016-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17570",
+    "pb" : "A37011-016-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e17630",
+    "pb" : "A37011-016-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e17660",
+    "pb" : "A37011-016-a",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e17710",
+    "pb" : "A37011-016-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e17760",
+    "pb" : "A37011-016-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17790",
+    "pb" : "A37011-016-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e17850",
+    "pb" : "A37011-016-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17880",
+    "pb" : "A37011-016-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e17920",
+    "pb" : "A37011-016-a",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e17950",
+    "pb" : "A37011-016-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e17980",
+    "pb" : "A37011-016-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e18010",
+    "pb" : "A37011-016-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e18040",
+    "pb" : "A37011-016-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e18070",
+    "pb" : "A37011-016-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e18100",
+    "pb" : "A37011-016-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e18320",
+    "pb" : "A37011-016-b",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e18350",
+    "pb" : "A37011-016-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e18380",
+    "pb" : "A37011-016-b",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e18410",
+    "pb" : "A37011-016-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e18460",
+    "pb" : "A37011-016-b",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e18560",
+    "pb" : "A37011-017-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e18590",
+    "pb" : "A37011-017-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e18660",
+    "pb" : "A37011-017-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e18690",
+    "pb" : "A37011-017-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e18720",
+    "pb" : "A37011-017-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e18760",
+    "pb" : "A37011-017-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e18790",
+    "pb" : "A37011-017-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e18820",
+    "pb" : "A37011-017-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e18880",
+    "pb" : "A37011-017-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e18920",
+    "pb" : "A37011-017-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e18980",
+    "pb" : "A37011-017-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e19030",
+    "pb" : "A37011-017-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e19070",
+    "pb" : "A37011-017-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e19160",
+    "pb" : "A37011-017-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e19190",
+    "pb" : "A37011-017-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e19220",
+    "pb" : "A37011-017-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e19270",
+    "pb" : "A37011-017-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e19310",
+    "pb" : "A37011-017-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e19350",
+    "pb" : "A37011-017-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e19410",
+    "pb" : "A37011-017-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e19470",
+    "pb" : "A37011-017-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e19540",
+    "pb" : "A37011-017-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e19580",
+    "pb" : "A37011-017-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e19620",
+    "pb" : "A37011-017-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e19660",
+    "pb" : "A37011-018-a",
+    "speaker" : "Quick"
+  }, {
+    "id" : "A37011-e19690",
+    "pb" : "A37011-018-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e19720",
+    "pb" : "A37011-018-a",
+    "speaker" : "Quick"
+  }, {
+    "id" : "A37011-e19750",
+    "pb" : "A37011-018-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e19780",
+    "pb" : "A37011-018-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e19810",
+    "pb" : "A37011-018-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e19840",
+    "pb" : "A37011-018-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e19890",
+    "pb" : "A37011-018-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e19920",
+    "pb" : "A37011-018-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e19950",
+    "pb" : "A37011-018-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e19980",
+    "pb" : "A37011-018-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20010",
+    "pb" : "A37011-018-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e20040",
+    "pb" : "A37011-018-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20080",
+    "pb" : "A37011-018-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e20120",
+    "pb" : "A37011-018-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20160",
+    "pb" : "A37011-018-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e20190",
+    "pb" : "A37011-018-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20220",
+    "pb" : "A37011-018-a",
+    "speaker" : "Serv."
+  }, {
+    "id" : "A37011-e20260",
+    "pb" : "A37011-018-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20300",
+    "pb" : "A37011-018-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e20340",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20380",
+    "pb" : "A37011-018-b",
+    "speaker" : "Serv."
+  }, {
+    "id" : "A37011-e20420",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20450",
+    "pb" : "A37011-018-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e20480",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20510",
+    "pb" : "A37011-018-b",
+    "speaker" : "Serv"
+  }, {
+    "id" : "A37011-e20560",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20590",
+    "pb" : "A37011-018-b",
+    "speaker" : "Serv."
+  }, {
+    "id" : "A37011-e20630",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20660",
+    "pb" : "A37011-018-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e20710",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20770",
+    "pb" : "A37011-018-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e20810",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20840",
+    "pb" : "A37011-018-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e20880",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e20920",
+    "pb" : "A37011-018-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e20970",
+    "pb" : "A37011-018-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e21020",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e21050",
+    "pb" : "A37011-018-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e21090",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e21130",
+    "pb" : "A37011-018-b",
+    "speaker" : "Fulv"
+  }, {
+    "id" : "A37011-e21160",
+    "pb" : "A37011-018-b",
+    "speaker" : "Marm"
+  }, {
+    "id" : "A37011-e21210",
+    "pb" : "A37011-018-b",
+    "speaker" : "〈◊〉"
+  }, {
+    "id" : "A37011-e21250",
+    "pb" : "A37011-018-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e21290",
+    "pb" : "A37011-019-a",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e21330",
+    "pb" : "A37011-019-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e21370",
+    "pb" : "A37011-019-a",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e21460",
+    "pb" : "A37011-019-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e21500",
+    "pb" : "A37011-019-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e21530",
+    "pb" : "A37011-019-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e21570",
+    "pb" : "A37011-019-a",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e21630",
+    "pb" : "A37011-019-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e21690",
+    "pb" : "A37011-019-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e21760",
+    "pb" : "A37011-019-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e21800",
+    "pb" : "A37011-019-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e21860",
+    "pb" : "A37011-019-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e21910",
+    "pb" : "A37011-019-a",
+    "speaker" : "Sir Charl."
+  }, {
+    "id" : "A37011-e21950",
+    "pb" : "A37011-019-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e21980",
+    "pb" : "A37011-019-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e22020",
+    "pb" : "A37011-019-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e22060",
+    "pb" : "A37011-019-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e22100",
+    "pb" : "A37011-019-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e22160",
+    "pb" : "A37011-019-a",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e22220",
+    "pb" : "A37011-019-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e22250",
+    "pb" : "A37011-019-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e22290",
+    "pb" : "A37011-019-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e22320",
+    "pb" : "A37011-019-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e22370",
+    "pb" : "A37011-019-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e22430",
+    "pb" : "A37011-019-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e22480",
+    "pb" : "A37011-019-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e22540",
+    "pb" : "A37011-019-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e22580",
+    "pb" : "A37011-019-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e22610",
+    "pb" : "A37011-019-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e22660",
+    "pb" : "A37011-019-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e22710",
+    "pb" : "A37011-019-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e22750",
+    "pb" : "A37011-019-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e22880",
+    "pb" : "A37011-019-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e22930",
+    "pb" : "A37011-019-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e22970",
+    "pb" : "A37011-019-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e23000",
+    "pb" : "A37011-019-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23050",
+    "pb" : "A37011-019-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e23100",
+    "pb" : "A37011-019-b",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e23130",
+    "pb" : "A37011-019-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23170",
+    "pb" : "A37011-019-b",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e23210",
+    "pb" : "A37011-020-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23250",
+    "pb" : "A37011-020-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e23280",
+    "pb" : "A37011-020-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23320",
+    "pb" : "A37011-020-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e23350",
+    "pb" : "A37011-020-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23400",
+    "pb" : "A37011-020-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e23430",
+    "pb" : "A37011-020-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23470",
+    "pb" : "A37011-020-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e23500",
+    "pb" : "A37011-020-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23540",
+    "pb" : "A37011-020-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e23570",
+    "pb" : "A37011-020-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23620",
+    "pb" : "A37011-020-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e23650",
+    "pb" : "A37011-020-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23690",
+    "pb" : "A37011-020-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e23730",
+    "pb" : "A37011-020-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23770",
+    "pb" : "A37011-020-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e23800",
+    "pb" : "A37011-020-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e23840",
+    "pb" : "A37011-020-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e23870",
+    "pb" : "A37011-020-a",
+    "speaker" : "Sir Q — ."
+  }, {
+    "id" : "A37011-e23910",
+    "pb" : "A37011-020-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e23940",
+    "pb" : "A37011-020-b",
+    "speaker" : "Sir Q — ."
+  }, {
+    "id" : "A37011-e23980",
+    "pb" : "A37011-020-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e24010",
+    "pb" : "A37011-020-b",
+    "speaker" : "Sir Q — ."
+  }, {
+    "id" : "A37011-e24050",
+    "pb" : "A37011-020-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e24080",
+    "pb" : "A37011-020-b",
+    "speaker" : "Sir Q — ."
+  }, {
+    "id" : "A37011-e24150",
+    "pb" : "A37011-020-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e24200",
+    "pb" : "A37011-020-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e24250",
+    "pb" : "A37011-020-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e24280",
+    "pb" : "A37011-020-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e24310",
+    "pb" : "A37011-020-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e24400",
+    "pb" : "A37011-020-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e24430",
+    "pb" : "A37011-020-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e24470",
+    "pb" : "A37011-020-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e24550",
+    "pb" : "A37011-020-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e24580",
+    "pb" : "A37011-020-b",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e24630",
+    "pb" : "A37011-021-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e24660",
+    "pb" : "A37011-021-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e24690",
+    "pb" : "A37011-021-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e24740",
+    "pb" : "A37011-021-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e24790",
+    "pb" : "A37011-021-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e24830",
+    "pb" : "A37011-021-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e24870",
+    "pb" : "A37011-021-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e24900",
+    "pb" : "A37011-021-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e24930",
+    "pb" : "A37011-021-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e24980",
+    "pb" : "A37011-021-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e25010",
+    "pb" : "A37011-021-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e25070",
+    "pb" : "A37011-021-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e25100",
+    "pb" : "A37011-021-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e25130",
+    "pb" : "A37011-021-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e25250",
+    "pb" : "A37011-021-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e25290",
+    "pb" : "A37011-021-b",
+    "speaker" : "Quick."
+  }, {
+    "id" : "A37011-e25340",
+    "pb" : "A37011-021-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e25380",
+    "pb" : "A37011-021-b",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e25420",
+    "pb" : "A37011-021-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e25500",
+    "pb" : "A37011-021-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e25550",
+    "pb" : "A37011-021-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e25580",
+    "pb" : "A37011-021-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e25610",
+    "pb" : "A37011-022-a",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e25640",
+    "pb" : "A37011-022-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e25670",
+    "pb" : "A37011-022-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e25700",
+    "pb" : "A37011-022-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e25730",
+    "pb" : "A37011-022-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e25760",
+    "pb" : "A37011-022-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e25800",
+    "pb" : "A37011-022-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e25860",
+    "pb" : "A37011-022-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e25900",
+    "pb" : "A37011-022-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e25930",
+    "pb" : "A37011-022-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e25960",
+    "pb" : "A37011-022-a",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e25990",
+    "pb" : "A37011-022-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e26050",
+    "pb" : "A37011-022-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e26370",
+    "pb" : "A37011-023-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e26400",
+    "pb" : "A37011-023-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e26440",
+    "pb" : "A37011-023-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e26480",
+    "pb" : "A37011-023-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e26540",
+    "pb" : "A37011-023-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e26570",
+    "pb" : "A37011-023-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e26620",
+    "pb" : "A37011-023-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e26660",
+    "pb" : "A37011-023-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e26700",
+    "pb" : "A37011-023-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e26760",
+    "pb" : "A37011-023-a",
+    "speaker" : "Stockj ."
+  }, {
+    "id" : "A37011-e26810",
+    "pb" : "A37011-023-b",
+    "speaker" : "Mrs. Stockj ."
+  }, {
+    "id" : "A37011-e26860",
+    "pb" : "A37011-023-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e26890",
+    "pb" : "A37011-023-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e26950",
+    "pb" : "A37011-023-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e26980",
+    "pb" : "A37011-023-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e27020",
+    "pb" : "A37011-023-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e27060",
+    "pb" : "A37011-023-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e27100",
+    "pb" : "A37011-023-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e27150",
+    "pb" : "A37011-023-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e27200",
+    "pb" : "A37011-023-b",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e27290",
+    "pb" : "A37011-023-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e27340",
+    "pb" : "A37011-023-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e27420",
+    "pb" : "A37011-023-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e27460",
+    "pb" : "A37011-023-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e27530",
+    "pb" : "A37011-023-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e27580",
+    "pb" : "A37011-023-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e27620",
+    "pb" : "A37011-023-b",
+    "speaker" : "Mrs. Stook ."
+  }, {
+    "id" : "A37011-e27700",
+    "pb" : "A37011-024-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e27740",
+    "pb" : "A37011-024-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e27790",
+    "pb" : "A37011-024-a",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e27920",
+    "pb" : "A37011-024-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e27960",
+    "pb" : "A37011-024-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e28000",
+    "pb" : "A37011-024-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e28030",
+    "pb" : "A37011-024-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e28080",
+    "pb" : "A37011-024-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e28130",
+    "pb" : "A37011-024-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e28190",
+    "pb" : "A37011-024-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e28220",
+    "pb" : "A37011-024-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e28250",
+    "pb" : "A37011-024-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e28280",
+    "pb" : "A37011-024-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e28320",
+    "pb" : "A37011-024-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e28370",
+    "pb" : "A37011-024-a",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e28410",
+    "pb" : "A37011-024-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e28450",
+    "pb" : "A37011-024-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e28500",
+    "pb" : "A37011-024-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e28550",
+    "pb" : "A37011-024-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e28580",
+    "pb" : "A37011-024-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e28610",
+    "pb" : "A37011-024-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e28670",
+    "pb" : "A37011-024-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e28700",
+    "pb" : "A37011-024-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e28760",
+    "pb" : "A37011-024-b",
+    "speaker" : "Hotsp . Solus ."
+  }, {
+    "id" : "A37011-e28850",
+    "pb" : "A37011-024-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e28890",
+    "pb" : "A37011-024-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e28930",
+    "pb" : "A37011-024-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e28960",
+    "pb" : "A37011-025-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29000",
+    "pb" : "A37011-025-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e29030",
+    "pb" : "A37011-025-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29070",
+    "pb" : "A37011-025-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e29100",
+    "pb" : "A37011-025-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29140",
+    "pb" : "A37011-025-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e29180",
+    "pb" : "A37011-025-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29230",
+    "pb" : "A37011-025-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e29270",
+    "pb" : "A37011-025-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29330",
+    "pb" : "A37011-025-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e29370",
+    "pb" : "A37011-025-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29410",
+    "pb" : "A37011-025-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e29440",
+    "pb" : "A37011-025-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29470",
+    "pb" : "A37011-025-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e29510",
+    "pb" : "A37011-025-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29540",
+    "pb" : "A37011-025-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e29570",
+    "pb" : "A37011-025-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29640",
+    "pb" : "A37011-025-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e29730",
+    "pb" : "A37011-025-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29770",
+    "pb" : "A37011-025-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e29820",
+    "pb" : "A37011-025-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e29850",
+    "pb" : "A37011-025-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e29910",
+    "pb" : "A37011-025-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e30000",
+    "pb" : "A37011-025-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e30180",
+    "pb" : "A37011-025-b",
+    "speaker" : "Christo."
+  }, {
+    "id" : "A37011-e30210",
+    "pb" : "A37011-026-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e30240",
+    "pb" : "A37011-026-a",
+    "speaker" : "Christo."
+  }, {
+    "id" : "A37011-e30270",
+    "pb" : "A37011-026-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e30300",
+    "pb" : "A37011-026-a",
+    "speaker" : "Christo."
+  }, {
+    "id" : "A37011-e30330",
+    "pb" : "A37011-026-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e30360",
+    "pb" : "A37011-026-a",
+    "speaker" : "Christo."
+  }, {
+    "id" : "A37011-e30400",
+    "pb" : "A37011-026-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e30430",
+    "pb" : "A37011-026-a",
+    "speaker" : "Christo."
+  }, {
+    "id" : "A37011-e30460",
+    "pb" : "A37011-026-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e30490",
+    "pb" : "A37011-026-a",
+    "speaker" : "Christo."
+  }, {
+    "id" : "A37011-e30560",
+    "pb" : "A37011-026-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e30590",
+    "pb" : "A37011-026-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e30640",
+    "pb" : "A37011-026-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e30700",
+    "pb" : "A37011-026-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e30740",
+    "pb" : "A37011-026-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e30770",
+    "pb" : "A37011-026-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e30810",
+    "pb" : "A37011-026-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e30840",
+    "pb" : "A37011-026-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e30870",
+    "pb" : "A37011-026-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e30900",
+    "pb" : "A37011-026-a",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e30930",
+    "pb" : "A37011-026-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e30980",
+    "pb" : "A37011-026-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e31020",
+    "pb" : "A37011-026-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e31060",
+    "pb" : "A37011-026-b",
+    "speaker" : "Fulv."
+  }, {
+    "id" : "A37011-e31090",
+    "pb" : "A37011-026-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e31120",
+    "pb" : "A37011-026-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e31160",
+    "pb" : "A37011-026-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e31200",
+    "pb" : "A37011-026-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e31230",
+    "pb" : "A37011-026-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e31260",
+    "pb" : "A37011-026-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e31300",
+    "pb" : "A37011-026-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e31350",
+    "pb" : "A37011-026-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e31380",
+    "pb" : "A37011-026-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e31410",
+    "pb" : "A37011-026-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e31440",
+    "pb" : "A37011-026-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e31480",
+    "pb" : "A37011-026-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e31520",
+    "pb" : "A37011-026-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e31550",
+    "pb" : "A37011-026-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e31620",
+    "pb" : "A37011-026-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e31650",
+    "pb" : "A37011-026-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e31680",
+    "pb" : "A37011-026-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e31710",
+    "pb" : "A37011-026-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e31740",
+    "pb" : "A37011-027-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e31780",
+    "pb" : "A37011-027-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e31810",
+    "pb" : "A37011-027-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e31840",
+    "pb" : "A37011-027-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e31880",
+    "pb" : "A37011-027-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e31930",
+    "pb" : "A37011-027-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e31970",
+    "pb" : "A37011-027-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e32010",
+    "pb" : "A37011-027-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e32050",
+    "pb" : "A37011-027-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e32090",
+    "pb" : "A37011-027-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e32150",
+    "pb" : "A37011-027-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e32190",
+    "pb" : "A37011-027-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e32220",
+    "pb" : "A37011-027-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e32260",
+    "pb" : "A37011-027-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e32310",
+    "pb" : "A37011-027-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e32410",
+    "pb" : "A37011-027-b",
+    "speaker" : "T , Rom."
+  }, {
+    "id" : "A37011-e32440",
+    "pb" : "A37011-027-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e32480",
+    "pb" : "A37011-027-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e32510",
+    "pb" : "A37011-027-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e32590",
+    "pb" : "A37011-027-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e32630",
+    "pb" : "A37011-027-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e32660",
+    "pb" : "A37011-027-b",
+    "speaker" : "Sr. Char."
+  }, {
+    "id" : "A37011-e32700",
+    "pb" : "A37011-027-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e32740",
+    "pb" : "A37011-027-b",
+    "speaker" : "S. Char."
+  }, {
+    "id" : "A37011-e32780",
+    "pb" : "A37011-027-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e32810",
+    "pb" : "A37011-027-b",
+    "speaker" : "Sr. Char."
+  }, {
+    "id" : "A37011-e32850",
+    "pb" : "A37011-027-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e32890",
+    "pb" : "A37011-027-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e32950",
+    "pb" : "A37011-027-b",
+    "speaker" : "Sir . Char."
+  }, {
+    "id" : "A37011-e33000",
+    "pb" : "A37011-027-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e33030",
+    "pb" : "A37011-028-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e33070",
+    "pb" : "A37011-028-a",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e33100",
+    "pb" : "A37011-028-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e33140",
+    "pb" : "A37011-028-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e33180",
+    "pb" : "A37011-028-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e33220",
+    "pb" : "A37011-028-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e33270",
+    "pb" : "A37011-028-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e33310",
+    "pb" : "A37011-028-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e33350",
+    "pb" : "A37011-028-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e33390",
+    "pb" : "A37011-028-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e33470",
+    "pb" : "A37011-028-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e33510",
+    "pb" : "A37011-028-a",
+    "speaker" : "Sir . Char."
+  }, {
+    "id" : "A37011-e33550",
+    "pb" : "A37011-028-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e33580",
+    "pb" : "A37011-028-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e33620",
+    "pb" : "A37011-028-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e33650",
+    "pb" : "A37011-028-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e33690",
+    "pb" : "A37011-028-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e33730",
+    "pb" : "A37011-028-b",
+    "speaker" : "Sir . Char."
+  }, {
+    "id" : "A37011-e33790",
+    "pb" : "A37011-028-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e33830",
+    "pb" : "A37011-028-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e33870",
+    "pb" : "A37011-028-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e33900",
+    "pb" : "A37011-028-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e33960",
+    "pb" : "A37011-028-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e34010",
+    "pb" : "A37011-028-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e34050",
+    "pb" : "A37011-028-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e34090",
+    "pb" : "A37011-028-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e34120",
+    "pb" : "A37011-028-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e34170",
+    "pb" : "A37011-028-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e34200",
+    "pb" : "A37011-028-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e34230",
+    "pb" : "A37011-028-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e34260",
+    "pb" : "A37011-028-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e34340",
+    "pb" : "A37011-028-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e34370",
+    "pb" : "A37011-028-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e34400",
+    "pb" : "A37011-028-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e34450",
+    "pb" : "A37011-028-b",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e34490",
+    "pb" : "A37011-029-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e34530",
+    "pb" : "A37011-029-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e34560",
+    "pb" : "A37011-029-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e34600",
+    "pb" : "A37011-029-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e34630",
+    "pb" : "A37011-029-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e34660",
+    "pb" : "A37011-029-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e34690",
+    "pb" : "A37011-029-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e34720",
+    "pb" : "A37011-029-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e34760",
+    "pb" : "A37011-029-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e34800",
+    "pb" : "A37011-029-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e34840",
+    "pb" : "A37011-029-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e34880",
+    "pb" : "A37011-029-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e34920",
+    "pb" : "A37011-029-a",
+    "speaker" : "Soph ,"
+  }, {
+    "id" : "A37011-e34960",
+    "pb" : "A37011-029-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e35070",
+    "pb" : "A37011-029-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e35120",
+    "pb" : "A37011-029-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e35170",
+    "pb" : "A37011-029-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e35220",
+    "pb" : "A37011-029-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e35250",
+    "pb" : "A37011-029-a",
+    "speaker" : "Sir . Quib."
+  }, {
+    "id" : "A37011-e35290",
+    "pb" : "A37011-029-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e35320",
+    "pb" : "A37011-029-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e35350",
+    "pb" : "A37011-029-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e35380",
+    "pb" : "A37011-029-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e35420",
+    "pb" : "A37011-029-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e35450",
+    "pb" : "A37011-029-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e35480",
+    "pb" : "A37011-029-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e35520",
+    "pb" : "A37011-029-a",
+    "speaker" : "Sir Quibb."
+  }, {
+    "id" : "A37011-e35570",
+    "pb" : "A37011-029-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e35610",
+    "pb" : "A37011-029-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e35640",
+    "pb" : "A37011-029-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e35700",
+    "pb" : "A37011-029-b",
+    "speaker" : "Sir Quibb."
+  }, {
+    "id" : "A37011-e35740",
+    "pb" : "A37011-029-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e35770",
+    "pb" : "A37011-029-b",
+    "speaker" : "Sir Quibb."
+  }, {
+    "id" : "A37011-e35810",
+    "pb" : "A37011-029-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e35850",
+    "pb" : "A37011-029-b",
+    "speaker" : "Sir Quibb."
+  }, {
+    "id" : "A37011-e35900",
+    "pb" : "A37011-029-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e35930",
+    "pb" : "A37011-029-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e35960",
+    "pb" : "A37011-029-b",
+    "speaker" : "Sir Quibb."
+  }, {
+    "id" : "A37011-e36020",
+    "pb" : "A37011-029-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e36060",
+    "pb" : "A37011-029-b",
+    "speaker" : "Sir Quibb."
+  }, {
+    "id" : "A37011-e36150",
+    "pb" : "A37011-029-b",
+    "speaker" : "Sir Charles ."
+  }, {
+    "id" : "A37011-e36190",
+    "pb" : "A37011-029-b",
+    "speaker" : "Shink"
+  }, {
+    "id" : "A37011-e36370",
+    "pb" : "A37011-030-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e36400",
+    "pb" : "A37011-030-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e36440",
+    "pb" : "A37011-030-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e36500",
+    "pb" : "A37011-030-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e36550",
+    "pb" : "A37011-030-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e36580",
+    "pb" : "A37011-030-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e36620",
+    "pb" : "A37011-030-a",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e36650",
+    "pb" : "A37011-030-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e36760",
+    "pb" : "A37011-030-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e36790",
+    "pb" : "A37011-030-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e36850",
+    "pb" : "A37011-030-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e36900",
+    "pb" : "A37011-030-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e36930",
+    "pb" : "A37011-030-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e36960",
+    "pb" : "A37011-030-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e36990",
+    "pb" : "A37011-030-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e37020",
+    "pb" : "A37011-030-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e37050",
+    "pb" : "A37011-030-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e37080",
+    "pb" : "A37011-030-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e37110",
+    "pb" : "A37011-030-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e37160",
+    "pb" : "A37011-030-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e37200",
+    "pb" : "A37011-030-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e37230",
+    "pb" : "A37011-030-b",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e37260",
+    "pb" : "A37011-030-b",
+    "speaker" : "Sophr."
+  }, {
+    "id" : "A37011-e37290",
+    "pb" : "A37011-030-b",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e37330",
+    "pb" : "A37011-030-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e37360",
+    "pb" : "A37011-030-b",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e37390",
+    "pb" : "A37011-031-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e37420",
+    "pb" : "A37011-031-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e37460",
+    "pb" : "A37011-031-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e37490",
+    "pb" : "A37011-031-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e37520",
+    "pb" : "A37011-031-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e37550",
+    "pb" : "A37011-031-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e37580",
+    "pb" : "A37011-031-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e37610",
+    "pb" : "A37011-031-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e37640",
+    "pb" : "A37011-031-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e37740",
+    "pb" : "A37011-031-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e37800",
+    "pb" : "A37011-031-a",
+    "speaker" : "Sir Charles ."
+  }, {
+    "id" : "A37011-e37840",
+    "pb" : "A37011-031-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e37880",
+    "pb" : "A37011-031-a",
+    "speaker" : "Sir Charles ."
+  }, {
+    "id" : "A37011-e37920",
+    "pb" : "A37011-031-a",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e37950",
+    "pb" : "A37011-031-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e37990",
+    "pb" : "A37011-031-a",
+    "speaker" : "Sir Charles ."
+  }, {
+    "id" : "A37011-e38030",
+    "pb" : "A37011-031-b",
+    "speaker" : "Fulvia"
+  }, {
+    "id" : "A37011-e38070",
+    "pb" : "A37011-031-b",
+    "speaker" : "Sir Charles ."
+  }, {
+    "id" : "A37011-e38140",
+    "pb" : "A37011-031-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e38200",
+    "pb" : "A37011-031-b",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e38240",
+    "pb" : "A37011-031-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e38270",
+    "pb" : "A37011-031-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e38300",
+    "pb" : "A37011-031-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e38340",
+    "pb" : "A37011-031-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e38370",
+    "pb" : "A37011-031-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e38420",
+    "pb" : "A37011-031-b",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e38450",
+    "pb" : "A37011-031-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e38540",
+    "pb" : "A37011-031-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e38580",
+    "pb" : "A37011-032-a",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e38650",
+    "pb" : "A37011-032-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e38710",
+    "pb" : "A37011-032-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e38740",
+    "pb" : "A37011-032-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e38770",
+    "pb" : "A37011-032-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e38810",
+    "pb" : "A37011-032-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e38860",
+    "pb" : "A37011-032-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e38890",
+    "pb" : "A37011-032-a",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e38920",
+    "pb" : "A37011-032-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e38950",
+    "pb" : "A37011-032-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e38980",
+    "pb" : "A37011-032-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e39010",
+    "pb" : "A37011-032-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e39040",
+    "pb" : "A37011-032-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e39070",
+    "pb" : "A37011-032-a",
+    "speaker" : "Hosp."
+  }, {
+    "id" : "A37011-e39100",
+    "pb" : "A37011-032-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e39140",
+    "pb" : "A37011-032-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e39180",
+    "pb" : "A37011-032-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e39210",
+    "pb" : "A37011-032-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e39240",
+    "pb" : "A37011-032-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e39290",
+    "pb" : "A37011-032-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e39320",
+    "pb" : "A37011-032-a",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e39350",
+    "pb" : "A37011-032-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e39410",
+    "pb" : "A37011-032-b",
+    "speaker" : "Shinkin ."
+  }, {
+    "id" : "A37011-e39460",
+    "pb" : "A37011-032-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e39490",
+    "pb" : "A37011-032-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e39530",
+    "pb" : "A37011-032-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e39580",
+    "pb" : "A37011-032-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e39640",
+    "pb" : "A37011-032-b",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e39690",
+    "pb" : "A37011-032-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e39720",
+    "pb" : "A37011-032-b",
+    "speaker" : "Mr. Stock ."
+  }, {
+    "id" : "A37011-e39760",
+    "pb" : "A37011-032-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e39850",
+    "pb" : "A37011-032-b",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e39890",
+    "pb" : "A37011-032-b",
+    "speaker" : "Hots ."
+  }, {
+    "id" : "A37011-e39930",
+    "pb" : "A37011-032-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e39990",
+    "pb" : "A37011-032-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e40040",
+    "pb" : "A37011-032-b",
+    "speaker" : "Stock ."
+  }, {
+    "id" : "A37011-e40140",
+    "pb" : "A37011-033-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e40200",
+    "pb" : "A37011-033-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e40240",
+    "pb" : "A37011-033-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e40280",
+    "pb" : "A37011-033-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e40340",
+    "pb" : "A37011-033-a",
+    "speaker" : "Mrs. Stock ."
+  }, {
+    "id" : "A37011-e40490",
+    "pb" : "A37011-033-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e40520",
+    "pb" : "A37011-033-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e40550",
+    "pb" : "A37011-033-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e40590",
+    "pb" : "A37011-033-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e40630",
+    "pb" : "A37011-033-a",
+    "speaker" : "Cunning."
+  }, {
+    "id" : "A37011-e40660",
+    "pb" : "A37011-033-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e40690",
+    "pb" : "A37011-033-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e40720",
+    "pb" : "A37011-033-a",
+    "speaker" : "Cunn ."
+  }, {
+    "id" : "A37011-e40810",
+    "pb" : "A37011-033-a",
+    "speaker" : "Quickwitt ."
+  }, {
+    "id" : "A37011-e40860",
+    "pb" : "A37011-033-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e40910",
+    "pb" : "A37011-033-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e40950",
+    "pb" : "A37011-033-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e40990",
+    "pb" : "A37011-033-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41030",
+    "pb" : "A37011-033-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e41070",
+    "pb" : "A37011-033-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41100",
+    "pb" : "A37011-033-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e41130",
+    "pb" : "A37011-033-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41170",
+    "pb" : "A37011-033-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e41200",
+    "pb" : "A37011-033-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41240",
+    "pb" : "A37011-033-b",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e41290",
+    "pb" : "A37011-033-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41370",
+    "pb" : "A37011-033-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e41410",
+    "pb" : "A37011-033-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41440",
+    "pb" : "A37011-033-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e41470",
+    "pb" : "A37011-033-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41500",
+    "pb" : "A37011-033-b",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e41550",
+    "pb" : "A37011-034-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41590",
+    "pb" : "A37011-034-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e41630",
+    "pb" : "A37011-034-a",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e41660",
+    "pb" : "A37011-034-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e41690",
+    "pb" : "A37011-034-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41720",
+    "pb" : "A37011-034-a",
+    "speaker" : "1 Count."
+  }, {
+    "id" : "A37011-e41760",
+    "pb" : "A37011-034-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41790",
+    "pb" : "A37011-034-a",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e41820",
+    "pb" : "A37011-034-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e41850",
+    "pb" : "A37011-034-a",
+    "speaker" : "Omn."
+  }, {
+    "id" : "A37011-e41880",
+    "pb" : "A37011-034-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41920",
+    "pb" : "A37011-034-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e41950",
+    "pb" : "A37011-034-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e41980",
+    "pb" : "A37011-034-a",
+    "speaker" : "Numps ."
+  }, {
+    "id" : "A37011-e42020",
+    "pb" : "A37011-034-a",
+    "speaker" : "2 Count."
+  }, {
+    "id" : "A37011-e42060",
+    "pb" : "A37011-034-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e42090",
+    "pb" : "A37011-034-a",
+    "speaker" : "Count."
+  }, {
+    "id" : "A37011-e42120",
+    "pb" : "A37011-034-a",
+    "speaker" : "Cun."
+  }, {
+    "id" : "A37011-e42160",
+    "pb" : "A37011-034-a",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e42280",
+    "pb" : "A37011-034-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e42310",
+    "pb" : "A37011-034-a",
+    "speaker" : "Rom."
+  }, {
+    "id" : "A37011-e42340",
+    "pb" : "A37011-034-a",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e42380",
+    "pb" : "A37011-034-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e42420",
+    "pb" : "A37011-034-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e42460",
+    "pb" : "A37011-034-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e42510",
+    "pb" : "A37011-034-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e42560",
+    "pb" : "A37011-034-b",
+    "speaker" : "Guias ."
+  }, {
+    "id" : "A37011-e42600",
+    "pb" : "A37011-034-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e42650",
+    "pb" : "A37011-034-b",
+    "speaker" : "Hotsp ."
+  }, {
+    "id" : "A37011-e42720",
+    "pb" : "A37011-034-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e42760",
+    "pb" : "A37011-034-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e42800",
+    "pb" : "A37011-034-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e42850",
+    "pb" : "A37011-034-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e42890",
+    "pb" : "A37011-034-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e42940",
+    "pb" : "A37011-034-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e42970",
+    "pb" : "A37011-034-b",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e43000",
+    "pb" : "A37011-034-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e43040",
+    "pb" : "A37011-034-b",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e43080",
+    "pb" : "A37011-035-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e43110",
+    "pb" : "A37011-035-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e43160",
+    "pb" : "A37011-035-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e43210",
+    "pb" : "A37011-035-a",
+    "speaker" : "Shink ."
+  }, {
+    "id" : "A37011-e43240",
+    "pb" : "A37011-035-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e43280",
+    "pb" : "A37011-035-a",
+    "speaker" : "Shink"
+  }, {
+    "id" : "A37011-e43340",
+    "pb" : "A37011-035-a",
+    "speaker" : "Squeam ."
+  }, {
+    "id" : "A37011-e43370",
+    "pb" : "A37011-035-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e43470",
+    "pb" : "A37011-035-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e43500",
+    "pb" : "A37011-035-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e43560",
+    "pb" : "A37011-035-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e43600",
+    "pb" : "A37011-035-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e43740",
+    "pb" : "A37011-035-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e43770",
+    "pb" : "A37011-035-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e43840",
+    "pb" : "A37011-035-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e43940",
+    "pb" : "A37011-035-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e43980",
+    "pb" : "A37011-035-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e44020",
+    "pb" : "A37011-035-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e44070",
+    "pb" : "A37011-035-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e44140",
+    "pb" : "A37011-035-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e44170",
+    "pb" : "A37011-035-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e44220",
+    "pb" : "A37011-035-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e44250",
+    "pb" : "A37011-035-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e44280",
+    "pb" : "A37011-035-b",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e44310",
+    "pb" : "A37011-035-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e44350",
+    "pb" : "A37011-035-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e44400",
+    "pb" : "A37011-035-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e44430",
+    "pb" : "A37011-035-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e44470",
+    "pb" : "A37011-035-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e44580",
+    "pb" : "A37011-036-a",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e44620",
+    "pb" : "A37011-036-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e44660",
+    "pb" : "A37011-036-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e44740",
+    "pb" : "A37011-036-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e44780",
+    "pb" : "A37011-036-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e44810",
+    "pb" : "A37011-036-a",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e44870",
+    "pb" : "A37011-036-a",
+    "speaker" : "Fred."
+  }, {
+    "id" : "A37011-e44920",
+    "pb" : "A37011-036-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e44960",
+    "pb" : "A37011-036-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e44990",
+    "pb" : "A37011-036-a",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e45030",
+    "pb" : "A37011-036-a",
+    "speaker" : "Sir Quib."
+  }, {
+    "id" : "A37011-e45100",
+    "pb" : "A37011-036-a",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e45140",
+    "pb" : "A37011-036-a",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e45190",
+    "pb" : "A37011-036-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e45220",
+    "pb" : "A37011-036-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e45280",
+    "pb" : "A37011-036-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e45330",
+    "pb" : "A37011-036-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e45360",
+    "pb" : "A37011-036-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e45400",
+    "pb" : "A37011-036-b",
+    "speaker" : "T. Rom."
+  }, {
+    "id" : "A37011-e45430",
+    "pb" : "A37011-036-b",
+    "speaker" : "Sir Char."
+  }, {
+    "id" : "A37011-e45470",
+    "pb" : "A37011-036-b",
+    "speaker" : "Guiac ."
+  }, {
+    "id" : "A37011-e45510",
+    "pb" : "A37011-036-b",
+    "speaker" : "Hotsp."
+  }, {
+    "id" : "A37011-e45540",
+    "pb" : "A37011-036-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e45600",
+    "pb" : "A37011-036-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e45630",
+    "pb" : "A37011-036-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e45660",
+    "pb" : "A37011-036-b",
+    "speaker" : "Quick ."
+  }, {
+    "id" : "A37011-e45690",
+    "pb" : "A37011-036-b",
+    "speaker" : "Marm."
+  }, {
+    "id" : "A37011-e45720",
+    "pb" : "A37011-036-b",
+    "speaker" : "Fulvia ."
+  }, {
+    "id" : "A37011-e45750",
+    "pb" : "A37011-036-b",
+    "speaker" : "Soph."
+  }, {
+    "id" : "A37011-e45780",
+    "pb" : "A37011-037-a",
+    "speaker" : "Fulvia ."
+  } ]
+}
