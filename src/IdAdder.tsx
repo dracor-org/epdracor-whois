@@ -47,8 +47,12 @@ export default function IdAdder({ speaker }: Props) {
       renderInput={(params) => (
         <TextField {...params} size="small" sx={{ minWidth: '120px' }} />
       )}
+      noOptionsText="No speaker IDs available. Add particDesc entries first!"
+      autoComplete={true}
+      autoSelect={true}
       onChange={(e, v) => setValue(v)}
       onKeyPress={onKeyPress}
+      sx={{ marginX: 0.5 }}
     />
   );
 }
