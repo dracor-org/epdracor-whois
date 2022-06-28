@@ -4,7 +4,7 @@ import Box from '@mui/material/Box';
 import Link from '@mui/material/Link';
 import { speechesBySpeakerQuery } from './state';
 import { Speech } from './types';
-import { makeEpUrl } from './utils';
+import { makeEpUrl, stripEpId } from './utils';
 
 interface Props {
   speaker: string;
@@ -48,8 +48,4 @@ function SpeechLink({ speech: { id, pb, who } }: { speech: Speech }) {
       {stripEpId(id)}
     </Link>
   );
-}
-
-function stripEpId(id: string) {
-  return id.replace(/^[^-]+-/, '');
 }

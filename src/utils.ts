@@ -27,3 +27,7 @@ export function makeEpUrl(playId: string, pb?: string): string {
   }
   return url;
 }
+
+export function stripEpId(id: string) {
+  return id.replace(/^[^-]+-/, '');
+}
