@@ -1,6 +1,8 @@
 # Who is @who in EPDraCor
 
-Indentifying speakers in the [EarlyPrint Drama Corpus](https://github.com/dracor-org/epdracor).
+Identifying speakers in the [EarlyPrint Drama Corpus](https://github.com/dracor-org/epdracor).
+
+https://dracor-org.github.io/epdracor-whois
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
