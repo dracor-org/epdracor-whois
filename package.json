@@ -38,7 +38,9 @@
     "lint": "eslint src",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "preversion": "./scripts/preversion.sh && react-scripts test --watchAll=false && react-scripts build",
+    "postversion": "git push && git push origin v$npm_package_version"
   },
   "eslintConfig": {
     "extends": [

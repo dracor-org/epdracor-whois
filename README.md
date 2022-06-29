@@ -40,3 +40,16 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `yarn deploy`
 
 Builds the app and deploys it to https://dracor-org.github.io/epdracor-whois/.
+
+### `yarn version`
+
+Changes the version number in `package.json`, commits the changes, creates a tag
+and pushes the commit and the tag to the `origin` remote. To make sure only
+correct code is being tagged, a `preversion` script also runs `yarn test` and
+`yarn build` before  actually bumping the version.
+
+By default you will be asked to enter a new version number. With the commands
+`yarn version --patch`, `yarn version --minor`, or `yarn version --major` the
+respective part of the version number is incremented automatically. (See the
+[yarn documentation](https://classic.yarnpkg.com/en/docs/cli/version/) for
+details.)
