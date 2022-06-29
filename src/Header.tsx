@@ -3,6 +3,7 @@ import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import { Link } from 'react-router-dom';
+import pkg from '../package.json';
 import { currentPlayIdState } from './state';
 import DownloadButton from './DownloadButton';
 
@@ -19,6 +20,7 @@ export default function Header() {
             flexGrow: 1,
             '& > a': { color: 'white', textDecoration: 'none' },
           }}
+          title={`Version ${pkg.version}`}
         >
           <Link to="/">Who is @who in EPDraCor</Link>
         </Typography>
