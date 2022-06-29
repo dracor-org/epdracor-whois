@@ -5,12 +5,14 @@ import axios from 'axios';
 import Box from '@mui/material/Box';
 import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
+import Link from '@mui/material/Link';
 import CircularProgress from '@mui/material/CircularProgress';
 import { PlayInfo } from './types';
 import { currentPlayIdState, speechesStateFamily } from './state';
 import DramatisPersonaeCmp from './DramatisPersonae';
 import ParticDesc from './ParticDesc';
 import SpeechesList from './SpeechesList';
+import { makeEpUrl } from './utils';
 
 export default function Play() {
   const { playId } = useParams();
@@ -72,8 +74,14 @@ export default function Play() {
       <Typography variant="h5" mb={1.5}>
         {info?.authors.join(' · ')}
         {': '}
-        {info?.title}
-        {` (${info.id})`}
+        {info?.title}{' '}
+        <Link
+          href={makeEpUrl(info.id)}
+          title="Open in earlyprint.org"
+          target="_blank"
+        >
+          {info.id}
+        </Link>
       </Typography>
 
       <Grid container spacing={2} sx={{ height: '100%' }}>
