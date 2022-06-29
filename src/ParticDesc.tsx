@@ -1,5 +1,5 @@
 import { useParams } from 'react-router-dom';
-import { useRecoilState } from 'recoil';
+import { useRecoilState, useSetRecoilState } from 'recoil';
 import { DragDropContext, DropResult, Droppable } from 'react-beautiful-dnd';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
@@ -9,8 +9,8 @@ import {
   DramatisPersonaeItem,
   ParticDescItem,
 } from './types';
-import { extractName, guessSex, makeId } from './utils';
-import { particDescStateFamily } from './state';
+import { extractName, guessSex, makeId, stripEpId, idToName } from './utils';
+import { particDescStateFamily, speechesStateFamily } from './state';
 import { ListContainer } from './Layout';
 import ParticDescItemCmp from './ParticDescItem';
 import ParticDescItemAdder from './ParticDescItemAdder';
@@ -29,6 +29,17 @@ function fromDramatisPersonae(items: DramatisPersonaeItem[]): ParticDescItem[] {
     });
 }
 
+function fromWhoAttributes(speeches: Speech[]): ParticDescItem[] {
+  return speeches
+    .map((s) => s.who)
+    .filter((who, i, self) => who && self.indexOf(who) === i)
+    .map((who) => ({
+      id: stripEpId(who || ''),
+      name: idToName(who || ''),
+      isGroup: false,
+    }));
+}
+
 interface Props {
   dp: DramatisPersonae;
   speeches: Speech[];
@@ -37,9 +48,22 @@ interface Props {
 export default function ParticDesc({ dp, speeches }: Props) {
   const { playId } = useParams();
   const [items, setItems] = useRecoilState(particDescStateFamily(playId));
+  const setSpeehes = useSetRecoilState(speechesStateFamily(playId));
 
   function newFromDp() {
     setItems(fromDramatisPersonae(dp.items));
+  }
+
+  function newFromWho() {
+    setItems(fromWhoAttributes(speeches));
+    setSpeehes((oldSpeeches) =>
+      oldSpeeches.map((s) => {
+        if (s.who) {
+          return { ...s, whos: [stripEpId(s.who)] };
+        }
+        return s;
+      })
+    );
   }
 
   function addItem(item: ParticDescItem) {
@@ -74,6 +98,11 @@ export default function ParticDesc({ dp, speeches }: Props) {
       {items.length === 0 && dp.items.length > 0 && (
         <Button variant="outlined" onClick={newFromDp}>
           New from Dramatis Personae
+        </Button>
+      )}
+      {items.length === 0 && speeches.some((s) => s.who) && (
+        <Button variant="outlined" onClick={newFromWho} sx={{ marginTop: 1 }}>
+          New from existing @who attributes
         </Button>
       )}
       <DragDropContext onDragEnd={onDragEnd}>
