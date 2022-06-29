@@ -44,7 +44,13 @@ function SpeechLink({ speech: { id, pb, who } }: { speech: Speech }) {
   const url = makeEpUrl(playId, pb);
 
   return (
-    <Link href={url} underline="hover" variant="body2" target="_blank">
+    <Link
+      href={url}
+      underline="hover"
+      variant="body2"
+      target="_blank"
+      title={who || ''}
+    >
       {stripEpId(id)}
     </Link>
   );
