@@ -1,4 +1,22 @@
-import { stripEpId, idToName, guessSex } from './utils';
+import { makeId, stripEpId, idToName, guessSex } from './utils';
+
+describe('makeId', () => {
+  it('lowercases', () => {
+    expect(makeId('FooBar')).toEqual('foobar');
+  });
+  it('handles numbers', () => {
+    expect(makeId('Foo 123')).toEqual('foo-123');
+  });
+  it('replaces non alphanumeric caracters with single dash', () => {
+    expect(makeId('Foo, Bar')).toEqual('foo-bar');
+  });
+  it('prefixes leading numbers', () => {
+    expect(makeId('56 Foo')).toEqual('_56-foo');
+  });
+  it('strips leading or trailing dashes', () => {
+    expect(makeId('.Foo %')).toEqual('foo');
+  });
+});
 
 describe('stripEpId', () => {
   it('strips ID', () => {

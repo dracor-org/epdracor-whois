@@ -21,7 +21,12 @@ export function idToName(id: string): string {
 }
 
 export function makeId(name: string) {
-  return name.toLowerCase().replace(/[^a-z]+/g, '-');
+  return name
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^([0-9])/, '_$1')
+    .replace(/(^-|-$)/g, '');
 }
 
 export function guessSex(name: string) {
