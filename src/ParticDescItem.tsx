@@ -1,4 +1,4 @@
-import { useRecoilState } from 'recoil';
+import { useRecoilState, useRecoilValue } from 'recoil';
 import { useParams } from 'react-router-dom';
 import { Draggable } from 'react-beautiful-dnd';
 import Card from '@mui/material/Card';
@@ -15,7 +15,7 @@ import MaleIcon from '@mui/icons-material/Male';
 import ReplayIcon from '@mui/icons-material/Replay';
 import QuestionMarkIcon from '@mui/icons-material/QuestionMark';
 import { ParticDescItem, Sex } from './types';
-import { particDescStateFamily } from './state';
+import { particDescStateFamily, selectParticDescIds } from './state';
 import Editable from './Editable';
 import { makeId } from './utils';
 
@@ -28,8 +28,14 @@ export default function ParticDescItemCmp({ item }: Props) {
   const { playId } = useParams();
   const [items, setItems] = useRecoilState(particDescStateFamily(playId));
   const index = items.findIndex((listItem) => listItem === item);
+  const currentIds = useRecoilValue(selectParticDescIds);
 
   function save(update: Partial<ParticDescItem>) {
+    if (update.id && update.id !== item.id && currentIds.includes(update.id)) {
+      // eslint-disable-next-line no-console
+      console.log('duplicate ID', update);
+      return;
+    }
     const newItems = replaceItemAtIndex(items, index, { ...item, ...update });
     setItems(newItems);
   }
@@ -56,6 +62,16 @@ export default function ParticDescItemCmp({ item }: Props) {
   function handleDelete() {
     const newItems = removeItemAtIndex(items, index);
     setItems(newItems);
+  }
+
+  function idValid(str: string): boolean {
+    if (str !== id && currentIds.includes(str)) {
+      return false;
+    }
+    if (!str.match(/^[a-z0-9]([-a-z0-9]*[a-z0-9])?$/i)) {
+      return false;
+    }
+    return true;
   }
 
   const showReload = id !== makeId(name);
@@ -99,17 +115,21 @@ export default function ParticDescItemCmp({ item }: Props) {
               </IconButton>
               <Editable
                 text={id}
+                validate={idValid}
                 onChange={(newId) => save({ id: newId })}
                 render={(text) => <Chip label={text} size="small" />}
               />
               {showReload && (
                 <Tooltip title="Update ID">
-                  <IconButton
-                    size="small"
-                    onClick={() => save({ id: makeId(name) })}
-                  >
-                    <ReplayIcon fontSize="small" sx={{ fontSize: 12 }} />
-                  </IconButton>
+                  <span>
+                    <IconButton
+                      size="small"
+                      disabled={currentIds.includes(makeId(name))}
+                      onClick={() => save({ id: makeId(name) })}
+                    >
+                      <ReplayIcon fontSize="small" sx={{ fontSize: 12 }} />
+                    </IconButton>
+                  </span>
                 </Tooltip>
               )}
               <br />

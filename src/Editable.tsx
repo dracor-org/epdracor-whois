@@ -6,11 +6,18 @@ import { SxProps } from '@mui/material';
 interface Props {
   text: string;
   onChange: (text: string) => void;
+  validate?: (text: string) => boolean;
   render?: (text: string) => any;
   sx?: SxProps;
 }
 
-export default function Editable({ text, onChange, render, sx }: Props) {
+export default function Editable({
+  text,
+  sx,
+  onChange,
+  render,
+  validate,
+}: Props) {
   const [editMode, setEditMode] = useState(false);
   const [value, setValue] = useState(text);
 
@@ -23,12 +30,15 @@ export default function Editable({ text, onChange, render, sx }: Props) {
     onChange(value);
   }
 
+  const isValid = validate ? validate(value) : true;
+
   return (
     <>
       {editMode ? (
         <TextField
           autoFocus
           value={value}
+          error={!isValid}
           onBlur={save}
           onChange={editText}
           onKeyPress={(e) => e.key === 'Enter' && save()}
@@ -37,7 +47,7 @@ export default function Editable({ text, onChange, render, sx }: Props) {
         />
       ) : (
         <Box onClick={() => setEditMode(true)} component="span">
-          {render ? render(value) : value}
+          {render ? render(text) : text}
         </Box>
       )}
     </>
